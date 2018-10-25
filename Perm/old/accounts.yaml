@@ -1,0 +1,203 @@
+- Claire529IL:
+    - Claire529ILReceipt
+    - Claire529ILGiftReceipt
+    - Claire529ILCharges
+    - Claire529ILInterest
+    - Claire529ILOpeningBalance
+
+- Claire529NY:
+    - Claire529NYReceipt
+    - Claire529NYGiftReceipt
+    - Claire529NYCharges
+    - Claire529NYInterest
+    - Claire529NYOpeningBalance
+
+- Charlie529IL:
+    - Charlie529ILReceipt
+    - Charlie529ILGiftReceipt
+    - Charlie529ILCharges
+    - Charlie529ILInterest
+    - Charlie529ILOpeningBalance
+
+- Home:
+    - Mortgage
+    - HomeDownPayment
+
+- Fidelity:
+    - FidelityOpeningBalance
+    - FidelityPayrollContribution
+    - FidelityCompanyContribution
+    - FidelityLongTermCapitalGains
+    - FidelityDividends
+    - FidelityShortTermCapitalGains
+    - FidelityReinvestment
+    - FidelitySummary
+
+- TIAAFNAL:
+    - TIAAFNALThomasOpeningBalance
+    - TIAAFNALThomasContribution
+    - TIAAFNALThomasTransfer
+    - TIAAFNALThomasInterest
+    - TIAAFNALThomasConversion
+
+      
+- VanguardThomas:
+    - VanguardColumbiaOpeningBalance
+    - VanguardColumbiaInterest
+    - VanguardColumbiaCharges
+    - VanguardColumbiaContribution
+    - Vanguard401kThomasOpeningBalance
+    - Vanguard401kThomasInterest
+    - Vanguard401kThomasCharges
+    - Vanguard401kThomasContribution
+    - VanguardRothIRAThomasOpeningBalance
+    - VanguardRothIRAThomasInterest
+    - VanguardRothIRAThomasCharges
+    - VanguardRothIRAThomasContributionReceipt
+    - VanguardRetirementThomasOpeningBalance
+    - VanguardRetirementThomasInterest
+    - VanguardRetirementThomasCharges
+    - VanguardRetirementThomasContributionReceipt
+    - VanguardTradIRAThomasOpeningBalance
+    - VanguardTradIRAThomasInterest
+    - VanguardTradIRAThomasCharges
+    - VanguardTradIRAThomasContributionReceipt
+
+
+
+- VanguardRuth:
+    - VanguardRothIRARuthOpeningBalance
+    - VanguardRothIRARuthInterest
+    - VanguardRothIRARuthCharges
+    - VanguardRothIRARuthContributionReceipt
+    - VanguardRetirementRuthOpeningBalance
+    - VanguardRetirementRuthInterest
+    - VanguardRetirementRuthCharges
+    - VanguardRetirementRuthContributionReceipt
+    - VanguardTradIRARuthOpeningBalance
+    - VanguardTradIRARuthInterest
+    - VanguardTradIRARuthCharges
+    - VanguardTradIRARuthContributionReceipt
+
+
+- Savings:
+    - HSBCSavingsPayment
+    - HSBCSavingsReceipt
+    - HSBCSavingsInterest
+    - HSBCOpeningBalance
+    
+
+- Income:
+    - SalaryRuth:
+        - RuthSalaryBNL
+        - RuthSalaryFNAL
+    - SalaryThomas:
+        - ThomasSalaryBNL
+        - ThomasSalaryFNAL
+        - ThomasSalaryColumbia
+        - ThomasSalaryOpenData
+        - ThomasSalaryKarvy
+    - Credit:
+        - CreditCardPayment
+        - CreditBonus
+    - Bank:
+        - ChaseOpeningBalance
+    - Gifts:
+        - GiftsReceived
+    - Random:
+        - Cash
+        - Todo
+    - Taxes:
+        - Taxes
+        - TaxRefund
+    - VanguardRuth:
+        - VanguardRothIRARuthContributionPayment
+        - VanguardRetirementRuthContributionPayment
+        - VanguardTradIRARuthContributionPayment
+    - VanguardThomas:
+        - VanguardRothIRAThomasContributionPayment
+        - VanguardRetirementThomasContributionPayment
+        - VanguardTradIRAThomasContributionPayment
+    - Claire529IL:
+        - Claire529ILPayment
+    - Claire529NY:
+        - Claire529NYPayment
+    - Charlie529IL:
+        - Charlie529ILPayment
+        
+
+- Corrections:
+    - Credit:
+        - MissingCreditCorrection
+        - MissingHSBCCorrection
+
+    
+        
+- Spending:    
+    - Auto:
+        - Registration
+        - Service
+        - CarPayment
+        - License
+        - Fines
+        - Tolls
+        - Fuel
+        - CarInsurance
+        - CarInsuranceBonus
+      
+    - Education:
+        - MiscSchool
+        - ChildCare
+        - Tuition
+    
+    - Home:
+        - SecurityDeposit
+        - GasElectric
+        - MovingStorage
+        - Rent
+        - HomeRepairs
+    
+    - Household:
+        - General
+        - Hair
+        - Clothing
+        - Phone
+        - TVInternet
+        - Furniture
+        - Laundry
+    
+    - Food:
+        - Alcohol
+        - Groceries
+        - Dining
+        - Coffee
+    
+    - Fun:
+        - Vacation
+        - Entertainment
+        - Travel
+        - Recreation
+    
+    - Work:
+        - WorkTravel
+    
+    - Medical:
+        - Medicine
+        - Dental
+        - Doctor
+        - Hospital
+    
+    - Gifts:
+        - Charity
+        - GiftsGiven
+        - GiftReceived
+        
+
+    - Credit:
+        - CreditFee
+        - CreditCardReceipt
+        
+    - Bank:
+        - CreditOpeningBalance
+        - BankCharge
+        - ATMFee

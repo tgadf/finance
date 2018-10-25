@@ -1,0 +1,7345 @@
+'1020':
+  category: Dining
+  corrections:
+  - '1020'
+107WestRestaurant:
+  category: Dining
+  corrections:
+  - 107_West_Restaurant
+18thJudicialCircuit:
+  category: Fines
+  corrections:
+  - 18TH_JUDICIAL_CIRCUIT_630
+213Cafe:
+  category: Dining
+  corrections:
+  - 213_CAFE_SDX
+34thDistrictCourt:
+  category: Fines
+  corrections:
+  - 34TH_DISTRICT_COURT
+  - MPS_-_CONV_FEE
+529Payment:
+  category: Todo
+  corrections:
+  - IL_529_Plan___ACH
+  - Newyork_529_ACH_
+  - Newyork_529_ACH_Contrib
+  - IL_529_Plan_ACH
+  - IL 529 Plan ACH
+  - Check_#_1148
+  - Check_#_1207
+  - College_Savings_Cspbs
+7Eleven:
+  category: Dining
+  corrections:
+  - 7-ELEVEN_
+  - 7-Eleven
+A&P:
+  category: Groceries
+  corrections:
+  - A&P
+  - AAndP
+A&W:
+  category: Dining
+  corrections:
+  - A&W_ISL
+AAA:
+  category: Service
+  corrections:
+  - AAA_NY_WEB
+  - Aaa_Membership_Ecom
+  - AAA_MS_DUES
+  - Aaa_Ny_Web_5168732343_Ny
+  - AAA_CLUB
+  - AAA
+  - Aaa_Membership
+ACLU:
+  category: Charity
+  corrections:
+  - AMERICAN_CIVIL_LIBERTIES
+AGNTFee:
+  category: WorkTravel
+  corrections:
+  - AGNT_FEE
+AMCCantera:
+  category: Entertainment
+  corrections:
+  - Amc_Cantera
+  - AMC_CANTERA
+  - AMC_NAPERVILLE
+  - AMC_WOODRIDGE
+AMPCo:
+  category: WorkTravel
+  corrections:
+  - AMPCO_PARKING
+AT&T:
+  category: Entertainment
+  corrections:
+  - AT&T
+  - ATAndT
+ATA:
+  category: WorkTravel
+  corrections:
+  - ATA_AIR
+ATMDeposit:
+  category: WorkTravel
+  corrections:
+  - DEPOSIT__ID_NUMBER
+  - ATM_CHECK_DEPOSIT
+  - ATM_Check_Deposit
+  - CUSTOMER_DEPOSIT
+  - Customer_Deposit
+  - ATM_DEPOSIT_DISPUT
+  - ATM_DEPOSIT_ADJ_DR
+  - Credit_Due_To_ATM_Deposit_Dispute
+  - Deposit_
+  - Brookhaven_Scien_T1007236-B_PPD_ID:_1911774434
+ATMFee:
+  category: ATMFee
+  corrections:
+  - NON-CHASE_ATM_FEE
+  - Non-Chase_ATM_Fee
+  - Non-Chase_ATM_Fee-With
+ATMWithdrawal:
+  category: Cash
+  corrections:
+  - ATM_Withdrawal_12_Ashford_Ave_Dobbs_Ferry_NY_Card_3022
+  - ATM_Withdrawal
+  - Chase_ATM_Withdraw_Mtl_Qc_Abm_Ops
+  - ATM_WITHDRAWAL
+  - CHAS_ADV_ATM
+  - ATM-NCHG_
+  - WITHDRAWAL
+  - NON-CHASE_ATM_WITHDRAW
+  - Non-Chase ATM Withdraw
+  - Non-Chase_ATM_Withdraw
+  - 10/05_Withdrawal
+  - SETAUKET_NY
+  - PRT_JEFFERSON_NY
+  - GATCOLUMBUS_OH
+  - Customer_Withdrawal
+  - 04/11_Withdrawal
+  - 05/03_Withdrawal
+  - 07/20_Withdrawal
+  - Check_#1283
+AandW:
+  category: Dining
+  corrections:
+  - AAndW_ISL
+  - A&W
+AbeBooks.com:
+  category: Entertainment
+  corrections:
+  - ABEBOOKS.COM
+  - AbeBooks.com
+AbicaBoarsHead:
+  category: Dining
+  corrections:
+  - ABICA_BOARS_HEAD
+Acapulcos:
+  category: Vacation
+  corrections:
+  - ACAPULCOS
+AceHardware:
+  category: General
+  corrections:
+  - ACE_HARDWARE
+  - Buikemas_Ace_Hdwe
+Acqua:
+  category: Dining
+  corrections:
+  - ACQUA
+AdagioTeas:
+  category: Dining
+  corrections:
+  - ADAGIO_TEAS_
+AdcoHearingProducts:
+  category: General
+  corrections:
+  - ADCO_HEARING_PRODUCTS
+AddysDutchCafes:
+  category: Dining
+  corrections:
+  - ADDYS_DUTCH_CAFES_RES_GR
+  - Addys_Dutch
+Aeropostale:
+  category: Clothing
+  corrections:
+  - AEROPOSTALE
+AgneseMilito:
+  category: Dining
+  corrections:
+  - SQ_*AGNESE_MILITO_Chicago_IL
+AgraIndian:
+  category: Dining
+  corrections:
+  - Agra_Indian_Restaurant
+AguaVerdeCafe:
+  category: Dining
+  corrections:
+  - AGUA_VERDE_CAFE
+AirTerminalGifts:
+  category: WorkTravel
+  corrections:
+  - AIR_TERMINAL_GIFTS_SALT_LAKE_CIT_UT
+AirTran:
+  category: NormalTravel
+  corrections:
+  - Airtranai_33200533781920
+Airtastic:
+  category: Entertainment
+  corrections:
+  - AIRTASTIC
+AjantaIndian:
+  category: Dining
+  corrections:
+  - AJANTA_INDIAN
+AlamoRentACar:
+  category: WorkTravel
+  corrections:
+  - Alamo_Rent-a-car
+  - ALAMO_RENT-A-CAR
+AlbeeBabyCarriage:
+  category: Furniture
+  corrections:
+  - ALBEE_BABY_CARRIAGE_CO
+Aldi:
+  category: Groceries
+  corrections:
+  - ALDI
+  - _Aldi_
+Alertsons:
+  category: Dining
+  corrections:
+  - ALBERTSONS
+AlexandriaPastryShop:
+  category: Dining
+  corrections:
+  - ALEXANDRIA_PASTRY_SHOP
+AlfredCossariMD:
+  category: Doctor
+  corrections:
+  - ALFRED_COSSARI_MD_PC
+AlicesMountainMarket:
+  category: Groceries
+  corrections:
+  - ALICES_MOUNTAIN_MARKET
+AllChocolateKitchen:
+  category: Dining
+  corrections:
+  - ALL_CHOCOLATE_KITCHEN
+AllState:
+  category: CarInsurance
+  corrections:
+  - AIC*ALLST_VEH&PROP_INS
+  - ALLSTATE
+  - All_State
+  - Allstate
+  - Check_#1255
+  - Check_#1256
+AllStateInsurance:
+  category: CarInsurance
+  corrections:
+  - AIC*ALLST_VEHAndPROP_INS
+AllianceOne:
+  category: Cash
+  corrections:
+  - ALLIANCEONE_RECEIVABLE
+Allium:
+  category: Clothing
+  corrections:
+  - Allium
+  - ALLIUM
+AlohaPokeRevival:
+  category: Entertainment
+  corrections:
+  - ALOHA_POKE_REVIVAL_LLC
+Altrec:
+  category: Clothing
+  corrections:
+  - ALTREC
+  - ALT*ALTREC.COM_OUTDOOR
+Amaco:
+  category: Fuel
+  corrections:
+  - GM_38_WARRENVILLE
+Amazon:
+  category: Entertainment
+  corrections:
+  - Amazon.com
+  - amzn.com
+  - AMZ*Woot
+AmazonFashion:
+  category: Clothing
+  corrections:
+  - Endless.com
+AmazonGiftCards:
+  category: GiftsGiven
+  corrections:
+  - AMZ*GIFTCARDS
+AmazonKindle:
+  category: Entertainment
+  corrections:
+  - Amazon_Services-Kindle
+  - Amazon_Services-Kindl
+AmazonMarketplace:
+  category: General
+  corrections:
+  - AMAZON_MKTPLACE_PMTS
+  - Amazon_Mktplace
+AmazonPrime:
+  category: General
+  corrections:
+  - AmazonPrime_Membership
+  - Amazon_Prime
+AmericaBar&Grill:
+  category: Dining
+  corrections:
+  - AMERICA_BAR_&_GRILL_GM
+  - AmericaBarAndGrill
+AmericanAirlines:
+  category: WorkTravel
+  corrections:
+  - AMERICAN_AI_0017591554247
+  - American__00
+  - AMERICAN___00
+  - AMERICAN_AI_
+  - AMERICAN__00
+  - AMERICAN_00
+  - AMERICAN_AIR
+AmericanBluePrivate:
+  category: WorkTravel
+  corrections:
+  - AMERICAN_BLUE_PRIVATE
+AmericanEagleOutfitters:
+  category: Clothing
+  corrections:
+  - A_EAGLE_OUTFTR00007450
+  - A_EAGLE_OUTFTR
+AmericanFidelityMortage:
+  category: Mortgage
+  corrections:
+  - AMERICAN_FIDELITY_MORT
+AmericanLungAssociation:
+  category: Charity
+  corrections:
+  - AMERICAN_LUNG_ASSOCIAT
+AmericanPhysicalSociety:
+  category: WorkTravel
+  corrections:
+  - The_Americn_Physical_S_College_Park_Md
+AmericanTaxi:
+  category: WorkTravel
+  corrections:
+  - American_Taxi
+  - AMERICAN_TAXI
+  - AMERICAN_TAPXI
+Amerispec:
+  category: HomeDownPayment
+  corrections:
+  - AmeriSpec
+  - Check_#_1208
+AmirsFalafel:
+  category: Dining
+  corrections:
+  - Amir's_Falafel
+  - AMIR'S_FALAFEL
+AmocoOil:
+  category: Fuel
+  corrections:
+  - AMOCO_OIL
+  - Amoco_Oil
+AmsterdamCafe:
+  category: Dining
+  corrections:
+  - Amsterdam_Cafe
+Amtrack:
+  category: WorkTravel
+  corrections:
+  - Amtrak
+  - AMTRAK
+AmysHallmark:
+  category: Entertainment
+  corrections:
+  - AMYS_HALLMARK
+  - AMY'S_HALLMARK
+AnUncommonCafe:
+  category: Dining
+  corrections:
+  - AN_UNCOMMON_CAFE@DOEG
+  - AN_UNCOMMON_CAFE_AT_DO_GERMANTOWN_MD
+AnabananaKids:
+  category: Clothing
+  corrections:
+  - ANABANANA_KIDS
+AndParadiseBakeryAndCafe:
+  category: Dining
+  corrections:
+  - AndPARADISE_BAKERYAndCAFE_ASPEN_CO
+AndUniversityGrillAndPizza:
+  category: WorkTravel
+  corrections:
+  - AndUNIVERSITY_GRILL_And_PIZ_BOSTON_MA
+AndaleMexican:
+  category: Dining
+  corrections:
+  - ANDALE_MEX_REST_T_3
+AndersonPlumbing:
+  category: HomeRepairs
+  corrections:
+  - Check_#_1081
+  - ANDERSEN_PLUMBI
+AndersonsBookstore:
+  category: Entertainment
+  corrections:
+  - ANDERSONS_BKS
+  - Andersons
+AndersonsBrookfair:
+  category: Entertainment
+  corrections:
+  - ANDERSONS_BOOKFAIR_CO
+AndreasSkro:
+  category: Clothing
+  corrections:
+  - ANDREASSKRO
+AndronicosMarketPaloAlto:
+  category: WorkTravel
+  corrections:
+  - ANDRONICOS_MARKET_8
+AngiesList:
+  category: General
+  corrections:
+  - ANJI_402-935-7733_CA
+  - ANGIES_LIST
+AnnReidSchool:
+  category: MiscSchool
+  corrections:
+  - AnnReidSchool
+  - Check_#_1206
+  - Check_#_1210
+  - Check_#_1025
+AnnTaylor:
+  category: Clothing
+  corrections:
+  - ANNTAYLOR_LOFT.COM
+  - ANN_TAYLOR
+  - Ann_Taylor
+  - ANNTAYLOR_LOFT
+  - ANNTAYLOR.COM
+  - LOFT
+Anthem:
+  category: ThomasSalaryAnthem
+  corrections:
+  - Anthem_Compa_Payroll
+AnthemTravel:
+  category: WorkTravel
+  corrections:
+  - Anthem_Associate_E-Payment
+ApolloTaxi:
+  category: WorkTravel
+  corrections:
+  - SQ_*APOLLO_TAXI_LLC
+AppleBees:
+  category: Dining
+  corrections:
+  - APPLEBEES
+  - Applebees_
+  - Applebees
+AppleStore:
+  category: Entertainment
+  corrections:
+  - APPLEONLINESTOREUS
+  - APPLE_ITUNES_STORE
+  - Apple_Store
+  - APPLE_STORE
+Appletree:
+  category: Groceries
+  corrections:
+  - APPLETREE_SUPERMAR
+  - Appletree_
+  - APPLETREE_SU
+Arabugg:
+  category: General
+  corrections:
+  - ARABUGG75
+Aramark:
+  category: Dining
+  corrections:
+  - ARAMARK
+  - Aramark
+Arbys:
+  category: Dining
+  corrections:
+  - ARBYS_
+  - ARBYS_9520
+  - ARBYS
+  - ARBY'S
+ArgoTea:
+  category: Dining
+  corrections:
+  - ARGO_TEA
+  - ArgoTea
+  - Argo_Tea
+ArgonneNationalLab:
+  category: WorkTravel
+  corrections:
+  - ACT*ANL-HEP
+ArianaAndZehra:
+  category: Fuel
+  corrections:
+  - ARIANA_And_ZEHRA_CORPQ39_CORAM_NY
+Aripos:
+  category: Dining
+  corrections:
+  - ARIPOS_OAK_PARK_IL
+AristosGreekRestaurant:
+  category: WorkTravel
+  corrections:
+  - ARISTOS_GREEK_RESTAUR_SALT_LAKE_CIT_UT
+ArniesPizza:
+  category: Dining
+  corrections:
+  - Arnies_Pizza
+AromasSpecialtyCoffee:
+  category: Coffee
+  corrections:
+  - Aromas_Specialty_Coffe
+ArteCafe:
+  category: Dining
+  corrections:
+  - ARTE_CAFE
+ArtopolisCafe:
+  category: Dining
+  corrections:
+  - ARTOPOLIS_CAFE
+  - Artopolis_Cafe
+AshevilleParkingGarage:
+  category: Vacation
+  corrections:
+  - ASHEVILLE_PRKG_WALL_ST_GA_ASHEVILLE_NC
+AsianChao:
+  category: Dining
+  corrections:
+  - Asian_Chao
+  - ASIAN_CHAO
+Asics:
+  category: Clothing
+  corrections:
+  - ASICS_AMERICA.COM
+Asie:
+  category: WorkTravel
+  corrections:
+  - ASIE
+AspenBarAndGrill:
+  category: WorkTravel
+  corrections:
+  - ASPEN_BAR_And_GRILL_ASPEN_CO
+  - ASPEN_BAR_&_GRILL
+AspenBrewingCompany:
+  category: WorkTravel
+  corrections:
+  - ASPEN_BREWING_COMPANY
+AspenCenterForPhysics:
+  category: WorkTravel
+  corrections:
+  - ASPEN_CENTER
+AspenMeadowsResort:
+  category: WorkTravel
+  corrections:
+  - ASPEN_MEADOWS_RESORT
+AspenOverEasyCafe:
+  category: WorkTravel
+  corrections:
+  - ASPEN_OVER_EASY_CAFE
+AspenSkiing:
+  category: Vacation
+  corrections:
+  - ASPEN_SKIING
+Ath2017TheChampion:
+  category: Recreation
+  corrections:
+  - ATH-2017-THE-CHAMPION-_888-600-2298_CO
+Athleta:
+  category: Clothing
+  corrections:
+  - ATHLETA_RETAIL
+  - ATHLETA_US
+  - Athleta
+AthletaOnline:
+  category: Clothing
+  corrections:
+  - ATHLETA_ONLINE
+AtlantaAirport:
+  category: Vacation
+  corrections:
+  - ATLANTA_AIRPORT_ATLANTA_GA
+  - ATL_AIRP_MIDTOWN_ATLANTA_GA
+AtlantaBravesAllStarGrill:
+  category: Vacation
+  corrections:
+  - ATL_BRAVES_ALLSTAR_GRL_ATLANTA_GA
+AtlantaBread:
+  category: Dining
+  corrections:
+  - ATLANTA_BREAD
+  - Atlanta_Bread_Co
+AuBonPain:
+  category: Dining
+  corrections:
+  - S_STATION_AUBONPAIN_51
+  - U_CHIC_HOS_AUBONPAIN_1
+  - LAGUARDIAAUBONPAIN793A
+  - Au_Bon_Pain
+  - UCHICHOSP_AUBONPAIN_79
+  - PHILLY_AIR_AUBONPAIN_2
+  - AUBONPAIN
+AuntieAnnes:
+  category: Dining
+  corrections:
+  - AUNTIE_ANNE'S
+  - AUNTIE_ANNES
+AutoZone:
+  category: Service
+  corrections:
+  - AUTOZONE
+AvantiCaffe:
+  category: Dining
+  corrections:
+  - AVANTI_CAFFE
+Aveda:
+  category: Hair
+  corrections:
+  - Aveda_Inst_Ny/spring_S
+BANKATM:
+  category: Cash
+  corrections:
+  - 1962_MIDDLE_COUNTRY_RD
+  - 19_WEST_JEFFERSON
+  - 464_MAIN_STREET
+  - 2139_BROADWAY
+  - 200_S_Central_Campus
+  - 430_ROUTE_25A
+  - 120_Main_St
+  - 120_MAIN_ST
+  - 2875_BROADWAY
+  - 350_WEST_125TH_STREET_NEW_YORK
+  - 389_Route_25A_
+  - 60_NORTH_COUNTRY_ROAD
+  - 1767_W.OGDEN_AVE
+  - 08/10_Withdrawal
+BCCC30thStreet:
+  category: Dining
+  corrections:
+  - ccc_-_30Th_Street
+BNLChildCare:
+  category: ChildCare
+  corrections:
+  - BNLChildCareA
+  - To_Chi
+  - Check_#_1181
+  - Check_#_1182
+BNLTravel:
+  category: WorkBNLReimbursement
+  corrections:
+  - BNLTravel
+BNLTravelReimbursement:
+  category: WorkTravel
+  corrections:
+  - Bnl       Payment PPD
+BNLWorkTravel:
+  category: WorkTravel
+  corrections:
+  - BNL______________PAYMENT
+  - Bnl_Payment
+BPOil:
+  category: Fuel
+  corrections:
+  - Bp_OIL
+  - WARRENVILLE_BP
+  - 1429_TAJANY
+  - 1410_CRAIGS_AUTO_LISLE_IL
+  - BP_ATLAS_1426
+  - 1426_NAPERVILLE
+  - Bp_Oil
+  - TAJANY_BP
+  - 1408_TEHMINA_CRP
+  - BP#
+BPStore:
+  category: Dining
+  corrections:
+  - BOOK_BP
+  - BP_AM/PM_STORE
+BROil:
+  category: Vacation
+  corrections:
+  - B_&_R_OIL_704
+BabiesRUs:
+  category: General
+  corrections:
+  - TOYSRUS-BABIESRUS
+  - BABIES_R_US
+BabyAge:
+  category: General
+  corrections:
+  - BABYAGE*ONLINE
+BabyBoomerConstruction:
+  category: HomeRepairs
+  corrections:
+  - Check_#_1229
+BabyCatalog:
+  category: Clothing
+  corrections:
+  - baby_catalog
+BabyCatalog.com:
+  category: Clothing
+  corrections:
+  - BABY_CATALOG.COM
+BahariSaid:
+  category: WorkTravel
+  corrections:
+  - BAHARI_SAID_SeaTac
+Baileys:
+  category: Dining
+  corrections:
+  - BAILEY'S_REST
+BallFactory:
+  category: Entertainment
+  corrections:
+  - BALL_FACTORY
+BancaMilan:
+  category: WorkTravel
+  corrections:
+  - _Unicredit_Banca_Spa_Milan
+BandROil:
+  category: Fuel
+  corrections:
+  - B_And_R_OIL_704
+BankServiceFee:
+  category: BankCharge
+  corrections:
+  - Monthly_Service_Fee
+BankokVillage:
+  category: Dining
+  corrections:
+  - BANKOK_VILLAGE
+Bar515:
+  category: Dining
+  corrections:
+  - Bar_515
+BarLouie:
+  category: Dining
+  corrections:
+  - BAR_LOUIE
+  - Bar_Louie
+BarbsGarden:
+  category: Dining
+  corrections:
+  - BARBS_GARDEN_And_PANTR
+  - Barbs_Garden_And_Pan
+BarleysTaproom:
+  category: Vacation
+  corrections:
+  - BARLEYS_TAPROOM_
+  - BARLEYS_TAPROOM_And_PIZZERI
+BarnesAndNoble:
+  category: General
+  corrections:
+  - BARNESAndNOBLE
+  - Barnes_&_Noble
+  - BARNESNOBLE
+  - BARNES_&_NOBLE
+  - BARNES&NOBLE
+  - BARNES_And_NOBLE
+  - Barnesnoble
+BarnumEq.:
+  category: Rent
+  corrections:
+  - Barnum_Eq.
+  - To_Bar
+  - Check_#_1192
+  - Check_#_1215
+  - Check_#_1198
+  - Check_#1284
+  - Check_#1251
+  - Check_#1252
+  - Check_#_1155
+  - Check_#_1156
+  - Check_#1154
+  - Check_#1257*
+  - Check_#1153
+  - Check_#_1265
+  - Check_#_1146
+  - Check_#_1057
+  - Check_#_1147
+BarnumHouseLaundry:
+  category: Laundry
+  corrections:
+  - BarnumHouseLaundry
+  - Check_#_1285
+  - Check_#_1212
+  - Check_#_1149
+  - Check_#_1184
+  - Check_#_1150
+  - Check_#_1185
+  - Check_#_1186
+  - Check_#_1211
+  - Check_#_1187
+  - Check_#_1188
+  - Check_#_1288
+  - Check_#_1289
+BarrelAndRye:
+  category: Dining
+  corrections:
+  - BARREL_And_RYE
+BassProShop:
+  category: Recreation
+  corrections:
+  - BASS_PRO_SHOPS
+BassRiverLiquors:
+  category: Vacation
+  corrections:
+  - BASS_RIVER_LIQUORS
+BathAndBodyWorks:
+  category: General
+  corrections:
+  - BATH_And_BODY_WORKS
+  - BATHANDBODYWORKS
+BeaconWines:
+  category: Dining
+  corrections:
+  - BEACON_WINES_&_SPIRITS
+BeanAndBagel:
+  category: Dining
+  corrections:
+  - BEAN_AND_BAGEL
+BedBathAndBeyond:
+  category: General
+  corrections:
+  - Bed_Bath_&_Beyond
+BeerShop:
+  category: Dining
+  corrections:
+  - GP*BEERSHOP_OAK_PARK
+BenAndJerrys:
+  category: Dining
+  corrections:
+  - BEN_And_JERRYS_SCOO_QAE_HUNTINGTON_NY
+  - AndBEN_And_JERRYS_DENVER_CO
+  - BEN_&_JERRY'S
+  - BEN_And_JERRYS
+BenPao:
+  category: Dining
+  corrections:
+  - BEN_PAO
+  - Ben_Pao
+BenjaminMoore:
+  category: General
+  corrections:
+  - J.C._LICHT/NAPERVILLE
+  - BENJAMIN_MOORE_E-PAINT
+Benyehuda:
+  category: Dining
+  corrections:
+  - BENJYEHUDA_
+BestBuy:
+  category: General
+  corrections:
+  - Best_Buy_Mht
+  - BEST_BUY
+  - BESTBUY.COM
+  - Best_Buy
+BestWestern:
+  category: Vacation
+  corrections:
+  - Bestwestern
+BigTimeBrewery:
+  category: Dining
+  corrections:
+  - BIG_TIME_BREWERY
+BiggbyCoffee:
+  category: Coffee
+  corrections:
+  - BIGGBY_COFFEE
+BiltmoreFoodCart:
+  category: Vacation
+  corrections:
+  - BILTMORE_FOOD_CART_ASHEVILLE_NC
+BinnysBeverageDepot:
+  category: Groceries
+  corrections:
+  - BINNYS_BEVERAGE_DEPOT
+BistroTen:
+  category: Dining
+  corrections:
+  - Bistro_Ten_18
+BizChairOffice:
+  category: General
+  corrections:
+  - BIZCHAIR_OFFICE
+Blockbuster:
+  category: Entertainment
+  corrections:
+  - BLOCKBUSTER
+BlueCoastBurrito:
+  category: WorkTravel
+  corrections:
+  - BLUE_COAST_BURRITO
+BlueRibbonTaxi:
+  category: NormalTravel
+  corrections:
+  - BLUE_RIBBON_TAX
+BlueSkysCafe:
+  category: Dining
+  corrections:
+  - BLUE_SKYS_CAFE
+  - SQ_*BLUE_SKY_CAFE
+BlueTalonBistro:
+  category: Dining
+  corrections:
+  - Blue_Talon_Bistro_Llc
+BoardAndBarrel:
+  category: Dining
+  corrections:
+  - BOARD_And_BARREL
+BoardwalkGames:
+  category: General
+  corrections:
+  - BOARDWALK_GAMES
+BobJung:
+  category: HomeRepairs
+  corrections:
+  - BobJung
+  - 05/10_Check_#_1008
+BobbysBurgerPalace:
+  category: Dining
+  corrections:
+  - BOBBYS_BURGER_PALACE
+Bockwinkels:
+  category: WorkTravel
+  corrections:
+  - BOCKWINKELS
+Boden:
+  category: Clothing
+  corrections:
+  - BODEN
+Boingo:
+  category: Entertainment
+  corrections:
+  - boingo
+  - BWI*BOINGO
+  - BOINGOWIREL
+BoisJoly:
+  category: WorkTravel
+  corrections:
+  - REST_BOIS_JOLY
+BonAppetit:
+  category: Dining
+  corrections:
+  - BON_APPETIT
+BookAreFun:
+  category: GiftsGiven
+  corrections:
+  - BOOKS_ARE_FUN
+BookDeposit:
+  category: Entertainment
+  corrections:
+  - BOOKDEPOSIT
+Bookmans:
+  category: Dining
+  corrections:
+  - BOOKMANS
+Booth5Terminal:
+  category: WorkTravel
+  corrections:
+  - BOOTH_5_TERMINAL_GARAGE
+Bootleggers:
+  category: Vacation
+  corrections:
+  - BOOTLEGGERS_LLC
+Borders:
+  category: Entertainment
+  corrections:
+  - BORDERS_BOOKS
+  - BORDERS_BKS
+  - BORDERS_AIRPOR09007634_BALTIMORE_MD
+  - Borders_Bks
+  - Borders_Airpor
+BossBurrito:
+  category: Dining
+  corrections:
+  - BOSS_BURRITO_INC
+BostonAirport:
+  category: Cash
+  corrections:
+  - Cash-BostonAirport
+BostonCommon:
+  category: Vacation
+  corrections:
+  - BOSTON_COMMON_-_III_BOST
+  - Boston_Common_
+BostonCommonPark:
+  category: Vacation
+  corrections:
+  - BOSTON_COMMON_PARK
+BostonMBTA:
+  category: Dining
+  corrections:
+  - MC-MBTA_-_KENDALL_(RL
+BostonMarket:
+  category: Dining
+  corrections:
+  - Boston_Market
+  - BOSTON_MARKET
+BostonTaxi:
+  category: NormalTravel
+  corrections:
+  - BOS_TAXI
+BostonUniversity:
+  category: WorkTravel
+  corrections:
+  - BU_CONF_(21)
+BourbanStreetCafe:
+  category: Dining
+  corrections:
+  - BOURBON_STREET_CAFE
+BowTrussCoffee:
+  category: Coffee
+  corrections:
+  - BOW_TRUSS_COFFEE
+BreaktimeBilliards:
+  category: Dining
+  corrections:
+  - Breaktime_Billiards
+  - BREAKTIME_BILLIARDS
+BrewCamp:
+  category: GiftsGiven
+  corrections:
+  - BREW_CAMP
+BrianBoruIrishPub:
+  category: Dining
+  corrections:
+  - BRIAN_BORU_IRISH_PUB_FOREST_PARK_IL
+BrickLaneCurryHouse:
+  category: Dining
+  corrections:
+  - Brick_Lane_Curry_House
+BridgeBarAndEatIn:
+  category: WorkTravel
+  corrections:
+  - BRIDGE_BAR_And_EATIN_T3_HEATHROW_A
+BridgeBarEatin:
+  category: WorkTravel
+  corrections:
+  - BRIDGE_BAR_&_EATIN
+BridgePortAndPortJefferson:
+  category: WorkTravel
+  corrections:
+  - AndBRIDGEPORT_And_PORT_JEFF_PORT_JEFFERSO_NY
+  - BRIDGEPORT_And_PORT_JEFF_PORT_JEFFERSO_NY
+BriermereFarms:
+  category: Vacation
+  corrections:
+  - BRIERMERE_FARMS
+BriocheDoree:
+  category: Dining
+  corrections:
+  - BRIOCHE_DOREE_20254850
+BronxZoo:
+  category: Entertainment
+  corrections:
+  - BRONX_ZOO
+BrookfieldZoo:
+  category: Entertainment
+  corrections:
+  - B_Zoo-_Safari
+  - B_ZOO-_ZOOFARI
+  - B_ZOO-INTERNET
+  - BZOO-ZOOFARI_SHOPS
+  - B_Zoo-_La_Gran_Cocina
+  - B_Zoo-admissions/park
+BrookhavenNationalLab:
+  category: WorkTravel
+  corrections:
+  - BROOKHAVEN_NATIONAL
+  - BrookhavenNationalLab
+  - Check_#_1216
+  - Check_#1282*
+BrookhavenNationalLabSalary:
+  category: RuthSalaryBNL
+  corrections:
+  - Bnl/Bsa
+  - BrookhavenNationalLabSalary
+  - BNL/BSA
+BrookhavenScienceAssociates:
+  category: WorkTravel
+  corrections:
+  - Brookhaven_Scien_T723942-Br
+  - BROOKHAVEN_SCIENCE_ASS
+  - Brookhaven_Scien_T1335810-B
+  - Brookhaven_Scien_T680944-Br
+  - Brookhaven_Science_Ass
+BrooksBrothers:
+  category: Clothing
+  corrections:
+  - BROOKS_BROTHERS
+BrookstoneRetailStore:
+  category: Clothing
+  corrections:
+  - MC-BKSTN_RETAIL_STORE
+BrothersMarket:
+  category: Groceries
+  corrections:
+  - Brothers_Market
+  - BROTHERS_MARKET
+BrunswickZone:
+  category: Entertainment
+  corrections:
+  - BRUNSWICK_ZONE
+BubCity:
+  category: Dining
+  corrections:
+  - BUB_CITY
+BuckysExpress:
+  category: Dining
+  corrections:
+  - Buckys_Express
+BudgetRentACar:
+  category: WorkTravel
+  corrections:
+  - BUDGET_RENT-A-CAR
+  - BUDGET_RENT_A_CAR_TOLL
+  - BUDGET.COM
+  - BUDGET_RENT_ACAR
+BuffaloWildWings:
+  category: Dining
+  corrections:
+  - Buffalo_Wild_Wings
+  - BUFFALO_WILD_WINGS
+BuildABear:
+  category: GiftsGiven
+  corrections:
+  - BUILD-A-BEARWORKSHOP
+BullsEye:
+  category: General
+  corrections:
+  - TGTGIFTCARD/BULLSEYE
+BumpsRestaurant:
+  category: WorkTravel
+  corrections:
+  - BUMPS_RESTAURANT
+BuonItalia:
+  category: Dining
+  corrections:
+  - BUON_ITALIA
+BuonaBeef:
+  category: Dining
+  corrections:
+  - BUONA_BEEF
+BurbankAirport:
+  category: WorkTravel
+  corrections:
+  - BURBANK_AIRPORT_FOOD_AND
+BurgerKing:
+  category: Dining
+  corrections:
+  - Burger_King
+  - BURGER_KING
+BurritoBeach:
+  category: Dining
+  corrections:
+  - BURRITO_BEACH
+BurritoBistro:
+  category: Vacation
+  corrections:
+  - BURRITO_BISTRO
+BurritoElito:
+  category: Dining
+  corrections:
+  - BURRITO_ELITO
+Butera:
+  category: Groceries
+  corrections:
+  - BUTERA_MARKET
+BuyBuyBaby:
+  category: General
+  corrections:
+  - BUY_BUY_BABY
+CDOneCleaners:
+  category: Clothing
+  corrections:
+  - CD_ONE_CLEANERS
+CDSGroupInc:
+  category: WorkTravel
+  corrections:
+  - C_D_S_Group_Inc_Pasadena_CA
+CERN:
+  category: WorkTravel
+  corrections:
+  - TPG_CERN_Grand-Lancy
+CERNHostel:
+  category: WorkTravel
+  corrections:
+  - Cern_Foyer-Hotel
+  - Cern_Foyer-H_tel
+  - CernHostel
+CHS@SFO:
+  category: Dining
+  corrections:
+  - CHS_@_SFO
+CMEOnline:
+  category: Doctor
+  corrections:
+  - CME_ONLINE
+CMSVENDLLC:
+  category: Dining
+  corrections:
+  - CMSVEND*MWJ._LLC
+CPZRestaurant:
+  category: Dining
+  corrections:
+  - CPZ_RESTAURANT
+CVS:
+  category: General
+  corrections:
+  - CVS_8
+  - CVS_2
+  - CVS_0
+  - CVS_#
+  - _Cvs_
+CVSPharmacy:
+  category: Medicine
+  corrections:
+  - CVSPHARMACY_
+  - CVS_PHARMACY
+  - CVSPHARMACY
+  - Cvs_Pharmacy
+  - CVS/PHARMACY
+  - _Cvs
+Cablevision:
+  category: TVInternet
+  corrections:
+  - CABLEVISION
+  - Cablevision
+CadyStudios:
+  category: Recreation
+  corrections:
+  - CADY_STUDIOS
+Cafe4:
+  category: Vacation
+  corrections:
+  - CAFE_4
+CafeAllegro:
+  category: Dining
+  corrections:
+  - CAFE_ALLEGRO
+CafeAtTheKendall:
+  category: Dining
+  corrections:
+  - CAFE_AT_THE_KENDALL
+CafeFrida:
+  category: Dining
+  corrections:
+  - Cafe_Frida
+CafeOnTheAve:
+  category: WorkTravel
+  corrections:
+  - CAFE_ON_THE_AVE
+CafeRestaurantLandtmann:
+  category: WorkTravel
+  corrections:
+  - CAFE_RESTAURANT_LANDTMANN
+CaffeNero:
+  category: Vacation
+  corrections:
+  - CAFFE_NERO
+CaffeSwish:
+  category: Dining
+  corrections:
+  - Caffe_Swish
+CalTechStore:
+  category: GiftsGiven
+  corrections:
+  - CALTECH-JPL_STORE
+CaliforniaPizzaKitchen:
+  category: Dining
+  corrections:
+  - CALIFORNIA_PIZZA
+CallFromSwitzerland:
+  category: BankCharge
+  corrections:
+  - CALL_FROM_SWISS_MAR21
+CalvinKlein:
+  category: Clothing
+  corrections:
+  - CALVIN_KLEIN
+  - Calvin_Klein
+CambridgeCommon:
+  category: Groceries
+  corrections:
+  - Cambridge_Common
+CampusCopyCenter:
+  category: WorkTravel
+  corrections:
+  - Campus_Copy_Center
+CampusDining:
+  category: Dining
+  corrections:
+  - CAMPUS_DINING_01000637
+CampusInnHotel:
+  category: WorkTravel
+  corrections:
+  - CAMPUS_INN_HOTEL
+CapeCodCreamery:
+  category: Vacation
+  corrections:
+  - Cape_Cod_Creamery
+  - CAPE_COD_CREAMERY
+CappysCarpet:
+  category: General
+  corrections:
+  - Cappy's_Carpet
+CapriInn:
+  category: Vacation
+  corrections:
+  - CAPRI_INN
+CardValidation:
+  category: BankCharge
+  corrections:
+  - CARD_VALIDATION_MAR21
+CareGetActive:
+  category: GiftsGiven
+  corrections:
+  - CARE_-_GET_ACTIVE
+CaribouCoffee:
+  category: Coffee
+  corrections:
+  - CARIBOU_COFFEE
+  - Caribou_Coffee_Co
+CarminesPizza:
+  category: Vacation
+  corrections:
+  - CARMINES_PIZZA
+CarolineMorrison:
+  category: Doctor
+  corrections:
+  - CAROLINE_MORRISON_MD_LTD
+CarolynSwartz:
+  category: Doctor
+  corrections:
+  - CarolynSwartz
+Carters:
+  category: Clothing
+  corrections:
+  - CARTER_S
+  - CARTER'S
+  - CARTERS
+  - carters,_Inc.
+  - carters
+CasaDeReyes:
+  category: Dining
+  corrections:
+  - CASA_DE_REYES
+Caseys:
+  category: WorkTravel
+  corrections:
+  - Caseys
+CaseysFood:
+  category: Dining
+  corrections:
+  - CASEY'S_FOOD
+CaseysFoods:
+  category: Groceries
+  corrections:
+  - CASEYS_FOODS_NAPERVILLE_IL
+Cash:
+  category: Cash
+  corrections:
+  - 1215_AMSTERDAM_AVENUE_NEW_YORK
+  - 2554_BROADWAY
+  - 11-17_ASHFORD_AVENUE
+  - 6383_CLAYTON_RD
+  - 29W710_BATAVIA_RD
+  - 340_AVENUE_OF_AMERICASNEW_YORK
+  - 200_TERMINAL_ROAD
+Cash-Warrenville:
+  category: WorkTravel
+  corrections:
+  - Cash-Warrenville
+CashAdvance:
+  category: BankCharge
+  corrections:
+  - Cash_Advance_Fee
+  - Cash__*_Finance_Charge_*
+  - Cash_Adv_Fee
+CashBack:
+  category: Cash
+  corrections:
+  - CashBack
+CashRedemption:
+  category: CreditBonus
+  corrections:
+  - UR-Cash_Redemption
+  - Cash_Redemption
+  - Redemption_Credit
+  - REDEMPTION_CREDIT
+CastawaysBarAndGrill:
+  category: Dining
+  corrections:
+  - CASTAWAYS_BAR_And_GRILL
+CatamaranResortHotel:
+  category: Vacation
+  corrections:
+  - CATAMARAN_RESORT_HOTEL
+CedarsRestaurant:
+  category: WorkTravel
+  corrections:
+  - CEDARS_RESTAURANT
+CellPhoneShop:
+  category: Entertainment
+  corrections:
+  - CELL_PHONE_SHOP
+CentralDupageHospital:
+  category: Doctor
+  corrections:
+  - Central_Dupage_Hsptl
+CentralMarket:
+  category: Groceries
+  corrections:
+  - CENTRAL_MARKET
+  - CENTRAL_MARK
+CentralParkZoo:
+  category: Entertainment
+  corrections:
+  - CENTRAL_PARK_ZOO
+CestCheese:
+  category: Dining
+  corrections:
+  - CEST_CHEESE
+ChairsEastPoint:
+  category: Vacation
+  corrections:
+  - CHAIRS_EAST_POINT
+CharlenesUsborne:
+  category: Clothing
+  corrections:
+  - CHARLENES_USBORNE
+CharlieChiangsKwai:
+  category: Dining
+  corrections:
+  - CHARLIE_CHIANG'S_KWAI
+CharlieChiangsKwaiLinthicumMD:
+  category: Doctor
+  corrections:
+  - CHARLIE_CHIANGS_KWAI_LINTHICUM_MD
+CharliesSteakHouse:
+  category: Vacation
+  corrections:
+  - CHARLIES_STEAK_HOUSE
+CharterSportsMarriot:
+  category: WorkTravel
+  corrections:
+  - CHARTER_SPORTS_MARRIOT
+Chartwells:
+  category: Dining
+  corrections:
+  - Chartwells
+  - Chartwells_
+ChaseBankAccount:
+  category: CreditCardReceipt
+  corrections:
+  - Payment_Received
+  - Payment_-_Thank You
+  - Payment_-_Thank_You
+  - AUTOMATIC_PAYMENT_-_THANK_YOU
+  - Payment_Thank_You-Mobile
+  - AndPayment_-_Thank_You
+  - Payment_Thank_You_-_Web
+  - Payment_Thank_You
+  - And_Payment_Thank_You_-_Web
+  - Transfer_From_Chase_Bank_Account
+  - 4316_Transaction#
+ChaseCashRedemption:
+  category: CreditBonus
+  corrections:
+  - Cash_Back_From_Card_Purchase
+ChaseCheckOrSupplyOrder:
+  category: BankCharge
+  corrections:
+  - Check_OR_Supply_Order
+ChaseCreditCardPayment:
+  category: CreditCardPayment
+  corrections:
+  - Chase_Epay
+  - CHASE_EPAY
+  - Payment_to_Chase_card_ending_in
+  - Payment_To_Chase_Card_Ending
+  - PAYMENT_RECEIVED_
+  - Chase_Credit_Crd_Autopay
+ChaseFreedomAccountTransfer:
+  category: ChaseFreedomPayment
+  corrections:
+  - 0233_Transaction#
+CheBellaPizza:
+  category: Dining
+  corrections:
+  - Che-bella_Pizza
+ChiTaxi:
+  category: NormalTravel
+  corrections:
+  - CHI_TAXI
+ChicagoArtInstitute:
+  category: Entertainment
+  corrections:
+  - BAMCO_ART_INST
+ChicagoNews:
+  category: Dining
+  corrections:
+  - CHICAGO_NEWS_NOW
+ChicagoTaxi:
+  category: WorkTravel
+  corrections:
+  - TAXI_PALATINE_IL
+ChickFilA:
+  category: Dining
+  corrections:
+  - CHICK-FIL-A
+Chilis:
+  category: Dining
+  corrections:
+  - CHILI_S
+  - CHILI'S_G_&_G
+  - Chili's
+  - CHILIS_GRI
+  - CHILI'S_GRI
+  - CHILIS_G_And
+  - Chilis_71
+  - CHILIS_B12_ORD20258166
+ChinaHouse:
+  category: Dining
+  corrections:
+  - CHINA_HOUSE
+  - China_House
+ChinaMax:
+  category: Dining
+  corrections:
+  - CHINA_MAX
+ChinaTownRestaurant:
+  category: Dining
+  corrections:
+  - 390_BROADWAY/390_BROADWA
+ChineseConsulateGeneral:
+  category: WorkTravel
+  corrections:
+  - CONSULATE_GENERAL_CHIN
+Chipotle:
+  category: Dining
+  corrections:
+  - CHIPOTLE
+  - Chipotle
+ChocolaterieCanonica:
+  category: Dining
+  corrections:
+  - Chocolaterie_Canonica
+ChoiceTaxi:
+  category: NormalTravel
+  corrections:
+  - CHOICE_TAXI
+ChristianBo:
+  category: Clothing
+  corrections:
+  - CHRISTIANBO
+ChurroFactory:
+  category: Dining
+  corrections:
+  - CHURRO_FACTORY
+CiboExpressGourmet:
+  category: Dining
+  corrections:
+  - CIBO_EXPRESS_GOURMET
+Cinemark:
+  category: Recreation
+  corrections:
+  - CINEMARK_THEATRES_2QPS_WOODRIDGE_IL
+  - CINEMARK_THEATRES
+Cinnabon:
+  category: Dining
+  corrections:
+  - CINNABON
+  - Cinnabon_Nj-tp10931q19
+Citgo:
+  category: Fuel
+  corrections:
+  - ARIANA_&_ZEHRA_CORPQ39
+  - CITGO
+CityMeatMarket:
+  category: Groceries
+  corrections:
+  - MC-CITY_MEAT_MARKET
+CityOfNaperville:
+  category: GasElectric
+  corrections:
+  - CITY_OF_NAPERVILLE
+  - REMIT_ONLINE.COM
+  - Citynaperville-LIBR
+  - City_of_Naperville
+Claras:
+  category: Dining
+  corrections:
+  - CLARAS
+Clarks:
+  category: Clothing
+  corrections:
+  - CLARKS
+ClearyGift:
+  category: GiftsGiven
+  corrections:
+  - ClearyGift
+ClimateHome:
+  category: Clothing
+  corrections:
+  - CLIMATE_HOME
+ClinicalPractice:
+  category: Doctor
+  corrections:
+  - CLINICAL_PRACTICE_MGMT
+ClintonFoundation:
+  category: Charity
+  corrections:
+  - CLINTON_FOUNDATION
+ClocktowerCommons:
+  category: Recreation
+  corrections:
+  - CLOCKTOWER_COMMONS_WHEATON_IL
+Coach:
+  category: Clothing
+  corrections:
+  - COACH
+  - Coach
+Coastal:
+  category: Fuel
+  corrections:
+  - COASTAL
+  - Coastal
+CoffeeBeanery:
+  category: Coffee
+  corrections:
+  - COFFEE_BEANERY_4-3B_NO
+CoffeeCorner:
+  category: Coffee
+  corrections:
+  - COFFEE_CORNER_9
+Coldstone:
+  category: Dining
+  corrections:
+  - COLDSTONE
+ColdstoneCreamery:
+  category: Dining
+  corrections:
+  - COLDSTN_CREAM
+CollegeInnPub:
+  category: Dining
+  corrections:
+  - COLLEGE_INN_PUB
+CollegetownBagels:
+  category: Dining
+  corrections:
+  - COLLEGETOWN_BAGELS
+ColombosCafe:
+  category: Vacation
+  corrections:
+  - COLOMBOS_CAFE
+ColorMeMine:
+  category: Entertainment
+  corrections:
+  - COLOR_ME_MINE
+ColumbiaBookstore:
+  category: General
+  corrections:
+  - Bkst-columbia-uv
+ColumbiaUniversity:
+  category: Rent
+  corrections:
+  - Columbia_University
+  - Columbia_Univer
+ColumbiaUniversityAthletics:
+  category: Recreation
+  corrections:
+  - COLUMBIA_UNIV._ATHLETR
+  - Cu_Athletics_Membershi
+ColumbiaUniversitySalary:
+  category: ThomasSalaryColumbia
+  corrections:
+  - COLUMBIA_UNIVER_PAYROLL_10132233
+  - COLUMBIA_UNIVER__PAYROLL
+  - COLUMBIA_UNIVERS
+ColumbiaUniversityTransport:
+  category: Dining
+  corrections:
+  - CU_TRANSPORT_SVC_MTR
+ColumbusAirport:
+  category: WorkTravel
+  corrections:
+  - 4600_INTERNATIONAL_GATCOLUMBUS
+ComfortInn:
+  category: NormalTravel
+  corrections:
+  - Comfort_Inn
+  - COMFORT_INNS
+CommodorePerry:
+  category: WorkTravel
+  corrections:
+  - COMMODORE_PERRY
+CommunityFoodAndJuice:
+  category: Dining
+  corrections:
+  - Community_Food_And_Jui
+CompalSRL:
+  category: WorkTravel
+  corrections:
+  - COMPAL_SRL
+CompassBooks:
+  category: Entertainment
+  corrections:
+  - COMPASS_BOOKS
+CompassSchool:
+  category: ChildCare
+  corrections:
+  - CHECK_1217
+  - Check_____________#_1222
+  - To_The_Compass_School
+  - Check_#_1217
+  - Check_#_1079
+  - Check_#_1227
+  - Check_#_1225
+  - Check_#_1026
+  - Check_#_1029
+CongreeConvention:
+  category: WorkTravel
+  corrections:
+  - CONGRESS_CONVENTION
+Connollys:
+  category: Dining
+  corrections:
+  - CONNOLLY'S
+  - Connolly's_121_W_45Th
+ContinentalAirlines:
+  category: WorkTravel
+  corrections:
+  - CONTINEN__00
+  - Continental
+ContinentalCafe:
+  category: Dining
+  corrections:
+  - CONTINENTAL_CAFE
+ConventionsPsychiatry:
+  category: Doctor
+  corrections:
+  - CONVENTIONS_PSYCHIATRY
+  - Online_Payment_3785430058_To_Con
+  - Online_Payment_3671491127_To_Con
+CookOut:
+  category: Dining
+  corrections:
+  - COOK_OUT
+  - Cook_Out
+CookieDoughCreations:
+  category: Dining
+  corrections:
+  - MC-COOKIE_DOUGH_CREAT_QAE
+CoolatoGelato:
+  category: Vacation
+  corrections:
+  - COOLATO_GELATO
+CornerBakery:
+  category: Dining
+  corrections:
+  - CORNER_BAKERY
+  - Corner_Bakery
+Cosi:
+  category: Dining
+  corrections:
+  - COSI
+  - Cosi
+CosleyZoo:
+  category: Entertainment
+  corrections:
+  - COSLEY_ZOO_
+CostPlus:
+  category: Clothing
+  corrections:
+  - COSTPLUS
+Costco:
+  category: Groceries
+  corrections:
+  - Costco_
+CountryFair:
+  category: Vacation
+  corrections:
+  - COUNTRY_FAIR
+CountryHouse:
+  category: Dining
+  corrections:
+  - Country_House-geneva
+  - COUNTRY_HOUSE_RESTAURA
+CoupaCafe:
+  category: WorkTravel
+  corrections:
+  - COUPA_CAFE
+CourtyardByMarriott:
+  category: Vacation
+  corrections:
+  - COURTYARD_BY_MARRIOTT
+  - MARRIOTT
+Craftbar:
+  category: Dining
+  corrections:
+  - Craftbar
+CraigsAutoServiceCenter:
+  category: Fuel
+  corrections:
+  - 1410_CRAIGS_AUTO_SEQPS
+Crate&Barrel:
+  category: Furniture
+  corrections:
+  - Eur*crate&barrel
+CrateAndBarrel:
+  category: Furniture
+  corrections:
+  - CRATE_&_BARR
+  - CRATE_And_BARREL
+Crazy8:
+  category: Clothing
+  corrections:
+  - CRAZY8.COM
+  - CRAZY_8
+CreditDueToDebitCardDispute:
+  category: CreditCardPayment
+  corrections:
+  - CREDIT_DUE_TO_DEBIT_CARD_DISPUTE
+  - Credit_Due_To_Debit_Card_Dispute
+CreditReturn:
+  category: ChildCare
+  corrections:
+  - Credit_Return:_Online_Payment_11
+CreditSuisse:
+  category: Cash
+  corrections:
+  - CREDIT_SUISSE
+CrepesOnColumbus:
+  category: Dining
+  corrections:
+  - Crepes_On_Columbus
+CricketMagazine:
+  category: Entertainment
+  corrections:
+  - CPI*CRICKET_MAGAZINE
+CricketMedia:
+  category: Entertainment
+  corrections:
+  - CRICKET_MEDIA
+CrocsStore:
+  category: Clothing
+  corrections:
+  - CROCS_STORE
+CrossSoundDeli:
+  category: Vacation
+  corrections:
+  - CROSS_SOUND_DELI_SERV_NE
+  - CROSS_SOUND_DELI_SERVI
+  - Cross_Sound_
+CrossSoundFerry:
+  category: Vacation
+  corrections:
+  - CROSS_SOUND_FERRY
+CrosstownPubAndGrill:
+  category: Dining
+  corrections:
+  - CROSSTOWN_PUB_AND_GRIL
+CumberlandFarms:
+  category: Vacation
+  corrections:
+  - CUMBERLAND_FARMS
+CurryClub:
+  category: Dining
+  corrections:
+  - CURRY_CLUB
+  - The_Curry_Club
+CurryLeaf:
+  category: Dining
+  corrections:
+  - CURRY_LEAF_FINE_INDIAN
+D'angelos:
+  category: Vacation
+  corrections:
+  - D'angelos
+  - Dangelos
+DAGOSTINOS:
+  category: Dining
+  corrections:
+  - D'AGOSTINO_S
+DNCTravel:
+  category: WorkTravel
+  corrections:
+  - DNC_TRAVEL_-_SENEC
+  - DNC_TRAVEL_-_DETRO
+  - DNC_TRAVEL_-_CLARE
+DSW:
+  category: Clothing
+  corrections:
+  - DSW_
+DaGennaroRestaurant:
+  category: Dining
+  corrections:
+  - DA_GENNARO_RESTAURANT
+DairyQueen:
+  category: Dining
+  corrections:
+  - DAIRY_QUEEN
+  - Dairy_Queen
+DaisyMint:
+  category: WorkTravel
+  corrections:
+  - DAISY_MINT
+DalalFoodAndLiquor:
+  category: Groceries
+  corrections:
+  - DALAL_FOOD_And_LIQUOR
+Damariscotta:
+  category: Vacation
+  corrections:
+  - Damariscotta
+Danastig:
+  category: Clothing
+  corrections:
+  - DANASTIG
+Dania:
+  category: Furniture
+  corrections:
+  - DANIA_LOMBARD_IL
+DannyPubAndGrill:
+  category: Dining
+  corrections:
+  - DANNYS_PUB_And_GRILL
+Dapizzadude:
+  category: Dining
+  corrections:
+  - DAPIZZADUDE
+DarkHorsePastries:
+  category: Dining
+  corrections:
+  - DARK_HORSE_PASTRIES
+DauneReade:
+  category: General
+  corrections:
+  - DUANE_READE
+  - Duane_Reade
+DavantiEncota:
+  category: WorkTravel
+  corrections:
+  - DAVANTI_ENCOTA
+DavidsTea:
+  category: Dining
+  corrections:
+  - DAVIDSTEA_NAPERVILLE
+  - Davidstea
+  - DAVIDSTEA
+DeaBaby:
+  category: Clothing
+  corrections:
+  - DEA_BABY
+DeanAndDeluca:
+  category: Dining
+  corrections:
+  - DEAN_&_DELUC
+DebitCardProvisionalCredit:
+  category: BankCharge
+  corrections:
+  - DEBIT_CARD_PROVISIONAL_CREDIT
+DeettasBakery:
+  category: Dining
+  corrections:
+  - DEETTAS_BAKERY
+DeliceDeFrance:
+  category: Dining
+  corrections:
+  - DELICE_DE_FRANCE
+DeltaAirlines:
+  category: WorkTravel
+  corrections:
+  - Delta
+  - DELTA
+Deluxe:
+  category: Dining
+  corrections:
+  - Deluxe_
+  - Deluxe
+DeluxeCheck:
+  category: Cash
+  corrections:
+  - DELUXE_CHECK
+DennysRestaurant:
+  category: Dining
+  corrections:
+  - DENNYS_RESTAURANT
+Deposit_553476359:
+  category: Todo
+  corrections:
+  - Deposit_553476359
+Deposit_573332753:
+  category: Todo
+  corrections:
+  - Deposit_573332753
+DestinationMaternity:
+  category: Clothing
+  corrections:
+  - DESTINATIONMA
+DevineCellars:
+  category: Dining
+  corrections:
+  - TASTING_DEVINE_CELLARS
+Diapers.com:
+  category: General
+  corrections:
+  - QI_*DIAPERS.COM
+  - DIAPERS.COM
+DicksSportingGoods:
+  category: Clothing
+  corrections:
+  - DICK'S_SPORTING_GOODS
+  - DICKS_SPORTING_GOODS_LAKE_GROVE_NY
+  - DICKS_SPORTINGAndCLOTHING
+  - Dicks_SportingAndClothi
+DigitalPhotoFinishing:
+  category: MiscSchool
+  corrections:
+  - DIGITAL_PHOTO_FINISHIN_
+DiscountSchoolSupply:
+  category: MiscSchool
+  corrections:
+  - Discount_School_Supply
+DiscountTire:
+  category: Service
+  corrections:
+  - DISCOUNT-TIR
+  - DISCOUNT_TIR
+DishCafe:
+  category: Dining
+  corrections:
+  - Dish_Cafe
+DishDLish:
+  category: WorkTravel
+  corrections:
+  - DISH_D_LISH_SE32274649_SEATTLE_WA
+Disney.com:
+  category: GiftsGiven
+  corrections:
+  - DIS*DISNEYSHOPPING.COM
+DisneyStore:
+  category: Entertainment
+  corrections:
+  - disney_stope
+  - DISNEY_STORE
+DobbsFerryATM:
+  category: Cash
+  corrections:
+  - Cash-DobbsFerry
+Dollar:
+  category: WorkTravel
+  corrections:
+  - DOLLAR_RAC_MDW
+Dollop:
+  category: Dining
+  corrections:
+  - Dollop_Coffee
+DollopCoffee:
+  category: Dining
+  corrections:
+  - DOLLOP_COFFEE_CO
+Dominicks:
+  category: Groceries
+  corrections:
+  - DOMINICKS
+  - Dominicks_
+Doostang:
+  category: WorkTravel
+  corrections:
+  - DOOSTANG_INTERNATIONAL
+DosCaminos:
+  category: Dining
+  corrections:
+  - Dos_Caminos_Soho
+DotComMidway:
+  category: Dining
+  corrections:
+  - Dot_Com
+DoubleTreeMagMile:
+  category: WorkTravel
+  corrections:
+  - DOUBLETREE_MAG_MILE_FB
+DrAtCentralParkWest:
+  category: Doctor
+  corrections:
+  - DrAtCentralParkWest
+DrGidwani:
+  category: Doctor
+  corrections:
+  - DrGidwani
+  - Check_#_1261
+DraftPicks:
+  category: Dining
+  corrections:
+  - DRAFT_PICKS
+DripDropPlumbing:
+  category: HomeRepairs
+  corrections:
+  - DRIP_DROP_PLUMBING_INC
+DrugMart:
+  category: Medicine
+  corrections:
+  - MC-DRUG_MART
+Drugstore.com:
+  category: Medicine
+  corrections:
+  - PAYPAL *DRUGSTORE
+  - DRUGSTORE
+  - DRUGSTORE_4029357733_WA
+DuPageValleyAnesthesia:
+  category: Doctor
+  corrections:
+  - DU_PAGE_VALLEY_ANESTHE
+  - Dupage_Valley_Anethesia
+DunkinDonuts:
+  category: Dining
+  corrections:
+  - DD/BR
+  - Dd/br
+  - DUNKIN
+  - Dunkin
+DupageChildrensENT:
+  category: Doctor
+  corrections:
+  - DUPAGE_CHILDRENS_ENT_NAPERVILLE_IL
+DupageChildrensEntAndAllergy:
+  category: Doctor
+  corrections:
+  - Dupage_Childrens_Ent_And_Allergy
+DupageChildrensMuseum:
+  category: Entertainment
+  corrections:
+  - DUPAGE_CHILDRENS_MUSEU
+  - DUPAGECHILDRENSMUS
+  - Dupagechildrensmus
+DupageCountyFamilyCenter:
+  category: Government
+  corrections:
+  - DUPAGE_CTYFAMCTR_TUIT
+DupageMedicalGroup:
+  category: Doctor
+  corrections:
+  - Dupage_Medical_Group
+  - DUPAGE_MEDICAL_GROUP
+  - Check_#_1205
+DusseldorfAirport:
+  category: WorkTravel
+  corrections:
+  - Marche_Dusseldorf_Airport
+EDX:
+  category: WorkTravel
+  corrections:
+  - EDX,_INC.
+EZGasoline:
+  category: Fuel
+  corrections:
+  - EZ_GASOLINE
+EarlyPregnancyTest:
+  category: Medicine
+  corrections:
+  - Early_Pregnancy_Test_3603035207_Wa
+EastChinaInn:
+  category: Dining
+  corrections:
+  - East_China_Inn
+EastmanEggWacker:
+  category: Dining
+  corrections:
+  - EASTMAN_EGG_WACKER
+EasyShoppe:
+  category: Dining
+  corrections:
+  - SQ_*EASY_SHOPPE
+EatPiada:
+  category: Dining
+  corrections:
+  - EAT_PIADA
+Ebags.com:
+  category: Clothing
+  corrections:
+  - EBAGS.COM
+Ebay:
+  category: Entertainment
+  corrections:
+  - BAY_MARKTPLC_USD_402
+  - PAYPAL_*WESTONELABO
+  - PAYPAL_*MARCIA
+  - PAYPAL_*JAPBOOK
+  - SQ_*KARMA_GIRME
+  - PAYPAL_*KIMMIE96
+  - Paypal_*Nefnicarico
+  - POSHMARK
+  - HOTTOPICINC
+  - TING490YUFK
+  - NOTEWORTHY
+  - MARCH1939
+  - CATHERINE_402
+  - EUGUBINO05
+  - TANG_XIA
+  - GONGHAO
+  - RUBIOCOLLEC
+  - JHUNT2
+  - 13077821796
+  - WANGHUIJIAN
+EddieBauer:
+  category: Clothing
+  corrections:
+  - Eddie_Bauer
+  - EDDIEBAUER
+  - EB_SMITH_HAVEN
+  - E_BAUER
+  - EDDIE_BAUER
+  - E_Bauer
+EducationAndPsycho:
+  category: Doctor
+  corrections:
+  - EDUCATIONAL_AND_PSYCHO
+EdwFitnessSpa:
+  category: Recreation
+  corrections:
+  - EDW_FITNESS_SPA2
+EdwardHealthAndFitness:
+  category: Recreation
+  corrections:
+  - EDWARD_HLTH_&_FITNESS
+  - EDW_FITNESS_MEM_SERV1
+  - EDWARD_HLTH_And_FITNESS_NAPERVILLE_IL
+EdwardHospital:
+  category: Dining
+  corrections:
+  - EDWARD_HOSP_CASHIER
+  - ASSOCPATHCONSEDWRD4387
+EggsInc:
+  category: Dining
+  corrections:
+  - EGGS_INC
+Eggsperience:
+  category: Dining
+  corrections:
+  - EGGSPERIENCE
+EinsteinBrothers:
+  category: Dining
+  corrections:
+  - EINSTEIN_BAGELS
+  - Einstein_Bros
+  - EinsteinBros
+  - EINSTEIN_BRO_BAGELS_Q8
+  - EINSTEIN_BROS
+ElMariachi:
+  category: Vacation
+  corrections:
+  - EL_MARIACHI_MEXICAN_RE_W_YARMOUTH_MA
+ElPortonBar:
+  category: Dining
+  corrections:
+  - l_Porton_Bar&mex.rest_New__York_Ny
+ElephantAndCastle:
+  category: Dining
+  corrections:
+  - ELEPHANT_And_CASTLE
+ElginCommunityCollege:
+  category: Entertainment
+  corrections:
+  - ELGIN_COMM_COLLEGE
+Embargo:
+  category: Vacation
+  corrections:
+  - EMBARGO
+EmiliosSolYNieve:
+  category: WorkTravel
+  corrections:
+  - EMILIOS_SOL_Y_NIEVE
+EmiliosTapas:
+  category: Dining
+  corrections:
+  - EMILIOS_TAPAS
+EmpanadaJoes:
+  category: Dining
+  corrections:
+  - Empanada_Joe
+EnjoyYourShow:
+  category: Entertainment
+  corrections:
+  - ENJOYYOURHO
+EnterpriseRentACar:
+  category: Vacation
+  corrections:
+  - ENTERPRISE_RENT-A-CAR
+Equifax:
+  category: General
+  corrections:
+  - Equifax_Consumer
+EspressoRoyale:
+  category: Dining
+  corrections:
+  - ESPRESSO_ROYALE_40
+Esprit:
+  category: Clothing
+  corrections:
+  - ESPRIT
+Esso:
+  category: Fuel
+  corrections:
+  - ESSO_165_OMER_MARCIL_B
+Etsy:
+  category: Clothing
+  corrections:
+  - ETSY
+EurestDining:
+  category: WorkTravel
+  corrections:
+  - EUREST_DINING-11076304
+  - EUREST_DINING_11076304
+EuropanCafe:
+  category: Dining
+  corrections:
+  - Europan_Cafe_Llc_Q41
+EvenHotel:
+  category: NormalTravel
+  corrections:
+  - EVEN_HOTEL_NORWALK_FAND_B
+EverythingGames:
+  category: Entertainment
+  corrections:
+  - EVERYTHING_GAMES
+Expedia:
+  category: WorkTravel
+  corrections:
+  - Expedia
+  - EXPEDIA
+ExpensiveDoctorOnLongIsland:
+  category: Doctor
+  corrections:
+  - Check_#_1197
+ExpressShuttle:
+  category: NormalTravel
+  corrections:
+  - EXPRESS_SHUTTLE
+  - Express_Shuttle
+ExtendedStay:
+  category: WorkTravel
+  corrections:
+  - EXTENDEDSTAY
+  - Extendedstay
+ExtraValueFoodAndLiquor:
+  category: Groceries
+  corrections:
+  - EXTRA_VALUE_FOOD_And_LIQUOR
+ExtremeCoup:
+  category: Clothing
+  corrections:
+  - EXTREMECOUP
+ExxonMobil:
+  category: Fuel
+  corrections:
+  - EXXONMOBIL
+  - Exxonmobil
+F&BNassau:
+  category: Dining
+  corrections:
+  - Smg_F&b_Nassau_Col
+  - FAndBNassau
+F&MItaly:
+  category: Dining
+  corrections:
+  - F_&_M_ITALY_SARL
+  - FAndMItaly
+FAOSchwarz:
+  category: GiftsGiven
+  corrections:
+  - FAO_SCHWARZ
+FED_WIRE_CREDIT:
+  category: TaxRefund
+  corrections:
+  - FED_WIRE_CREDIT
+  - Fed_Wire_Credit_Via:_Citibank
+FEE:_INCOMING_DOMESTIC_WIRE:
+  category: ATMFee
+  corrections:
+  - FEE:_INCOMING_DOMESTIC_WIRE
+  - Incoming_Domestic_Wire_Fee
+FNALDayCare:
+  category: ChildCare
+  corrections:
+  - To_Fer
+  - Online_Payment_3296732815_To_Fer
+  - Check_#_1200
+FOREIGN_REMITTANCE_CREDIT:
+  category: WorkTravel
+  corrections:
+  - FOREIGN_REMITTANCE_CREDIT_B/O:_F
+FWCLicenseSales:
+  category: Entertainment
+  corrections:
+  - FWC_LICENSE_SALES
+Fabletics:
+  category: Clothing
+  corrections:
+  - FABLETICS
+FacheIndustries:
+  category: Fuel
+  corrections:
+  - FACHE_INDUSTRIES
+FactoryBrandShoes:
+  category: Clothing
+  corrections:
+  - MC-FACTORY_BRN_SHS
+FactoryCardOutlet:
+  category: GiftsGiven
+  corrections:
+  - FACTORY_CARD_OUTLET
+FairOaks:
+  category: Dining
+  corrections:
+  - FAIR_OAKS
+FairfieldInn:
+  category: WorkTravel
+  corrections:
+  - Fairfield_Inn
+FallColor5k:
+  category: Recreation
+  corrections:
+  - FALL_COLOR_5K
+  - FALL-COLOR-5K
+FallenTimbers:
+  category: Fuel
+  corrections:
+  - Fallen_Timbers
+FamilyFoods:
+  category: Groceries
+  corrections:
+  - FAMILY_FD_255
+  - FAMILY_FOODS
+FamousFamiglia:
+  category: Dining
+  corrections:
+  - Famous_Famiglia_-_Lq66
+Fandango:
+  category: Entertainment
+  corrections:
+  - FANDANGO.COM
+FantasticKids:
+  category: Clothing
+  corrections:
+  - FANTASTIC_KIDS
+FarisTownCarService:
+  category: WorkTravel
+  corrections:
+  - SQ_*FARIS_TOWN_CAR_SERVIC_Tukwila_WA
+FastFreshItalian:
+  category: Dining
+  corrections:
+  - Fast_Fresh_Italian
+  - FAST_FRESH_ITALIAN
+FedEx:
+  category: General
+  corrections:
+  - FEDEXOFFICE
+FermiResearchHousing:
+  category: WorkTravel
+  corrections:
+  - FERMI_RESEARCH_HOUSING
+FermilabCafe:
+  category: Dining
+  corrections:
+  - FERMI_LABS_CAFE
+  - MC-FERMI_LAB
+  - Fermi_Labs_Cafe
+  - FERMILAB_CAF
+FermilabRecreation:
+  category: Recreation
+  corrections:
+  - FERMILAB_RECREATION
+FermilabSalary:
+  category: RuthSalaryFNAL
+  corrections:
+  - FERMI_NATIONAL_A_DIR_DEP
+  - Fermi_Research_A_
+  - Fermi_National_A_Dir_Dep
+FermilabTravel:
+  category: WorkFermilabReimbursement
+  corrections:
+  - FermilabTravel
+Fiamme:
+  category: Dining
+  corrections:
+  - FIAMME
+FidelityCompanyContribution:
+  category: FidelityOpenDataContribution
+  corrections:
+  - DIRECT_DEPOSIT_CO_contr_current_yr_COMPANY_CONTRIBUTION
+FidelityInterest:
+  category: FidelityOpenDataInterest
+  corrections:
+  - FidelityInterestPa
+  - FIDELITY_FREEDOM_You_bought
+  - FIDELITY_FREEDOM_
+FidelityPayrollContribution:
+  category: FidelityOpenDataContribution
+  corrections:
+  - PAYROLL_DEDUCTION_Employee_contr_cur_yr_PARTIC_CONTRIBUTION
+  - Payroll_Deduction_Partic_Contribution
+FieldMuseum:
+  category: Entertainment
+  corrections:
+  - FIELD_MUSEUM
+FigsCafe:
+  category: Dining
+  corrections:
+  - Bcg@figs
+  - Bcg_Figs_Cafe
+FinbarrsIrishPub:
+  category: WorkTravel
+  corrections:
+  - FINBARRS_IRISH_PUB_
+FirewoodCafe:
+  category: Dining
+  corrections:
+  - FIREWOOD_CAFE
+FirstGiving:
+  category: Charity
+  corrections:
+  - FIRSTGIVING
+FirstMidwestBank:
+  category: HomeDownPayment
+  corrections:
+  - FEDWIRE_DEBIT_VIA:_FST_MDWST_MOL
+  - Fedwire_Debit_Via:_Fst_Mdwst_Moline
+FiveGuys:
+  category: Dining
+  corrections:
+  - FIVE_GUYS
+Flavours:
+  category: Dining
+  corrections:
+  - Flavours_GE
+FloatingBridgeBrewery:
+  category: WorkTravel
+  corrections:
+  - FLOATING_BRIDGE_BREWI
+FlossmoreStation:
+  category: Fuel
+  corrections:
+  - FLOSSMOOR_STATION
+FlourBakery&Cafe:
+  category: Vacation
+  corrections:
+  - FLOUR_BAKERY_&_CAF_CAMBR
+  - Flour_Bakery_And_Caf_
+FlourCafeAndBakery:
+  category: Dining
+  corrections:
+  - FLOUR_BAKERY_
+FlughafenTerminal2Munich:
+  category: WorkTravel
+  corrections:
+  - FLUGHAFEN_TERMINAL_2__MUENCHEN
+FlyingJ:
+  category: Dining
+  corrections:
+  - FLYING_J
+FoodCity:
+  category: Groceries
+  corrections:
+  - FOOD_CITY
+FoodMasters:
+  category: Dining
+  corrections:
+  - FOODMASTERS
+FootwearDeckers:
+  category: Clothing
+  corrections:
+  - FOOTWEAR-DECKERS_CORP
+ForeignTransactionFee:
+  category: BankCharge
+  corrections:
+  - FOREIGN_TRANSACTION_FEE
+  - Incoming_Foreign_Wire_Fee
+  - Foreign_Transaction_Fee
+ForestAkersGold:
+  category: Recreation
+  corrections:
+  - MC-MSU_FOREST_AKERS_GOLF
+ForeverFondue:
+  category: Dining
+  corrections:
+  - FOREVER_FONDUE
+ForeverYogurt:
+  category: Dining
+  corrections:
+  - FOREVER_YOGURT
+Fossil:
+  category: Clothing
+  corrections:
+  - FOSSIL
+FourMountainSports:
+  category: Vacation
+  corrections:
+  - FOUR-MOUNTAIN_SPORTS
+FoxAndHound:
+  category: Alcohol
+  corrections:
+  - FOX_&_HOUND
+  - FOX_And_HOUND
+FoxValleyInstitute:
+  category: Doctor
+  corrections:
+  - Fox_Valley_Institute
+FoxValleyMall:
+  category: Groceries
+  corrections:
+  - 4100_FOX_VALLEY_CENTERAURORA
+FrancescasByTheRiver:
+  category: WorkTravel
+  corrections:
+  - FRANCESCAS_BY_THE_RIVER
+FranklyGourmet:
+  category: Dining
+  corrections:
+  - FRANKLY_GOURME30402QPS
+FrenchAccent:
+  category: Dining
+  corrections:
+  - FRENCH_ACCENT
+FreshensOfCapeCod:
+  category: Vacation
+  corrections:
+  - FRESHENS_OF_CAPE_COD
+FrieldsOfTheZoo:
+  category: Dining
+  corrections:
+  - FRIENDS_OF_THE_ZOO_QPS
+Friendlys:
+  category: Dining
+  corrections:
+  - FRIENDLY_ICE_CREAM
+FrontStreetCantina:
+  category: Dining
+  corrections:
+  - FRONT_STREET_CANTINA
+  - Front_Street_Cantina
+FronteraGrill:
+  category: Dining
+  corrections:
+  - FRONTERA_GRILL20258349
+Frontier:
+  category: WorkTravel
+  corrections:
+  - FRONTIER
+FrostGelato:
+  category: Dining
+  corrections:
+  - FROST_GELATO__NAPERVIL
+  - FROST_GELATO_NAPERVIL
+  - Frost_Gelato
+FrysElectronics:
+  category: Entertainment
+  corrections:
+  - FRYS_ELECTRONICS
+FullHeartPublishing:
+  category: Entertainment
+  corrections:
+  - Check_#_1228
+Fun4All:
+  category: Entertainment
+  corrections:
+  - FUN4ALL
+FunThings:
+  category: General
+  corrections:
+  - FUN_THINGS_ETC_LLC
+FungWahBus:
+  category: NormalTravel
+  corrections:
+  - Fung_Wah_Bus_617-3381163_Ma
+  - KING_WAH_EXPRESS
+  - FUNG_WAH_BUS
+FunivieDelPiccolo:
+  category: Entertainment
+  corrections:
+  - FUNIVIE_DEL_PICCOLO
+GIORDANOS:
+  category: WorkTravel
+  corrections:
+  - GIORDANO'S
+GNC:
+  category: Medicine
+  corrections:
+  - GNC
+GalaxyStores:
+  category: General
+  corrections:
+  - GALAXY_STORES
+Gamestop:
+  category: Recreation
+  corrections:
+  - GAMESTOP
+Gap:
+  category: Clothing
+  corrections:
+  - 225_MAIN_STR/225_MAIN_ST
+  - Gap
+  - GAP
+GardenerSupplyCo:
+  category: GiftsGiven
+  corrections:
+  - Agr*gardener_Supply_Co
+GarnetHill:
+  category: Clothing
+  corrections:
+  - GARNET_HILL
+GasMart:
+  category: Fuel
+  corrections:
+  - Gas_Mart_38
+GatewayArch:
+  category: Entertainment
+  corrections:
+  - GATEWAY_ARCH
+GatewayBakeShop:
+  category: Dining
+  corrections:
+  - GATEWAY_BAKE_SHOP_TIM
+Geico:
+  category: CarInsurance
+  corrections:
+  - GEICO
+  - Geico_
+Genesis:
+  category: Entertainment
+  corrections:
+  - GENESIS
+Geordanes:
+  category: Dining
+  corrections:
+  - Geordanes
+GermanGuyInHarlem:
+  category: Rent
+  corrections:
+  - GermanGuyInHarlem
+Getty:
+  category: NormalTravel
+  corrections:
+  - Getty_58295001
+GettyOil:
+  category: Fuel
+  corrections:
+  - GETTY_
+GiantFood:
+  category: Dining
+  corrections:
+  - GIANT_FOOD
+GimmeCoffee:
+  category: Coffee
+  corrections:
+  - GIMME_COFFEE
+GinnysHallmark:
+  category: Dining
+  corrections:
+  - GINNYS_HALLMARK_NAPERVILLE_IL
+  - GINNY'S_HALLMARK
+Giordanos:
+  category: Dining
+  corrections:
+  - GIORDANOS
+GlassHalfFull:
+  category: Vacation
+  corrections:
+  - Glass_Half_Full
+GloriousBritain:
+  category: GiftsGiven
+  corrections:
+  - GLORIOUS_BRITAIN
+GoGoAir:
+  category: Entertainment
+  corrections:
+  - GOGOAIR.COM
+GoRoma:
+  category: Dining
+  corrections:
+  - GO_ROMA
+GoebbertsFarm:
+  category: Entertainment
+  corrections:
+  - GOEBBERTS_FARM_AND_GAR
+GoldenAgeCollectable:
+  category: GiftsGiven
+  corrections:
+  - GOLDEN_AGE_COLLECTABLE
+Goldfish:
+  category: Recreation
+  corrections:
+  - GOLDFISH_SWIM_SCHOOL
+Goodies:
+  category: Vacation
+  corrections:
+  - GOODIES
+GoodmanTheatre:
+  category: Entertainment
+  corrections:
+  - GOODMAN_THEATRE
+  - Goodman_Theatre
+Goodwins:
+  category: Dining
+  corrections:
+  - Goodwins_Restaurant
+GoodyearAutoServiceCenter:
+  category: Service
+  corrections:
+  - GOODYEAR_AUTO_SVS_CTR
+GooseIsland:
+  category: Dining
+  corrections:
+  - GOOSE_ISLAND
+Gotskinds:
+  category: Clothing
+  corrections:
+  - GOTSKINDS_SHOES_AND_CL
+  - GOTSKINDS_NAPERVILLE_I
+  - Gotskind's_Shoes_&_Clo
+  - Gotskinds
+GourmetBurgerBistro:
+  category: Dining
+  corrections:
+  - Gourmet_Burger_Bistro
+  - GOURMET_BURGER_BISTRO
+GovernmentCenterParking:
+  category: Entertainment
+  corrections:
+  - GOVERNMENT_CENTER
+  - Government_Center
+GraceHarold:
+  category: Doctor
+  corrections:
+  - To_Gra
+  - Check_#_1270
+  - Check_#_1199
+GraceHsu:
+  category: Rent
+  corrections:
+  - GraceHsu
+GraciesCorn:
+  category: Clothing
+  corrections:
+  - GRACIESCORN
+GrahamCrackersComics:
+  category: Entertainment
+  corrections:
+  - GRAHAM_CRACKERS_COMICS
+Grahams:
+  category: Dining
+  corrections:
+  - GRAHAMS_
+GrainAndWineSpirit:
+  category: Groceries
+  corrections:
+  - GRAIN_AND_VINE_SPIRIT
+GranadaATM:
+  category: WorkFermilabSpending
+  corrections:
+  - GranadaATM
+GranadaTravel:
+  category: WorkTravel
+  corrections:
+  - EUROCONGRES_VIAJES_SA_GRANADA
+GraniteCity:
+  category: Dining
+  corrections:
+  - GRANITE_CTY_FOODAndBREWERY
+GreatAMSteak:
+  category: Dining
+  corrections:
+  - GREAT_AM_STEAK_&_POQ02
+GreatAmericanBagel:
+  category: Dining
+  corrections:
+  - GREAT_AMER_BAG20251302
+GreatClips:
+  category: Hair
+  corrections:
+  - GREAT_CLIPS
+GreatHarvest:
+  category: Dining
+  corrections:
+  - GREAT_HARVEST
+  - Great_Harvest_
+GreatIslandBakery:
+  category: Vacation
+  corrections:
+  - GREAT_ISLAND_BAKERY
+GreenCactusGrill:
+  category: Dining
+  corrections:
+  - GREEN_CACTUS_GRILL_OF
+  - GREEN_CACTUS_GRILL_QPS
+GreenLeafeCafe:
+  category: Dining
+  corrections:
+  - Green_Leafe_Cafe
+  - GREEN_LEAFE_CAFE
+GreenMeadowWine:
+  category: Alcohol
+  corrections:
+  - GREEN_MEADOW_WINE
+GreenPeaceUSA:
+  category: Charity
+  corrections:
+  - GREENPEACE_USA
+Greenberrys:
+  category: Dining
+  corrections:
+  - GREENBERRY'S
+GreenberrysCoffee:
+  category: Coffee
+  corrections:
+  - GREENBERRYS_COFFEEQPS
+Greyhound:
+  category: NormalTravel
+  corrections:
+  - Gli*greyhoundlines1508_214-849-8966_Tx
+GringosCantina:
+  category: Dining
+  corrections:
+  - GRINGOS_CANTINA_INC
+Groupon:
+  category: Entertainment
+  corrections:
+  - GROUPON_INC
+Guggenheim:
+  category: Entertainment
+  corrections:
+  - GUGGENHEIM
+GulfOil:
+  category: Fuel
+  corrections:
+  - Gulf_Oil
+  - GULF
+  - Gulf
+Gymboree:
+  category: Clothing
+  corrections:
+  - GYMBOR
+  - BURLINGAME
+  - GYMBOREE
+HLAAWalk4Hearing:
+  category: Dining
+  corrections:
+  - HLAA_WALK4HEARING
+HMS:
+  category: WorkTravel
+  corrections:
+  - Hms_Host
+  - HMS_SCHIPHOL
+  - HMSHost
+  - Hmshost-lax-air
+  - HMS_HOST
+  - HMSHOST
+HRImaging:
+  category: MiscSchool
+  corrections:
+  - HR_IMAGING_ONLINE
+HSBC:
+  category: HomeDownPayment
+  corrections:
+  - HSCB-EMPTYPAYEE
+HSBCDirect:
+  category: HSBCPayment
+  corrections:
+  - HSBC_DIRECT
+HSBCInterestPaid:
+  category: HSBCInterest
+  corrections:
+  - HSBC-INTEREST_PAID
+  - HSBCInterestPaid
+HSBCTransfer:
+  category: HSBCPayment
+  corrections:
+  - HSBC-ONLINE-TRANSFER
+  - HSBCTransfer
+  - HSBCOnlineTransfer
+  - Hsbc_Online
+  - HSBC_ONLINE
+  - Check_#1259
+  - Check_#_1157
+HaagenDazs:
+  category: Dining
+  corrections:
+  - HAAGEN_DAZS
+HaakonsHall:
+  category: Dining
+  corrections:
+  - HAAKON'S_HALL
+HaakonsHalls:
+  category: Dining
+  corrections:
+  - HAAKONS_HALL
+HairCuttery:
+  category: Hair
+  corrections:
+  - HAIR_CUTTERY
+HairCutty:
+  category: Hair
+  corrections:
+  - Hair_Cuttery
+HamptonInn:
+  category: WorkTravel
+  corrections:
+  - HAMPTON_INN_NEWPORT_NE
+  - HAMPTON_INN_GERMNTWN12
+HannaAndersson:
+  category: Clothing
+  corrections:
+  - HANNA_ANDERSSON
+  - Hanna_Andersson
+  - HANNA_ANDERSON
+Hannaford:
+  category: Vacation
+  corrections:
+  - Hannaford
+HappyFeetLegends:
+  category: Recreation
+  corrections:
+  - HAPPYFEETLEGENDS
+Hardees:
+  category: Dining
+  corrections:
+  - HARDEES_1500717_QPS_GENOA_OH
+  - Hardees
+  - HARDEE'S_1500717
+Harrys:
+  category: General
+  corrections:
+  - HARRYS_888-212-6855
+HartleyPharmacy:
+  category: Medicine
+  corrections:
+  - Hartley_Pharmacy
+HavanaCentral:
+  category: Dining
+  corrections:
+  - Havana_Central_At_The_New_York_Ny
+  - Havana_Central_At_The
+HeadsUpApparel:
+  category: Clothing
+  corrections:
+  - HEADS_UP_APPAREL
+HeathrowAirport:
+  category: WorkTravel
+  corrections:
+  - LEON_HEATHROW
+HeavonOnSeven:
+  category: Dining
+  corrections:
+  - HEAVEN_ON_SEVEN_NAPERV
+  - Heaven_On_7_Napervi
+Heifer:
+  category: GiftsGiven
+  corrections:
+  - HEIFER_INT
+Heights:
+  category: Dining
+  corrections:
+  - HEIGHTS_BAR_GRILL
+HeightsBarAndGrill:
+  category: Dining
+  corrections:
+  - Heights_Bar_Grill
+HerrerasTreeService:
+  category: HomeRepairs
+  corrections:
+  - Herreras_Tree_
+Hertz:
+  category: NormalTravel
+  corrections:
+  - HERTZ_RENT-A-CAR
+Hess:
+  category: Fuel
+  corrections:
+  - HESS
+  - _Hess_
+HighEnergyBoutique:
+  category: Clothing
+  corrections:
+  - High_Energy_Boutique
+Highlands:
+  category: MiscSchool
+  corrections:
+  - Check_#_1223
+  - Check_#_1224
+  - Check_#_1082
+  - Check_#_1226
+  - Check_#_1086
+  - Check_#_1085
+  - Check_#_1087
+  - Check_#_1088
+  - Check_#_1230
+  - Check_#_1231
+HilpertSpielwaren:
+  category: WorkTravel
+  corrections:
+  - HILPERT_SPIELWAREN
+HiltonHotel:
+  category: WorkTravel
+  corrections:
+  - HILTON_ROCKVILLE
+  - HILTON_ROCKVILLE_ROCKVILLE_MD
+  - HILTON_HOTEL_ROCKVILLE
+  - HILTON_HOTEL_BUF_THNDR
+  - HILTON_HOTELS
+HolidayInn:
+  category: Vacation
+  corrections:
+  - HOLIDAY_INN_EXPRESS_CO
+  - HOLIDAY_INN_HOTEL
+HollywoodPalmsCinema:
+  category: Entertainment
+  corrections:
+  - HOLLYWOOD_PALMS_CINEMA
+HomeCookedCaterings:
+  category: Dining
+  corrections:
+  - HOME_COOKED_CATERINGS
+HomeDepot:
+  category: General
+  corrections:
+  - THE_HOME_DEPOT
+  - The_Home_Depot
+  - HOMEDEPOT.COM
+Homegoods:
+  category: General
+  corrections:
+  - HOMEGOODS
+Honda:
+  category: CarPayment
+  corrections:
+  - HONDA
+  - Am-Honda
+  - Ahfc_Pmt
+  - Honda_Pmt
+HoneyDewDonuts:
+  category: Vacation
+  corrections:
+  - Honey_Dew_Donuts
+HotelBooking:
+  category: NormalTravel
+  corrections:
+  - HOTEL*BOOKING
+HotelDiStefano:
+  category: WorkTravel
+  corrections:
+  - HOTEL_DI_STEFANO
+HotelIbis:
+  category: WorkTravel
+  corrections:
+  - HOTEL_IBIS
+HotelMuencher:
+  category: WorkTravel
+  corrections:
+  - MC-HOTEL_MUENCHNER_HOF
+HotelWandl:
+  category: WorkTravel
+  corrections:
+  - WANDL
+Hotels.com:
+  category: WorkTravel
+  corrections:
+  - HOTELS.COM
+Houlihans:
+  category: Dining
+  corrections:
+  - Houlihans
+HoundDogs:
+  category: Dining
+  corrections:
+  - HOUND_DOGS
+HouseDownPayementInterest:
+  category: BankCharge
+  corrections:
+  - INTEREST_PAID_FROM
+HouseDownPayment:
+  category: HomeDownPayment
+  corrections:
+  - House_Down_Payment
+HoweTravelPlaza:
+  category: Vacation
+  corrections:
+  - HOWE_TRAVEL_PLAZA
+HowellsAndHood:
+  category: WorkTravel
+  corrections:
+  - Howells_And_Hood
+HuckBouma:
+  category: Lawyer
+  corrections:
+  - HUCK_BOUMA
+HudsonNews:
+  category: Entertainment
+  corrections:
+  - HUDSON_NEWS
+  - HUDSON-KEELEE_JFK_7_JV
+  - Hudson_News-_Los_Angel
+  - Hudson_News_Ph_68
+  - Hudsonams_Aei_Jfk_Ter2
+  - Hudson_News_O'hare_Jv
+  - HUDSONNEWS
+HumanRightsCampaign:
+  category: GiftsGiven
+  corrections:
+  - HUMAN_RTS_CAMPAIGN_WEB
+HunanBalcony:
+  category: Dining
+  corrections:
+  - Hunan_Balcony
+  - Hunan_Balcony_2128650400_Ny
+HuntingtonCountryInn:
+  category: NormalTravel
+  corrections:
+  - Huntington_Country_Inn
+HyannisSportscards:
+  category: Vacation
+  corrections:
+  - HYANNIS_SPORTSCARDS_IN
+Hyatt:
+  category: NormalTravel
+  corrections:
+  - HYATT_HOTEL
+HyattRegency:
+  category: WorkTravel
+  corrections:
+  - Hyatt_Regency_Riverfro
+IKEA:
+  category: Furniture
+  corrections:
+  - Ikea
+  - IKEA_
+ILDOHS:
+  category: ChildCare
+  corrections:
+  - Online_Payment_4586027734_To_Ill
+ILSoS:
+  category: Registration
+  corrections:
+  - IL_SOS_VEHICLE_POS
+  - Sosinternet_Vehic
+IMURiverRoom:
+  category: WorkTravel
+  corrections:
+  - IMU_RIVER_ROOM
+INCOMING_DOMESTIC_WIRE_FEE:
+  category: TaxRefund
+  corrections:
+  - INCOMING_DOMESTIC_WIRE_FEE
+INCOMING_FOREIGN_WIRE_FEE:
+  category: WorkTravel
+  corrections:
+  - INCOMING_FOREIGN_WIRE_FEE
+INTEREST_CHARGE_REVERSAL:
+  category: Dining
+  corrections:
+  - INTEREST_CHARGE_REVERSAL
+IPASS:
+  category: Tolls
+  corrections:
+  - IPASS_AUTOREPLENISH
+  - IL_Tollway
+IPass:
+  category: Fuel
+  corrections:
+  - I-PASS
+IQFresh:
+  category: Dining
+  corrections:
+  - UOFA_IQ_FRESH
+IRAPayment:
+  category: Todo
+  corrections:
+  - Tgtret2045_Investment
+  - IRAInvestment
+  - TGTRET2045_INVESTMENT
+  - TTL_IX_INV_INVESTMENT
+  - Vanguard_Buy_Investment_PPD_ID
+  - Check_#_1286
+IdolGivesBack:
+  category: Charity
+  corrections:
+  - Idol_Gives_Back_Eif
+IgniteUSA:
+  category: General
+  corrections:
+  - IGNITE_USA
+IlTollway:
+  category: WorkTravel
+  corrections:
+  - IlTollway
+IllinoisBarAndGrill:
+  category: Dining
+  corrections:
+  - ILLINOIS_BAR_&_GRILL
+IllinoisDMV:
+  category: License
+  corrections:
+  - IllinoisDMV
+  - JUSTICE
+  - Check_#_1201
+IllinoisEarlyIntervention:
+  category: Doctor
+  corrections:
+  - CHECK_1220
+  - Illinois_Dept._of_Human_Services
+  - CHECK_1218
+  - Check_#_1218
+  - Check_#_1220
+IllinoisFOID:
+  category: Recreation
+  corrections:
+  - Isp_Foid_New_App
+  - Ill_Stpolice_Sfee
+IllinoisHealthAndHumanServices:
+  category: Doctor
+  corrections:
+  - IllinoisHealthAndHumanServices
+  - Check_#_1005
+IllinoisSecOfState:
+  category: Registration
+  corrections:
+  - IL_WEB_PLATE_RENEWAL
+  - IL_SOS_FORTE
+  - IL_SOS_DRIVER
+  - ILSECOFSTATE
+  - ILSOS_FORTE
+  - SOS_INTERNET_VEHICLE
+  - SOSINTERNET_VEHICLE
+  - Ilsecofstatesfee
+IllinoisStateTaxes:
+  category: StateTaxes
+  corrections:
+  - State_of_Ill
+IllinoisTollway:
+  category: Tolls
+  corrections:
+  - IL_TOLLWAY
+  - IL_TOLLWAY-CALL_CTR_A
+  - Il_Tollway-call_Ctr_A
+  - ITR_PORTAGE_TOLLS
+Illy:
+  category: Dining
+  corrections:
+  - ILLY
+IndecorPaint:
+  category: General
+  corrections:
+  - INDECOR_EPAINT_JC_LICH
+IndependentLivingAid:
+  category: General
+  corrections:
+  - INDEPENDENT_LIVING_AID
+IndianHarvest:
+  category: Dining
+  corrections:
+  - Indian_Harvest
+  - INDIAN_HARVEST
+IndishesRestKohINoor:
+  category: WorkTravel
+  corrections:
+  - INDISCHES_REST_KOH_I_NOOR
+IndoChineVietnamese:
+  category: Dining
+  corrections:
+  - INDOCHINE_VIETNAMESE
+IndusValley:
+  category: Dining
+  corrections:
+  - Indus_Valley_Restauran
+IndusValleyRestaurant:
+  category: Dining
+  corrections:
+  - INDUS_VALLEY_RESTAURAN
+Ingles:
+  category: Vacation
+  corrections:
+  - INGLES_MARKETS
+InnovativePediatricDentists:
+  category: Doctor
+  corrections:
+  - INNOVATIVE_PEDIATRIC_DENT
+  - Innovative_Pediatric
+InstituteofNuclearTheory:
+  category: WorkTravel
+  corrections:
+  - Check_#_1028
+InstituteofReading:
+  category: Tuition
+  corrections:
+  - INSTITUTE_OF_READING_D
+InterMarche:
+  category: Groceries
+  corrections:
+  - INTERMARCHE
+InternationalServiceFee:
+  category: WorkTravel
+  corrections:
+  - INT'L_SERVICE_FEE
+  - International_Incoming_Wire_Fee
+InternationalWines:
+  category: Dining
+  corrections:
+  - International_Wines_An
+  - INTERNATIONAL_WINES
+  - International_Wines_&
+IrvingBlueCanoe:
+  category: Vacation
+  corrections:
+  - Irving_Bluecanoe
+IslipAirport:
+  category: WorkTravel
+  corrections:
+  - ISLID_AIRPORT
+IthacaScienceCenter:
+  category: Vacation
+  corrections:
+  - SCIENCENTER
+IvyLeagueStationary:
+  category: General
+  corrections:
+  - IVY_LEAGUE
+J&RSound:
+  category: General
+  corrections:
+  - J&R_SOUND/MAILORDER
+  - JAndRSound
+JAGroup:
+  category: Fuel
+  corrections:
+  - JAGROOP_S/S
+JCrew:
+  category: Clothing
+  corrections:
+  - J._Crew
+  - J_CREW
+  - J._CREW
+JFKAirport:
+  category: WorkTravel
+  corrections:
+  - JFK_INTERNATIO20000QPS_J
+  - Jfk_Internatio
+JFKRail:
+  category: WorkTravel
+  corrections:
+  - JFK_TVM
+JacksonAvePub:
+  category: Dining
+  corrections:
+  - JACKSON_AVENUE_PUB
+JacksonTavern:
+  category: Dining
+  corrections:
+  - JACKSON_TAVERN
+Jagdish:
+  category: Doctor
+  corrections:
+  - Online_Payment_2833934208_To_Jag
+JalapenoPaintWerx:
+  category: Furniture
+  corrections:
+  - CHECK_1022
+  - JalapenoPaintWerx
+  - Check_#_1022
+JamacianPlaceInHaywood:
+  category: Dining
+  corrections:
+  - HAYWOODGAME
+JambaJuice:
+  category: Dining
+  corrections:
+  - JAMBA_JUICE
+  - Jamba_Juice
+JapBook:
+  category: Clothing
+  corrections:
+  - JAPBOOK
+JaredGalleriaOfJewelry:
+  category: GiftsGiven
+  corrections:
+  - Jared_
+JasvaleMart:
+  category: Fuel
+  corrections:
+  - JASVALE_MART_INC
+JavaCity:
+  category: Dining
+  corrections:
+  - JAVA_CITY_COFF10000QPS
+JayMart:
+  category: Vacation
+  corrections:
+  - Jay_Mart_South
+JeanAtColumbia:
+  category: Doctor
+  corrections:
+  - JeanAtColumbia
+JeffEllisManagement:
+  category: Recreation
+  corrections:
+  - JEFFELLISMANAGEMENT
+  - Jeffellismanagement_
+JeffersonScienceAssociates:
+  category: WorkTravel
+  corrections:
+  - JEFFERSON_SCIENCE_ASSO
+JerseyMikes:
+  category: Dining
+  corrections:
+  - JERSEY_MIKES_SUBS
+JerusalemCafe:
+  category: Dining
+  corrections:
+  - JERUSALEM_CAFE
+JessaPess:
+  category: Clothing
+  corrections:
+  - JESSAPESS
+JetRoc:
+  category: NormalTravel
+  corrections:
+  - JetRoc
+JetRock:
+  category: Dining
+  corrections:
+  - Otg_Management_Jet_Roc
+  - JET_ROCK
+  - Jet_Rock_C_Lga_Termina
+JewelOsco:
+  category: Groceries
+  corrections:
+  - Jewel-osco
+  - JEWEL
+  - Jewel
+  - Card_Purchase_With_Pin_05/19
+  - Card_Purchase_With_Pin_12/26
+JiffyLube:
+  category: Service
+  corrections:
+  - Jiffy_Lube
+  - JIFFY_LUBE
+JimBestDOPC:
+  category: Doctor
+  corrections:
+  - JIM_BEST_DOPC
+JimmyJohns:
+  category: Dining
+  corrections:
+  - JIMMY_JOHN
+  - Jimmy_Johns
+Jimmys:
+  category: Dining
+  corrections:
+  - JIMMYS_ON_THE_PARK
+  - JIMMYS
+JimmysGrill:
+  category: Dining
+  corrections:
+  - JIMMY'S_GRILL
+Jin28:
+  category: Dining
+  corrections:
+  - JIN28_
+Jockey:
+  category: GiftsGiven
+  corrections:
+  - JOCKEY_STORE
+JoeMamas:
+  category: Dining
+  corrections:
+  - JOE_MAMA'S
+  - JOE_MAMAS_PITTSBURGH_PA
+JohnnyCarinos:
+  category: Dining
+  corrections:
+  - JOHNNY_CARINOS
+JoseCuervo:
+  category: Vacation
+  corrections:
+  - JOSE_CUERVO_TE12200556
+Journeys:
+  category: Dining
+  corrections:
+  - JOURNEYS
+JuscoyaGoto:
+  category: Dining
+  corrections:
+  - JUSCOYAGOTO
+JusticeWeb:
+  category: General
+  corrections:
+  - JUSTICE_WEB_866
+KFC:
+  category: Dining
+  corrections:
+  - KFC
+KaboozsBar&Grill:
+  category: Dining
+  corrections:
+  - KaboozsBarAndGrill
+  - Kaboozs_Bar_&_Grill
+KahunaBusiness:
+  category: Groceries
+  corrections:
+  - Kahuna_Busines/1225_Amste
+KaneCountyCougars:
+  category: Recreation
+  corrections:
+  - KANE_COUNTY_COUGARS
+  - 2ELFSTROM_STAD
+KarvyAnalytics:
+  category: ThomasSalaryKarvy
+  corrections:
+  - Digit_Payroll_Direct_Dep_PPD_ID
+KateSpade:
+  category: Clothing
+  corrections:
+  - KATE_SPADE
+KavaCoffee:
+  category: Dining
+  corrections:
+  - KAVA_CAFE
+Kebabaluba:
+  category: Dining
+  corrections:
+  - KEBABALUBA
+KellysCajunGrill:
+  category: Dining
+  corrections:
+  - KELLYS_CAJUN_GRILL
+KernelGourmetPopcorn:
+  category: Dining
+  corrections:
+  - KERNEL_GOURMET_POPCORN
+Kickstarter.com:
+  category: Entertainment
+  corrections:
+  - KICKSTARTER_COM
+KidsTown:
+  category: Entertainment
+  corrections:
+  - KIDS_TOWN
+Kidwoot.com:
+  category: GiftsGiven
+  corrections:
+  - KIDWOOT.COM
+KillKullen:
+  category: Groceries
+  corrections:
+  - King_Kullen
+KimSMediapolis:
+  category: Dining
+  corrections:
+  - Kim_S_Mediapolis
+Kimmie96:
+  category: Clothing
+  corrections:
+  - KIMMIE96
+KindleUnlimited:
+  category: Entertainment
+  corrections:
+  - Kindle_Unlimited
+KingJouets:
+  category: WorkTravel
+  corrections:
+  - King_Jouets
+KingsSupermarket:
+  category: Groceries
+  corrections:
+  - Kings_Supermarket
+  - KINGS_SUPERMARKET
+KingstonAlley:
+  category: Dining
+  corrections:
+  - KINGSTON_ALLEY
+KnoxvilleHospital:
+  category: Doctor
+  corrections:
+  - KNOXVILLE_EMERGENCY
+Kohls:
+  category: Clothing
+  corrections:
+  - KOHLS
+  - KOHL'S
+  - WWW.KOHLS.COM
+KonaIce:
+  category: Dining
+  corrections:
+  - KONA_ICE
+Kphant:
+  category: General
+  corrections:
+  - KPHANT
+Kroger:
+  category: Groceries
+  corrections:
+  - KROGER
+KuipersFarm:
+  category: Entertainment
+  corrections:
+  - KUIPERS_FAMILY_FARM
+  - Kuipers_Family_Farm
+KumasAsianBistro:
+  category: Dining
+  corrections:
+  - KUMAS_ASIAN
+KumasCorner:
+  category: Dining
+  corrections:
+  - KUMAS_CORNER
+KushiesBabyUsa:
+  category: Clothing
+  corrections:
+  - KUSHIES_BABY_USA_INC.
+LHCb:
+  category: WorkTravel
+  corrections:
+  - LHCb
+LIPA:
+  category: GasElectric
+  corrections:
+  - Lipa_Directpay
+  - LIPA
+LIRR:
+  category: NormalTravel
+  corrections:
+  - LIRR_TVM
+  - LIRRNY
+  - Lirr_Tvm
+LLBeam:
+  category: Clothing
+  corrections:
+  - LL_BEAN
+LLBean:
+  category: Clothing
+  corrections:
+  - LLBEAN-DIRECT
+LLNL_REGISTRATION_FEES:
+  category: WorkTravel
+  corrections:
+  - LLNL_REGISTRATION_FEES
+LMRestaurants:
+  category: Dining
+  corrections:
+  - Lm_Restaurants_Cary_Nc
+LaBonneBoulangerie:
+  category: Dining
+  corrections:
+  - LA_BONNE_BOULANGER
+  - La_Bonne_Boulangerie
+  - La_Bonne_Boulangerie_Port_Jefferso_Ny
+  - LA_BONNE_BOULANGERIE
+LaBoulanger:
+  category: Dining
+  corrections:
+  - LA_BOULANGER
+LaBrea:
+  category: Dining
+  corrections:
+  - LA_BREA_S
+LaGuadriaAirport:
+  category: WorkTravel
+  corrections:
+  - LAGUARDIA/FIGS_CAFE_CONC
+LaGuardiaAirport:
+  category: WorkTravel
+  corrections:
+  - LGALOT5/05
+  - LAGUARDIA_AIRP30000QPS
+  - LGALOT
+  - LAGUARDIA_AIRPORT
+  - LGALOT2/02
+LaPalapa:
+  category: WorkTravel
+  corrections:
+  - LA_PALAPA
+LaTour:
+  category: Dining
+  corrections:
+  - La_Tour
+LaVazza:
+  category: Dining
+  corrections:
+  - LAVAZZA_F28467
+LachineRapidTours:
+  category: Entertainment
+  corrections:
+  - LACHINE_RAPID_TOURS_LT
+LaguardiaAirport:
+  category: WorkTravel
+  corrections:
+  - LaguardiaAirport
+LainiesWay:
+  category: Entertainment
+  corrections:
+  - LAINIES_WAY_PORT_JEFFERSO_NY
+  - LAINIE'S_WAY
+LakeTahoeFood:
+  category: Dining
+  corrections:
+  - SV_PRESERVE_FOOD_AND_B
+LakesiteServiceCenter:
+  category: Fuel
+  corrections:
+  - LAKESITE_SVC_CTR_INQPS
+LalosMexican:
+  category: Dining
+  corrections:
+  - Lalo's_Mexican
+  - LALO'S_MEXICAN
+LamazeClass:
+  category: Doctor
+  corrections:
+  - LamazeClass
+  - Check_#_1266
+LandsEnd:
+  category: Clothing
+  corrections:
+  - LANDS_END_CLOTHING
+  - LANDS_END
+LandsideFC:
+  category: WorkTravel
+  corrections:
+  - LANDSIDE_FC_BA10195733
+LannaThai:
+  category: Dining
+  corrections:
+  - LANNA_THAI
+LasPalmas:
+  category: Dining
+  corrections:
+  - Las_Palmas_3
+  - Las_Palmas_3_Naperville_Il
+  - LAS_PALMAS
+LastStopRestaurant:
+  category: Dining
+  corrections:
+  - LAST_STOP_RESTAURANT
+LaughFactory:
+  category: Entertainment
+  corrections:
+  - W_F_LAUGH_FACTORY
+Lavgrant:
+  category: Clothing
+  corrections:
+  - LAVGRANT
+LawrenceTKacmarMd:
+  category: Doctor
+  corrections:
+  - Lawrence_T_Kacmar_Md
+Le:
+  category: Dining
+  corrections:
+  - Le_New_Ny
+LeBusCafe:
+  category: Dining
+  corrections:
+  - LE_BUS_CAFE
+LeChocolatDuBouchard:
+  category: Dining
+  corrections:
+  - LE_CHOCOLAT_DU_BOUCHARD
+  - LECHOCOLAT_DU_BOUCHARD
+LeMonde:
+  category: Dining
+  corrections:
+  - LE_MONDE
+  - Le_Monde
+LeSaintBock:
+  category: Vacation
+  corrections:
+  - LE_SAINT-BOCK
+LeapFrodCafe:
+  category: Dining
+  corrections:
+  - Leap_Frog_Cafe41213q99
+LearningExpressToys:
+  category: Entertainment
+  corrections:
+  - Learning_Express_Toys
+LegoShop:
+  category: GiftsGiven
+  corrections:
+  - LEGO_*SHOP
+LegolandDiscoveryCenter:
+  category: Entertainment
+  corrections:
+  - MEG*LEGOLAND_DISCOVERY
+LemonleafGrill:
+  category: Dining
+  corrections:
+  - LEMONLEAF_GRILL
+Lenovo:
+  category: WorkTravel
+  corrections:
+  - LENOVO
+LensCrafters:
+  category: Clothing
+  corrections:
+  - LensCrafters
+  - LensCrafters__10001527
+LifeIsGood:
+  category: Clothing
+  corrections:
+  - LIFE_IS_GOOD
+  - LIFEISGOOD
+LifeTimeCafe:
+  category: Dining
+  corrections:
+  - LIFE_TIME_CAFE
+LifeTimeFitness:
+  category: Recreation
+  corrections:
+  - LIFE_TIME_FITNESS
+  - LIFE_TIME_MO_DUES
+LifeTouchSchoolPortraits:
+  category: MiscSchool
+  corrections:
+  - LIFETOUCH_NSS_ONLINE_P
+  - LIFETOUCH_PRESCHOOL
+  - LIFETOUCH_PHOTOGIFTS
+LighthouseInn:
+  category: Vacation
+  corrections:
+  - Lighthouse_Inn_Restaur
+LilAngels:
+  category: MiscSchool
+  corrections:
+  - LIL_ANGELS_PHOTOGRAPH
+LimestoneCoffeeAndTea:
+  category: Dining
+  corrections:
+  - LIMESTONE_COFFEE_And_TEA
+LimitedStores:
+  category: Clothing
+  corrections:
+  - LIMITED_STORES
+LincolnSquare:
+  category: Entertainment
+  corrections:
+  - Lincoln_Sq_Imx07021q02
+LindenOaks:
+  category: Hospital
+  corrections:
+  - LINDEN_OAKS
+Linds1022:
+  category: General
+  corrections:
+  - LINDS1022
+LisaPinto:
+  category: Doctor
+  corrections:
+  - LISA_A_PINTO_PSY_DPC
+  - Lisa_Pinto
+LittleFairyWings.com:
+  category: Clothing
+  corrections:
+  - LITTLEFAIRYWINGS.COM
+LittleMissCupcake:
+  category: Vacation
+  corrections:
+  - LITTLE_MISS_CUPCAPE
+LittleThaiRestaurant:
+  category: Dining
+  corrections:
+  - LITTLE_THAI_RESTAURANT
+LivingRoomOfLaJolla:
+  category: Dining
+  corrections:
+  - LIVING_ROOM_OF_LA_JOLL
+Loehmanns:
+  category: Clothing
+  corrections:
+  - LOEHMANN'S
+LoftOutlet:
+  category: Clothing
+  corrections:
+  - LOFT_OUTLET_STORE
+LoneStar:
+  category: Dining
+  corrections:
+  - MC-LONE_STAR-BATT00142158
+  - LONESTAR_EMPOR20516423
+LongwoodGardens:
+  category: Dining
+  corrections:
+  - Longwood_Gardens_Terra
+LorisDesignerShoes:
+  category: Clothing
+  corrections:
+  - Lori's_Designer_Shoes
+  - LORI'S_DESIGNER_SHOES
+Los:
+  category: Clothing
+  corrections:
+  - LOS
+  - LOS_
+  - Los
+LoveTravel:
+  category: Vacation
+  corrections:
+  - LOVE_S_TRAVEL
+LowEBlueBurSaltLakeCity:
+  category: Dining
+  corrections:
+  - Low_E_Blue_Bur30552q19_Salt_Lakecity_Ut
+Lowes:
+  category: General
+  corrections:
+  - Lowes
+  - LOWES
+LubePros:
+  category: Service
+  corrections:
+  - Lubepros
+  - Lube_Pro's
+LuigiStefani:
+  category: Dining
+  corrections:
+  - LUIGI_STEFANI_PIZZERIA
+LuigisHouse:
+  category: Dining
+  corrections:
+  - LUIGI'S_HOUSE
+LukOil:
+  category: Fuel
+  corrections:
+  - LUKOIL
+Lululemon:
+  category: Clothing
+  corrections:
+  - LULULEMONCOM
+  - LULULEMON_NAPERVILLE
+  - LULULEMON_OAKBROOK
+  - LULULEMON
+LurieChildrensHospital:
+  category: Doctor
+  corrections:
+  - CHECK_1219
+  - Check_#_1219
+Lux:
+  category: WorkTravel
+  corrections:
+  - Www.skype.com_Internet_Lux
+LylasCafe:
+  category: Dining
+  corrections:
+  - LYLAS_CAFE
+  - Lylas_Cafe
+MARKETPARTN:
+  category: Fuel
+  corrections:
+  - MARKETPARTN
+MDenOnCampus:
+  category: GiftsGiven
+  corrections:
+  - M-DEN_ON_CAMPUS
+MGHParking:
+  category: WorkTravel
+  corrections:
+  - MGH_PARKING_YAWKEY
+MINIMUM_INTEREST_CHARGE:
+  category: BankCharge
+  corrections:
+  - MINIMUM_INTEREST_CHARGE
+MTA:
+  category: NormalTravel
+  corrections:
+  - MTA_MVM
+  - MTA_VENDING
+  - Mta_Mvm
+Macys:
+  category: Clothing
+  corrections:
+  - MACY'S
+  - MACYS
+  - MACY*S
+  - Macys_
+  - MACY_S
+MadAnthonysSeattle:
+  category: Dining
+  corrections:
+  - ANTON_MAD_ANTH32278566
+MadisonTrip:
+  category: Vacation
+  corrections:
+  - MadisonTrip
+MadridAirport:
+  category: WorkTravel
+  corrections:
+  - ADOLFO_SUAREZ_MADR_MADRID
+MaggieIsland:
+  category: Dining
+  corrections:
+  - MC-MAGGIE_ISL
+MagnoliaCafe:
+  category: Vacation
+  corrections:
+  - MAGNOLIA_CAFE
+MaidBrigade:
+  category: MovingStorage
+  corrections:
+  - MaidBrigade
+  - Check_#_1010
+MainStreetBakery:
+  category: WorkTravel
+  corrections:
+  - MAIN_STREET_BAKERY
+MainStreetCafe:
+  category: Dining
+  corrections:
+  - MAIN_STREET_CAFE
+Maine:
+  category: Vacation
+  corrections:
+  - Maine
+  - Check_#_1058
+MaizeAndBlueDelicates:
+  category: Clothing
+  corrections:
+  - MAIZE_&_BLUE_DELICATES
+  - MAIZE_And_BLUE_DELICATES
+MalloysFinestWines:
+  category: Groceries
+  corrections:
+  - MALLOYS_FINEST_WINE_AN
+Malnatis:
+  category: Dining
+  corrections:
+  - MALNATIS_10
+MamaLombardi:
+  category: Dining
+  corrections:
+  - MAMA_LOMBARDI11453396_RONKONKOMA_NY
+  - MAMA LOMBARDI
+MamaLombardis:
+  category: Dining
+  corrections:
+  - MAMA_LOMBARDI'11453396
+MamaMelina:
+  category: WorkTravel
+  corrections:
+  - MAMA_MELINA
+ManchuWok:
+  category: Vacation
+  corrections:
+  - MANCHU_WOK
+MandLAutoCare:
+  category: Fuel
+  corrections:
+  - M_And_L_AUTO_CARE_UPTON_NY
+  - M_And_L_AUTO_CARE
+  - M_&_L_AUTO_CARE
+MappsCoffee:
+  category: WorkTravel
+  corrections:
+  - MAPPS_COFFEE
+MarathonOil:
+  category: Fuel
+  corrections:
+  - MARATHON_PETRO
+  - Marathon_Oil
+  - MARATHON_PETRO156836
+  - MARATHON_OIL
+  - Marathon_Petro
+Marcia:
+  category: Clothing
+  corrections:
+  - MARCIA
+Marianos:
+  category: Groceries
+  corrections:
+  - Marianos
+  - MARIANOS
+MarketCreations:
+  category: Dining
+  corrections:
+  - Market_Creations
+  - MARKET_CREATIONS
+MarketFresh:
+  category: Dining
+  corrections:
+  - MARKET_FRESH
+MarktOnLadiesMile:
+  category: Clothing
+  corrections:
+  - MC-MARKT_ON_LADIES'_MILE
+MarthaVandeWater:
+  category: GiftsReceived
+  corrections:
+  - MarthaVandeWater
+MartignettiLiquors:
+  category: Vacation
+  corrections:
+  - MARTIGNETTI_LIQUORS
+Martin's:
+  category: Dining
+  corrections:
+  - Martin's
+  - Martins
+MartiniBar:
+  category: Dining
+  corrections:
+  - MARTINI_BAR
+MartinsAdeoye:
+  category: Doctor
+  corrections:
+  - Online_Payment_4156760692_To_Mar
+  - Online_Payment_4107232109_To_Mar
+MartinsNewsShops:
+  category: WorkTravel
+  corrections:
+  - MARTINS_NEWS_SHOPS_-_T
+MaryBethMcLaughlin:
+  category: Doctor
+  corrections:
+  - CHECK_1017
+  - Online_Payment_3671486907_To_Mar
+  - MaryBethMcLaughlin
+  - CHECK_1019
+  - CHECK_1018
+  - CHECK_1021
+  - CHECK_1023
+  - Check_#_1006
+  - Check_#_1011
+  - Check_#_1012
+  - Check_#_1013
+  - Check_#_1014
+  - Check_#_1015
+  - Check_#_1016
+  - Check_#_1017
+  - Check_#_1018
+  - Check_#_1023
+  - Check_#_1019
+  - Check_#_1020
+  - Check_#_1021
+Masala:
+  category: Dining
+  corrections:
+  - MASALA_WARRENVILLE_IL
+MassBayCompany:
+  category: Vacation
+  corrections:
+  - MASS_BAY_CO.
+  - MASS_BAY_COMPANY_INC
+MataFactorCafe:
+  category: Dining
+  corrections:
+  - MATA_FACTOR_CAFE
+MauiBanyan:
+  category: Vacation
+  corrections:
+  - Maui_Banyan_Vacation
+MauiBanyon:
+  category: Vacation
+  corrections:
+  - MAUI_BANYAN_VAC_CLUB
+Max&Millie:
+  category: Clothing
+  corrections:
+  - MAX_&_MILLIE_INC
+MaxAndMillie:
+  category: Clothing
+  corrections:
+  - MAX_And_MILLIE_INC
+MaxCaffe:
+  category: Dining
+  corrections:
+  - Max_Caffe
+MayoraCoffee:
+  category: Coffee
+  corrections:
+  - MAYORGA_COFFEE_A_WING
+MayorgaCoffee:
+  category: Coffee
+  corrections:
+  - MAYORGA_COFFEE_CNT._CO
+MayuriMiniMartIndian:
+  category: Dining
+  corrections:
+  - A_AND_D_MINI_MART_IN
+McAlistersDeli:
+  category: Dining
+  corrections:
+  - MCALISTERS_DELI
+  - MCALISTERS
+McCormickPlace:
+  category: Dining
+  corrections:
+  - MCCORMICK_PLAC
+McDonalds:
+  category: Dining
+  corrections:
+  - Mcdonald's_
+  - MCDONALDS
+  - MCDONALDS_
+  - MCDONALDS_F13639
+  - MCDONALD'S
+  - MCDONALDS_F600
+  - Mcdonalds_
+MehakCuisineInc:
+  category: Dining
+  corrections:
+  - MEHAK_CUISINE_INC
+Meijer:
+  category: Groceries
+  corrections:
+  - Meijer_Inc
+  - MEIJER
+MellowMushroom:
+  category: Dining
+  corrections:
+  - MELLOW_MUSHROOM
+MeltEmersoy:
+  category: Clothing
+  corrections:
+  - MELTEMERSOY
+Menards:
+  category: Furniture
+  corrections:
+  - Menards_Naperville
+  - Menards_3505
+  - MENARDS
+  - Menards
+MenchiesFrozenYogurt:
+  category: Vacation
+  corrections:
+  - MENCHIE`S_FROZEN_YOGURT
+MesonSabika:
+  category: Dining
+  corrections:
+  - Meson_Sabika
+  - MESON_SABIKA
+Metra:
+  category: WorkTravel
+  corrections:
+  - Metra_Mobile
+  - METRA_NAPERVILLE
+  - METRA_UNION_STATION
+  - METRA_MOBILE
+MetroNorth:
+  category: WorkTravel
+  corrections:
+  - METRO-NORTH
+MexToGo:
+  category: Dining
+  corrections:
+  - MEXTOGO
+Michaels:
+  category: General
+  corrections:
+  - Michaels
+MichaelsMarket:
+  category: Groceries
+  corrections:
+  - MICHAELS
+  - MICHAEL'S_MARKET
+  - MICHAEL'S
+MichiganStateUniversity:
+  category: WorkTravel
+  corrections:
+  - MICHIGAN_STATE_UNIVERS
+  - Msu_Spartys_Dcl_2226
+  - Msu_Owen_Graduate_2193
+MicroCenter:
+  category: Entertainment
+  corrections:
+  - MICRO_CENTER
+MicrosoftStore:
+  category: WorkTravel
+  corrections:
+  - MICROSOFT_-_8_OAK_BROOK
+Midas:
+  category: Service
+  corrections:
+  - MIDAS_MUFFLER
+MidcoastKayak:
+  category: Vacation
+  corrections:
+  - Midcoast_Kayak
+MiddleKingdomInc:
+  category: Clothing
+  corrections:
+  - MIDDLE_KINGDOM_INC
+MidwayJetbox:
+  category: Vacation
+  corrections:
+  - MDW_JETBOX_And_DD_B
+MidwayParkingGarage:
+  category: Vacation
+  corrections:
+  - ECONO_PLAZA_BOOTH_4
+MikeKenny:
+  category: Lawyer
+  corrections:
+  - KENNY_AND_KENNY_OP
+MikesMechanics:
+  category: Service
+  corrections:
+  - MIKES_MECHANICS_SVC_PORT_JEFFERSO_NY
+  - Mike's_Mechanics
+  - MIKE'S_MECHANICS
+MilanoMarket:
+  category: Dining
+  corrections:
+  - MILANO_MARKET
+  - MILANO_MARKE/MILANO_MARK
+MillKoreanRestaurant:
+  category: Dining
+  corrections:
+  - MILL_KOREAN_RESTAURANT
+MilleniumLakeside:
+  category: Dining
+  corrections:
+  - 72824_-_MILLENNIUM_LAKESI
+MillersPub:
+  category: Dining
+  corrections:
+  - Millers_Pub
+MintedLLC:
+  category: Clothing
+  corrections:
+  - MINTED_LLC
+MirabellaKincaid:
+  category: Lawyer
+  corrections:
+  - Mirabella_Kincaid_Fred
+ModPizza:
+  category: Dining
+  corrections:
+  - MOD_PIZZA
+  - Mod_Pizza
+MollickEtraAndEtra:
+  category: Doctor
+  corrections:
+  - MOLLICK_ETRA_And_ETRA_And_MOUNT_SINAI_NY
+MollickEtraEtra:
+  category: Doctor
+  corrections:
+  - MOLLICK_ETRA_&_ETRA_&
+MollyMaid:
+  category: General
+  corrections:
+  - MOLLY_MAID_OF_AURORA
+  - Molly_Maid
+MonkeyJoes:
+  category: Dining
+  corrections:
+  - MONKEY_JOES
+MonomoyExcursions:
+  category: Vacation
+  corrections:
+  - MONOMOY_EXCURSIONS
+MooresGourmetMarket:
+  category: Dining
+  corrections:
+  - Moore's_Gourmet_Market
+MorningsideBO:
+  category: Entertainment
+  corrections:
+  - MC-MORNINGSIDE_BO79400016
+  - Morningside_Bo79400016
+MortenArboretumCafe:
+  category: Dining
+  corrections:
+  - AMK_MORTON_ARBOR_CAFE
+MortonArboretum:
+  category: Entertainment
+  corrections:
+  - THE_MORTON_ARBORETUM
+  - MORTON_ARBORETUM
+MortonWilliams:
+  category: Groceries
+  corrections:
+  - Morton_Williams
+  - MORTON_WILLI
+Motel6:
+  category: WorkTravel
+  corrections:
+  - MOTEL_6
+Motherhood:
+  category: Clothing
+  corrections:
+  - MOTHERHOOD
+MoutainJava:
+  category: WorkTravel
+  corrections:
+  - MOUNTAIN_JAVA
+MoutainNectar:
+  category: Dining
+  corrections:
+  - MOUNTAIN_NECTAR
+MowItAll:
+  category: MovingStorage
+  corrections:
+  - MowItAll
+MoxieJean:
+  category: Clothing
+  corrections:
+  - MOXIE_JEAN_402
+MrsFieldsCookies:
+  category: Dining
+  corrections:
+  - MRS_FIELDS_COOKIES
+MughlaiIndian:
+  category: Dining
+  corrections:
+  - MUGHLAI_INDIAN_CUISINE
+MuseumOfNaturalHistory:
+  category: Entertainment
+  corrections:
+  - Museum_Nat_Hist_Ticket
+MuseumOfScienceBoston:
+  category: Vacation
+  corrections:
+  - MUSEUM_OF_SCIENCE_BOST_B
+  - MUSEUM_OF_SCIENCE_BOSTON
+  - Museum_of_Science_Bost
+MysticAquarium:
+  category: Vacation
+  corrections:
+  - MYSTIC_AQUARIUM_AND_IN
+  - MYSTIC_AQUARIUM
+NCOFinancialSystems:
+  category: Doctor
+  corrections:
+  - NCO_FACS_51/48/62
+NHGenevaAirportHotel:
+  category: WorkTravel
+  corrections:
+  - NH_Geneva_Airport_Hote
+NIUOutreach:
+  category: WorkTravel
+  corrections:
+  - NIU_OUTREACH
+NPR-Chicago:
+  category: Charity
+  corrections:
+  - CHICAGO_PUBLIC_MEDI
+NYCATM:
+  category: Cash
+  corrections:
+  - Cash-NewYork
+NYCParkingGarage:
+  category: Clothing
+  corrections:
+  - 99_PARK_AVENUE_CORP
+NYCTaxi:
+  category: WorkTravel
+  corrections:
+  - Nyc-taxi
+  - Nyc_Taxi_Med_1A21_Q_516-932-5609_Ny
+  - Nyc_Taxi_Med_8B65_Q_516-333-7854_Ny
+N_TWUMWAA:
+  category: WorkTravel
+  corrections:
+  - N_TWUMWAA_AIRPORT_TAXI
+NaHoku:
+  category: GiftsGiven
+  corrections:
+  - NA_HOKU
+NafNafGrill:
+  category: Dining
+  corrections:
+  - NAF_NAF_GRILL
+  - Naf_Naf_Grill
+Nandos:
+  category: Dining
+  corrections:
+  - NANDOS_OF_NAPERVI
+NapervilleDental:
+  category: Dental
+  corrections:
+  - NAPERVILLE_DENTAL_SPECIA_NAPERVILLE_IL
+  - Naperville_Dental
+  - NAPERVILLE_DENTAL_SPECIAL
+NapervilleDistrict203:
+  category: MiscSchool
+  corrections:
+  - RVT*Naperville_CUSD_203
+  - Check_#_1030
+NapervilleEducationFoundation:
+  category: Charity
+  corrections:
+  - BB_*NEF_630-420-3086_IL
+  - NAPERVILLE_ED_FDN
+NapervilleParkDistrict:
+  category: Recreation
+  corrections:
+  - NAPERVILLE_PARK_DISTRI
+  - NapervilleParkDist
+  - Napervilleparkdist
+NapervilleParking:
+  category: NormalTravel
+  corrections:
+  - NAPERVILLE-PARKING
+NapervillePublicLibrary:
+  category: Entertainment
+  corrections:
+  - NAPERVILLE_PUBLIC_L
+  - Naperville_Public_L
+  - Naperville_Pub
+NapervilleRunningCo:
+  category: Clothing
+  corrections:
+  - NAPERVILLE_RUNNING_COM
+  - NAPERVILLE_RUNNING_CO
+NapervilleSchoolDistrict:
+  category: MiscSchool
+  corrections:
+  - CHECK_1075
+  - CHECK_1025
+  - NapervilleSchoolDistrict
+  - NAPERVILLE_CUSD_203
+  - Check_#_1075
+  - Check_#_1007
+  - Check_#_1202
+  - School_District_203
+NapervilleStar:
+  category: Fuel
+  corrections:
+  - NAPERVILLE_STAR_NAPERVILLE_IL
+NapervilleYard:
+  category: Recreation
+  corrections:
+  - NAPERVILLE_YARD_CORPORATI
+  - Naperville_Yard
+NationalExprees:
+  category: WorkTravel
+  corrections:
+  - NATIONAL_EXPRESS
+NationalGrid:
+  category: GasElectric
+  corrections:
+  - NATIONAL_GRID-
+  - National_Grid
+  - Check_#_1290
+NationalMilitaryFamilyAssociation:
+  category: GiftsGiven
+  corrections:
+  - NATIONAL_MILITARY_FAMI
+NativeFoods:
+  category: Dining
+  corrections:
+  - NATIVE_FOODS_-_RIVER_F
+NaturalHear:
+  category: General
+  corrections:
+  - NATURALHEAR
+NawabIndian:
+  category: Dining
+  corrections:
+  - NAWAB_INDIAN_CUISINE
+  - Nawab_Indian_Cuisine
+NayyarSons:
+  category: Dining
+  corrections:
+  - NAYYAR_SONS
+  - Nayyar_Sons
+Nespresso:
+  category: Coffee
+  corrections:
+  - NESPRESSO
+  - Nespresso_
+Netflix:
+  category: Entertainment
+  corrections:
+  - NETFLIX
+  - Www.Netflix.Com
+  - Netflix.com
+  - Netflix.Com
+NetworkForGood:
+  category: Charity
+  corrections:
+  - NETWORK_FOR_GOOD
+NewHampshireEZPass:
+  category: Fines
+  corrections:
+  - NH_TURNPIKE_E-Z_PASS
+NewHampshireTollFine:
+  category: Tolls
+  corrections:
+  - Check_#_1222
+  - Check_#_1160
+NewJerseyDevils:
+  category: Dining
+  corrections:
+  - New_Jersey_Devils_Rest
+  - New_Jersey_Devils_Cq83
+NewJerseyTransit:
+  category: WorkTravel
+  corrections:
+  - NJT_NY_PENN_STATION_TV
+  - Njt_Ny_Penn_Station_Tv
+  - NJT_NWK-INT_AIRPORT_TV
+  - Njt_Mrrstwn_Trnstn_Tvm
+NewYorkAquarium:
+  category: Entertainment
+  corrections:
+  - New_York_Aquarium
+NewYorkState:
+  category: TaxRefund
+  corrections:
+  - NY_STATE
+  - Check_#1258
+NewYorkStateDMV:
+  category: Registration
+  corrections:
+  - New_York_State_Dmv
+  - NEW_YORK_STATE_DMV
+NewYorkStateTaxes:
+  category: StateTaxes
+  corrections:
+  - NYS_TAX_&amp;_FINANC_PIT_PYMT
+  - NYS_TAX_&_FINANC_PIT_PYMT
+  - NYS_TAX_And_FINANC_PIT
+  - NY_State_Tax_Refund_
+  - Nys_Tax_And_Financ_
+NickysGryos:
+  category: Dining
+  corrections:
+  - NICKYS_GYROS_AND_RIBS
+NicorGas:
+  category: GasElectric
+  corrections:
+  - NICOR/NCO
+  - Nicor_Gas
+  - NORTHERN_ILLINOI_PAYMENT
+  - NCO*NICOR_GAS
+  - Northern_Illinoi_Payment
+Nintendo:
+  category: Entertainment
+  corrections:
+  - NINTENDO_WII
+NoodlesAndCo:
+  category: Dining
+  corrections:
+  - NOODLES
+  - Noodles
+NordicTrack:
+  category: Furniture
+  corrections:
+  - NORDIC_TRACK
+Nordstrom:
+  category: Clothing
+  corrections:
+  - NORDSTROM_DIRECT
+  - NORDSTROM
+NorthForkBank:
+  category: Cash
+  corrections:
+  - NORTH_FORK_BANK
+NorthernPond:
+  category: Dining
+  corrections:
+  - NORTHERN_POND
+Noteworthy:
+  category: Clothing
+  corrections:
+  - Noteworthy
+Novecento:
+  category: Dining
+  corrections:
+  - Novecento
+Ntrigue:
+  category: Hair
+  corrections:
+  - NTRIGUE_OF_NEW_YORK
+  - NTRIGUE_OF_PT_JEFFERSO
+  - Ntrigue_Hair_Studio
+NtrigueHairStudio:
+  category: Hair
+  corrections:
+  - NTRIGUE_HAIR_STUDIO
+NussbaumAndWu:
+  category: Dining
+  corrections:
+  - Nussbaum_&_Wu
+  - Nussbaum_&_Wu_Bakery
+OBrienGarageDoors:
+  category: HomeRepairs
+  corrections:
+  - OBRIEN_GARAGE_DOORS_OF
+  - OBRIEN_GARAGE_DOORS
+OBriensPub:
+  category: Dining
+  corrections:
+  - OBRIENS_PUB_&_GRILL
+OChaTeaBar:
+  category: Dining
+  corrections:
+  - O_CHA_TEA_BAR
+ORB:
+  category: NormalTravel
+  corrections:
+  - MC-ORB_AP190101VGV4HQE3
+  - ORB_8KPU3U__XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+OTGManagementEWR:
+  category: WorkTravel
+  corrections:
+  - OTG_MANAGEMENT_EWR
+OTGManagementJFK:
+  category: Dining
+  corrections:
+  - OTG_MANAGEMENT_JFK
+OTGManagementTuscon:
+  category: WorkTravel
+  corrections:
+  - OTGMANAGEMENTTUCSON
+  - OTG_MANAGEMENT_T8
+OTGORD:
+  category: WorkTravel
+  corrections:
+  - OTG_ORD_VENTURE
+OUTGOING_DOMESTIC_WIRE_FEE:
+  category: Fuel
+  corrections:
+  - OUTGOING_DOMESTIC_WIRE_FEE
+  - Outgoing_Domestic_Wire_Fee
+OakParkChildrensMuseum:
+  category: Recreation
+  corrections:
+  - WONDER_WORKS_CHILD
+OakRidgeAssociatedUniversities:
+  category: WorkTravel
+  corrections:
+  - OAK_RIDGE_ASSOCIATED_U
+OakStreetBeachCade:
+  category: WorkTravel
+  corrections:
+  - OAK_STREET_BEACH_CAFE
+OberweisDairy:
+  category: Dining
+  corrections:
+  - OBERWEIS_DAIRY
+ObriensRestaurant:
+  category: Dining
+  corrections:
+  - Obriens_Restaurant
+OceanMistBeachHotel:
+  category: Vacation
+  corrections:
+  - OCEAN_MIST_BEACH_HOTEL_And_SOUTH_YARMOUT_MA
+Oceans5Seafood:
+  category: Dining
+  corrections:
+  - OCEANS_5
+OceansPizzeria:
+  category: Dining
+  corrections:
+  - OCEANS_PIZZERIA
+OfficeMax:
+  category: General
+  corrections:
+  - OFFICE_MAX
+OhareABCLot:
+  category: Tolls
+  corrections:
+  - COC_OHARE_
+  - OHARE_--_A,B,C_LOT
+  - OHARE_--_A
+  - O'HARE_--_A_B_C_LOT
+  - COC_O'HARE_--A_B_C_LOT
+OhareBarAndGrill:
+  category: Vacation
+  corrections:
+  - OHARE_BAR_And_GR
+OhareBlackhawksRestaurant:
+  category: WorkTravel
+  corrections:
+  - CHICAGO_BLACKH20250460
+OilXchange:
+  category: Service
+  corrections:
+  - Oil_Xchange_Of_Warrenv
+  - OIL_XCHANGE
+OldNavy:
+  category: Clothing
+  corrections:
+  - OLD_NAVY
+  - Old_Navy
+OldTownPourHouse:
+  category: Dining
+  corrections:
+  - Old_Town_Pour_House
+OlliesNoodleShop:
+  category: Dining
+  corrections:
+  - Ollies_Noodle
+  - OLLIES_NOODLE_SHOP
+OlympicNews:
+  category: WorkTravel
+  corrections:
+  - OLYMPIC_NEWS
+OnTheBorder:
+  category: Dining
+  corrections:
+  - ON_THE_BORDER
+OnTheRocks:
+  category: Dining
+  corrections:
+  - ON_THE_ROCKS
+OneStepAhead:
+  category: Clothing
+  corrections:
+  - ONESTEPAHEAD_LEAPSBNDS
+OnlineHealthService:
+  category: Doctor
+  corrections:
+  - ONLINE_HEALTH_SERVICE
+OnlySki:
+  category: Entertainment
+  corrections:
+  - ONLY_SKI
+Oodles:
+  category: Dining
+  corrections:
+  - OODLES_KNOXVILLE_TN
+OpenDataPartners:
+  category: ThomasSalaryOpenData
+  corrections:
+  - Open_Data_Partne_Payroll
+  - OPEN_DATA_PARTNE_PAYROLL
+OpenRange:
+  category: Alcohol
+  corrections:
+  - OPEN_RANGE_AMERICA
+OpeningBalance:
+  category: Fuel
+  corrections:
+  - Opening_Balance
+OrangeRulerFunRun:
+  category: Recreation
+  corrections:
+  - ORANGE_RULER_FUN_RUN
+OrangeTheory:
+  category: Recreation
+  corrections:
+  - 0031_ORANGETHEORY_NPRVL_NAPERVILLE_IL
+OrientalTradingCo:
+  category: Entertainment
+  corrections:
+  - ORIENTAL_TRADING_CO
+OshKosh:
+  category: Clothing
+  corrections:
+  - OSH_KOSH
+  - OSHKOSH
+OswaldsPharmacy:
+  category: Medicine
+  corrections:
+  - OSWALD'S_PHARMACY
+  - OSWALDS_PHARMACY
+Outback:
+  category: Dining
+  corrections:
+  - OUTBACK
+  - Outback
+P&C:
+  category: Groceries
+  corrections:
+  - P_&_C
+PBAleHouse:
+  category: Dining
+  corrections:
+  - PB_ALE_HOUSE
+PFChangs:
+  category: Dining
+  corrections:
+  - PF_CHANGS
+PJCinemas:
+  category: Entertainment
+  corrections:
+  - Pj_Cinemas
+  - PJ_CINEMAS
+PJClarkes:
+  category: Dining
+  corrections:
+  - P.j._Clarkes_At_Li
+PJVillageGrocery:
+  category: Groceries
+  corrections:
+  - P_J_VILLAGE_GROCERY
+  - P_J_Village_Grocery
+  - VILLAGE_GROCERY
+PacificaSuites:
+  category: WorkTravel
+  corrections:
+  - Pacifica_Suites
+PacosTacos:
+  category: Dining
+  corrections:
+  - Pacos_Tacos
+PagliaciPizza:
+  category: Dining
+  corrections:
+  - PAGLIACI_PIZZA
+PalJoeys:
+  category: Dining
+  corrections:
+  - Pal_Joeys_West
+Palomino:
+  category: Recreation
+  corrections:
+  - PALOMINO
+PancherosMexicanGrill:
+  category: Dining
+  corrections:
+  - PANCHEROS_MEXICAN_GRI_ANN_ARBOR_MI
+  - PANCHERO'S_MEXICAN_GRIS
+PanchoVillas:
+  category: Dining
+  corrections:
+  - Pancho_Villas-huntingt
+PandC:
+  category: Dining
+  corrections:
+  - P & C
+  - P_And_C
+PandaExpress:
+  category: Dining
+  corrections:
+  - PANDA_EXPRESS
+  - Panda_Express
+PandoraRadio:
+  category: Entertainment
+  corrections:
+  - PANDORA*INTERNET_RADIO
+PaneraBread:
+  category: Dining
+  corrections:
+  - PANERA_BREAD
+  - Panera_Bread
+  - Panera
+  - ST_LOUIS_BREAD
+PaninoSportivo:
+  category: Dining
+  corrections:
+  - Panino_Sportivo
+PapaJohns:
+  category: Dining
+  corrections:
+  - PAPA_JOHNS
+  - PAPA_JOHN'S
+  - Papa_Johns
+  - PAPAJOHNS
+Paradies:
+  category: Dining
+  corrections:
+  - PARADIES
+ParadiseBakery&Cafe:
+  category: WorkTravel
+  corrections:
+  - PARADISE_BAKERY&CAFE
+ParkGateParking:
+  category: Tolls
+  corrections:
+  - PARK_GATE_PARKING_INC
+PartyCity:
+  category: GiftsGiven
+  corrections:
+  - PARTY_CITY
+PastaPasta:
+  category: WorkTravel
+  corrections:
+  - PASTA_PASTA
+PatriotTaxi:
+  category: WorkTravel
+  corrections:
+  - VTS_PATRIOT_TAXI
+PaulVandeWater:
+  category: GiftsReceived
+  corrections:
+  - PaulVandeWater
+PavilionIndian:
+  category: Vacation
+  corrections:
+  - PAVILION_INDIAN_CUISIN
+Pazzos:
+  category: Dining
+  corrections:
+  - Pazzos_At_311
+PeachesNaturalYogurt:
+  category: Dining
+  corrections:
+  - PEACHES_NATURAL_YOGU_254
+  - Peaches_Natural_Yogu_
+PearleVision:
+  category: Clothing
+  corrections:
+  - PEARLE_VISION
+PediatricCardiology:
+  category: Doctor
+  corrections:
+  - PEDIATRIC_CARDIOLOGY_O
+PedipedBrianJames:
+  category: Clothing
+  corrections:
+  - PEDIPED_BRIAN_JAMES
+PeekArentYouCurious:
+  category: Clothing
+  corrections:
+  - PEEK_ARENT_YOU_CURIOUS_OAK_BROOK_IL
+PeeryHotel:
+  category: WorkTravel
+  corrections:
+  - Peery_Hotel
+PeetsCoffee:
+  category: Coffee
+  corrections:
+  - PEET'S
+  - PEETS
+PekingUniversity:
+  category: WorkTravel
+  corrections:
+  - PEKING_UNIVERSITY
+PelanchosMexicanGrill:
+  category: Vacation
+  corrections:
+  - PELANCHOS_MEXICAN
+PentagonCity:
+  category: Dining
+  corrections:
+  - 1000_S_HAYES/1000_S_HAYE
+PenzeysSpices:
+  category: Groceries
+  corrections:
+  - PENZEYS_SPICES
+PetersonSpirits:
+  category: Alcohol
+  corrections:
+  - IN_*PETERSON_SPIRITS_AND
+  - PETERSON_SPIRITS_&_FIN
+  - PETERSON_SPIRITS
+  - Peterson_Spirits
+Petro:
+  category: Fuel
+  corrections:
+  - PETRO_
+PhilWaltzPlumbing:
+  category: HomeRepairs
+  corrections:
+  - Check_#_1027
+Phillips66:
+  category: Fuel
+  corrections:
+  - PHILLIPS_66
+Phils:
+  category: Dining
+  corrections:
+  - Phil's_At_Judge's_Hote
+Piccolo:
+  category: Vacation
+  corrections:
+  - PICCOLO_SAN_BERNARDO
+PilgrimMonument:
+  category: Vacation
+  corrections:
+  - Pilgrim_Monument_And_P
+Pinkberry:
+  category: Dining
+  corrections:
+  - Pinkberry-
+  - PINKBERRY-2873BROADWAY
+Pinnacle:
+  category: Dining
+  corrections:
+  - MC-PINNACLE
+PinotsPalette:
+  category: Dining
+  corrections:
+  - Pinots_Palette
+PitaHouse:
+  category: Dining
+  corrections:
+  - PITA_HOUSE
+PittsburghBagalFactory:
+  category: WorkTravel
+  corrections:
+  - PITTSBURGH_BAGEL_FACTO
+Pizazz:
+  category: Vacation
+  corrections:
+  - PIZAZZ_-_YARMOUTH_YARMOUTH_MA
+PizzaBarbone:
+  category: Vacation
+  corrections:
+  - PIZZA_BARBONE
+PizzaHut:
+  category: Dining
+  corrections:
+  - PIZZA_HUT/SALSARITAS
+PizzeriaNeo:
+  category: Dining
+  corrections:
+  - PIZZERIA_NEO
+PizzeriaUno:
+  category: Dining
+  corrections:
+  - PIZZERIA_UNO
+PlanesMovingAndStorage:
+  category: MovingStorage
+  corrections:
+  - PlanesMovingAndStorage
+  - Check_#_1009
+PlymouthRestaurant:
+  category: Dining
+  corrections:
+  - PLYMOUTH_RESTAURANTAnd_BAR
+PlymouthRestaurantAndBar:
+  category: Dining
+  corrections:
+  - Plymouth_RestaurantAnd_Ba
+Polo:
+  category: Clothing
+  corrections:
+  - POLO
+Popeyes:
+  category: WorkTravel
+  corrections:
+  - Popeyes_Oh-tpk11240q19_Amherst_Oh
+  - POPEYES
+  - POPEYE'SCHICKEN&BISQQP
+PortJeffFerry:
+  category: Vacation
+  corrections:
+  - Bridgeport_&_Port
+  - BRIDGEPORT_&_PORT_JEFF
+PortJeffersonBeverage:
+  category: Groceries
+  corrections:
+  - PORT_JEFF_BEVERAGE
+  - PORT_JEFF_BEVERAGE_PORT
+  - Port_Jefferson_Beverag
+  - PORT_JEFFERSON_BEVERAG
+  - Port_Jeff_Beverage_
+PortJeffersonFrigate:
+  category: Dining
+  corrections:
+  - Port_Jefferson_Frigate
+PortageShell:
+  category: Dining
+  corrections:
+  - PORTAGE_SHEL/6259_MELTON
+PortageSouthPlaza:
+  category: WorkTravel
+  corrections:
+  - PORTAGE_SOUTH_PLAZA_PORTAGE_IN
+PortoBello:
+  category: Dining
+  corrections:
+  - PORTO_BELLO_RISTORANTE
+PostalSavings:
+  category: General
+  corrections:
+  - POSTAL_SAVINGS(215700)AICHI
+Potbelly:
+  category: Dining
+  corrections:
+  - POTBELLY
+  - Potbelly
+PotteryBarn:
+  category: Furniture
+  corrections:
+  - POTTERY_BARN
+  - COMENITY_PAY_SB__WEB_PYMT___8563
+  - Comenity_Pay_Sb_Web
+PotteryBarnTeen:
+  category: Furniture
+  corrections:
+  - PB_TEEN_E-COMMERCE
+PotteryBayou:
+  category: Entertainment
+  corrections:
+  - Pottery_Bayou
+PremiereClasse:
+  category: WorkTravel
+  corrections:
+  - PREMIERE_CLASSE
+PreservationBread:
+  category: Dining
+  corrections:
+  - PRESERVATION_BREAD
+PreservationPub:
+  category: Dining
+  corrections:
+  - PRESERVATION_PUB
+Priceline:
+  category: NormalTravel
+  corrections:
+  - Pln*priceline.com_Air
+  - PRICELINE.COM
+PrimeCutLawn:
+  category: HomeRepairs
+  corrections:
+  - Check_#_1084
+  - Check_#_1083
+PrimierTitle:
+  category: HomeDownPayment
+  corrections:
+  - PrimierTitle
+  - Check_#_1004
+PrincessByMomBoutique:
+  category: Clothing
+  corrections:
+  - PRINCESS_BY_MOM_BOUTIQ
+PriyaIndian:
+  category: Dining
+  corrections:
+  - Priya_Indian
+  - PRIYA_INDIAN
+PrizmBehavioral:
+  category: Doctor
+  corrections:
+  - PRIZM_BEHAVIORAL
+ProHealth:
+  category: Doctor
+  corrections:
+  - PROHEALTH
+  - ProHealth
+  - Check_#_1060
+ProactivePestManagement:
+  category: HomeRepairs
+  corrections:
+  - PROACTIVE_PEST_MANAGEM
+PromenadeDental:
+  category: Dental
+  corrections:
+  - Online_Payment_4586018746_To_Pro
+  - PROMENADE_DENTAL
+PublicHouse:
+  category: Dining
+  corrections:
+  - PUBLIC_HOUSE
+PublicStorage:
+  category: Rent
+  corrections:
+  - Public_Storage
+PumaOutletStore:
+  category: Clothing
+  corrections:
+  - PUMA_INC
+  - Puma
+  - The_Puma_Outlet_Store
+  - THE_PUMA_OUTLET_STORE
+PumpItUp:
+  category: GiftsGiven
+  corrections:
+  - PUMP_IT_UP
+PureBarre:
+  category: Recreation
+  corrections:
+  - Pure_Barre
+  - PURE_BARRE
+QBbq:
+  category: Dining
+  corrections:
+  - Q-Bbq
+Qdoba:
+  category: Dining
+  corrections:
+  - Qdoba
+  - QDOBA
+QuestDiagnostic:
+  category: Doctor
+  corrections:
+  - QDI*QUEST_DIAGNOSTIC_866
+  - Quest_Diagnostic
+QuickCenter:
+  category: Fuel
+  corrections:
+  - QUICK_CENTER
+  - Quick_Center
+Quigleys:
+  category: Dining
+  corrections:
+  - QUIGLEYS_IRISH_PUB
+Quiubo:
+  category: Dining
+  corrections:
+  - QUIUBO
+  - Quiubo
+Quiznos:
+  category: Dining
+  corrections:
+  - QUIZNO'S
+  - Quiznos_Sub
+  - QUIZNOS
+R2F5579EXKI_2F_1:
+  category: Dining
+  corrections:
+  - R2F5579EXKI_2F_1
+REI:
+  category: Clothing
+  corrections:
+  - REI_138_CARLE_PLACE
+REVERSE_DEBIT_CARD_PROVISIONAL_CREDIT:
+  category: BankCharge
+  corrections:
+  - REVERSE_DEBIT_CARD_PROVISIONAL_C
+RadioPerfecto:
+  category: Dining
+  corrections:
+  - RADIO_PERFECTO
+  - Radio_Perfecto
+RadioShack:
+  category: Entertainment
+  corrections:
+  - RADIOSHACK
+RadissonHotel:
+  category: WorkTravel
+  corrections:
+  - RADISSON_HOTELS
+RailEurope:
+  category: WorkTravel
+  corrections:
+  - RAIL_EUROPE
+Ralphs:
+  category: Groceries
+  corrections:
+  - RALPHS
+Ramada:
+  category: Vacation
+  corrections:
+  - RAMADA_BILTMORE_WEST
+Randall15Imax:
+  category: Recreation
+  corrections:
+  - RANDALL_15_IMAX_BATAVIA_IL
+RealMacSoftware:
+  category: WorkTravel
+  corrections:
+  - DRI*REALMAC_SOFTWARE
+RedBox:
+  category: Entertainment
+  corrections:
+  - REDBOX
+  - _Redbox_
+RedBubble.com:
+  category: General
+  corrections:
+  - REDBUBBLE.COM
+RedCross:
+  category: Charity
+  corrections:
+  - AM_RED_CROSS_DONATION
+  - AMERICAN_RED_CROSS
+RedDoorTavern:
+  category: Dining
+  corrections:
+  - RED_DOOR_TAVERN
+RedHarkBar&Grill:
+  category: Dining
+  corrections:
+  - RED_HAWK_BAR_&_GRILL
+RedHawkBarAndGrill:
+  category: WorkTravel
+  corrections:
+  - RED_HAWK_BAR_And_GRILL
+RedMango:
+  category: Dining
+  corrections:
+  - Red_Mango
+  - RED_MANGO
+RedRobin:
+  category: Dining
+  corrections:
+  - Red_Robin
+  - RED_ROBIN
+RedRoofInn:
+  category: NormalTravel
+  corrections:
+  - RED_ROOF_INNS
+  - Red_Roof_Inns
+RefinersPride:
+  category: Fuel
+  corrections:
+  - REFINERS_PRIDE
+RegalCinemas:
+  category: Vacation
+  corrections:
+  - STONY_BROOK___07021
+  - Stony_Brook___07021
+  - REGAL_CINEMAS
+  - REGAL_CANTERA_30
+  - REGAL_PINNACLE
+Relay4152Midway:
+  category: Dining
+  corrections:
+  - RELAY_4152
+RemoteOnlineDeposit:
+  category: GiftsReceived
+  corrections:
+  - REMOTE_ONLINE_DEPOSIT
+  - Remote_Online_Deposit_1
+RenaissanceHotels:
+  category: WorkTravel
+  corrections:
+  - RENAISSANCE_HOTELS_F/B
+ResidenceInn:
+  category: WorkTravel
+  corrections:
+  - RESIDENCE_INNS
+ReyesAndAssociates:
+  category: Doctor
+  corrections:
+  - REYES_AND_ASSOCIATES_EYE_WARRENVILLE_IL
+ReyesTung:
+  category: Dining
+  corrections:
+  - REYES_TUNG
+RezaOnOntario:
+  category: Dining
+  corrections:
+  - MC-REZA'S_ON_ONTARIO
+RibCityAleHouse:
+  category: Dining
+  corrections:
+  - RIB_CITY_ALE_HOUSE_PORT
+  - Rib_City_Ale
+RicherPoorer:
+  category: Clothing
+  corrections:
+  - RICHER_POORER
+RidgeOil:
+  category: Fuel
+  corrections:
+  - RIDGE_PETROLEUM
+RistoranteKingsCafe:
+  category: Dining
+  corrections:
+  - RISTORANTE_KING'S_CAFE
+RiteAid:
+  category: General
+  corrections:
+  - Rite_Aid
+  - RITE_AID
+RiverplaceRealty:
+  category: Rent
+  corrections:
+  - RiverplaceRealty
+  - RiverplaceReality
+  - Check_#1253
+RiversRittergutGroup:
+  category: Dining
+  corrections:
+  - RIVERS_RITTERGUT_GROUP
+Riverside:
+  category: Doctor
+  corrections:
+  - Online_Payment_3352458789_To_Riv
+RiversidePsychiatric:
+  category: Doctor
+  corrections:
+  - RIVERSIDE_PSYCHIATRIC
+RiverwalkPizza:
+  category: Dining
+  corrections:
+  - RIVERWALK_PIZZA
+RoadReady:
+  category: Fuel
+  corrections:
+  - ROAD_READY
+RoadRunnerShuttle:
+  category: NormalTravel
+  corrections:
+  - ROADRUNNER_SHUTTLE_And_CHAR
+RoadRunnerSports:
+  category: Clothing
+  corrections:
+  - ROAD_RUNNER_SPORTS
+RoadRunnerVIPClub:
+  category: Clothing
+  corrections:
+  - ROADRUNNER_VIPCLUB
+RobertMowinney:
+  category: GiftsGiven
+  corrections:
+  - RobertMowinney
+  - Check_#_1268
+RochambeauWinesAndLiquors:
+  category: Groceries
+  corrections:
+  - ROCHAMBEAU_WINES_AND_L
+RocheBrothers:
+  category: Vacation
+  corrections:
+  - ROCHE_BROTHERS
+RockBottom:
+  category: Dining
+  corrections:
+  - Rock_Bottom
+  - RB-WARRENVILLE
+  - ROCK_BOTTOM
+RomaDs:
+  category: Dining
+  corrections:
+  - Roma_D'
+  - ROMA_D'_ITALIA
+Romios:
+  category: Dining
+  corrections:
+  - ROMIO'S
+RonaldMcDonaldHouse:
+  category: Charity
+  corrections:
+  - RONALD_MCDONALD
+RotiMediterraneanGrill:
+  category: Dining
+  corrections:
+  - ROTI_MEDITERRANEAN_GRILL
+RotiRolls:
+  category: Dining
+  corrections:
+  - Suite_Roti_Rolls
+  - SUITE_ROTI_ROLLS
+Ruby:
+  category: Dining
+  corrections:
+  - RUBY
+RubyTuesdays:
+  category: Dining
+  corrections:
+  - Ruby_Tuesday_2227
+  - Ruby_Tuesday_7174
+RutgersAthletics:
+  category: Entertainment
+  corrections:
+  - Rutgers_Athletics
+RuthAccountTransfer:
+  category: RuthBankAccountPayment
+  corrections:
+  - 07/25_Transfer_To_Chk_Xxxxx7323
+  - Online_Transfer_From_Chk_...7323
+RuthHitSomeonesTailight:
+  category: Service
+  corrections:
+  - RuthHitSomeonesTailight
+  - Check_#_1194
+RuthsGaithersburg:
+  category: WorkTravel
+  corrections:
+  - RUTHS_GAITHERSBUR_GAITHERSBURG_MD
+SLACCafe:
+  category: WorkTravel
+  corrections:
+  - EPICUREAN@SLAC_CAFE
+  - EPICUREAN_GROUP
+SLACGuestHouse:
+  category: WorkTravel
+  corrections:
+  - STANFORD_SLAC_CONF_01
+  - STANFORD_GUEST_HOUSE
+SPAQMontreal:
+  category: NormalTravel
+  corrections:
+  - SPAQ_/_BIBLIOTHEQUE_NA
+Safeway:
+  category: Groceries
+  corrections:
+  - SAFEWAY
+SalsaSalsa:
+  category: Dining
+  corrections:
+  - Salsa_Salsa
+  - SALSA_SALSA
+Salsaritas:
+  category: Dining
+  corrections:
+  - SALSARITAS
+SamGol:
+  category: Fuel
+  corrections:
+  - SAM_GOL
+Samsonite:
+  category: Furniture
+  corrections:
+  - SAMSONITE
+SanDiegoZoo:
+  category: Vacation
+  corrections:
+  - SD_ZOO_-ZOO_STORE
+  - SD_ZOO_-SYDNEYS/FS
+  - SD_ZOO_-ALBERTS
+  - SD_ZOO_-CANYON_CAFE
+SangamRestaurant:
+  category: Dining
+  corrections:
+  - SANGAM_RESTAURANT
+SaraHiggins:
+  category: GiftsGiven
+  corrections:
+  - SARA
+Sbarro:
+  category: Dining
+  corrections:
+  - SBARRO
+ScarecrowVideo:
+  category: Entertainment
+  corrections:
+  - SCARECROW_VIDEO
+SchenkQuickStop:
+  category: Dining
+  corrections:
+  - SCHENCK_QUICK_STOP
+ScholasticBook:
+  category: MiscSchool
+  corrections:
+  - SCHOLASTIC_BOOK_CLUB
+  - SCHOLASTIC_BOOK_FAIRS
+  - SCHOLASTICI
+SchoolKidz:
+  category: MiscSchool
+  corrections:
+  - SCHOOLKIDZ_KFK
+SchwartzOBGYN:
+  category: Doctor
+  corrections:
+  - SchwartzOBGYN
+  - Check_#_1196
+ScottLantz:
+  category: General
+  corrections:
+  - SCOTT_LANTZ
+Sears:
+  category: Service
+  corrections:
+  - SEARS
+SeasideCafe:
+  category: Dining
+  corrections:
+  - Seaside_Cafe
+SeattlesBestCoffee:
+  category: Coffee
+  corrections:
+  - SEATTLES_BEST_COFFEE
+Seaworld:
+  category: Vacation
+  corrections:
+  - SEAWORLD-CA_6192253284
+  - SEAWORLD_CA_6192253QPS
+SecondCup:
+  category: Dining
+  corrections:
+  - SECOND_CUP
+  - Second_Cup
+Seiko:
+  category: GiftsGiven
+  corrections:
+  - Seiko-the_Company_Stor
+SellMyTimeShareNow:
+  category: Vacation
+  corrections:
+  - Sell_My_Time_Share
+SequenomMolecular:
+  category: Hospital
+  corrections:
+  - SEQUENOM_MOLECULAR
+ServiceDirectionsInc:
+  category: General
+  corrections:
+  - Service_Directions_Inc
+SetauketVillageDiner:
+  category: Dining
+  corrections:
+  - Setauket_Village_Diner
+SezzMedi:
+  category: Dining
+  corrections:
+  - Sezz_Medi
+  - SEZZ_MEDI
+ShadeClothing:
+  category: Clothing
+  corrections:
+  - SHADE_CLOTHING
+  - SHADECLOTHING.COM
+ShanesOfficeSupply:
+  category: General
+  corrections:
+  - SHANES_OFFICE_SUPPLY
+ShawnMBolgerLtd:
+  category: HomeDownPayment
+  corrections:
+  - ShawnMBolgerLtd
+SheddAquarium:
+  category: Entertainment
+  corrections:
+  - SHEDD_AQUARIUM
+  - JOHN_G_SHEDD_
+ShellOil:
+  category: Fuel
+  corrections:
+  - SHELL_OIL
+  - Shell_Oil
+  - SHELL_FJ_ACCESS_NAPIER
+  - Shell_Service_
+  - Shell
+ShellWarehouse:
+  category: Fuel
+  corrections:
+  - SHELL_WAREHOUSE
+Sheraton:
+  category: WorkTravel
+  corrections:
+  - SHERATON_PASADENA
+  - Sheraton_Pasadena
+  - Sheraton_Grand_Chicago
+ShinyStrands:
+  category: Doctor
+  corrections:
+  - Shiny_Strands
+Shoebuy.com:
+  category: Clothing
+  corrections:
+  - SHOEBUY.COM
+Shopzoo.com:
+  category: GiftsGiven
+  corrections:
+  - SHOPZOO.COM
+Shultzys:
+  category: Dining
+  corrections:
+  - SHULTZY'S_SAUSAGE
+ShuttleExpress:
+  category: WorkTravel
+  corrections:
+  - SHUTTLE_EXPRESS
+SiamRiceThai:
+  category: Dining
+  corrections:
+  - SIAM_RICE_THAI_CUSINE
+SierraTradingPost:
+  category: Clothing
+  corrections:
+  - SIERRA_TRADING_POST
+  - SIERRA_TRADING_POST_CO
+SilverStateFoodMart:
+  category: Fuel
+  corrections:
+  - SILVER_STATE_FOOD_MART
+SimplyGourmet:
+  category: Dining
+  corrections:
+  - SIMPLY_GOURMET
+SivanaSalon:
+  category: Hair
+  corrections:
+  - SIVANA_SALON
+SixtyFiveChinese:
+  category: Dining
+  corrections:
+  - 6FIVE_CHINESE_RESTAURANT
+  - 6_FIVE_CHINESE_RESTAURANT
+Skechers:
+  category: Clothing
+  corrections:
+  - Skechers-usa
+SkyHighSports:
+  category: Recreation
+  corrections:
+  - SK
+SloppyJoesBar:
+  category: Dining
+  corrections:
+  - SLOPPY_JOE'S_BAR
+SmallCakes:
+  category: Dining
+  corrections:
+  - SMALLCAKES_A_CUPCAKERY
+SmartStartesInc:
+  category: Recreation
+  corrections:
+  - SMART_STARTES_INC
+SmartwoolAtArrabelle:
+  category: Dining
+  corrections:
+  - SMARTWOOL_AT_ARRABELLE
+SmithtownToyota:
+  category: CarPayment
+  corrections:
+  - SMITHTOYOTA
+  - Smithtoyota_6317243300
+SnackSodeVending:
+  category: Dining
+  corrections:
+  - SNACK_SODA_VENDING
+SoYouThinkYouCanDance:
+  category: Entertainment
+  corrections:
+  - Tm_*So_You_Think_You_C_212-307-7171_Ny
+SocieteDeVeloEnLib:
+  category: Dining
+  corrections:
+  - SOCIETE_DE_VELO_EN_LIB
+SoftAsAGrape:
+  category: Vacation
+  corrections:
+  - SOFT_AS_A_GRAPE
+  - Soft_As_A_Grape_Hyanni
+SoldierField:
+  category: Entertainment
+  corrections:
+  - SOLDIER_FIELD
+SolemnOathBrewery:
+  category: Dining
+  corrections:
+  - SOLEMN_OATH_BREWERY_NAPERVILLE_IL
+Solstice:
+  category: WorkTravel
+  corrections:
+  - CAFE_SOLSTICE
+SoundCatering:
+  category: Vacation
+  corrections:
+  - SOUND_CATERING
+SouthBranch:
+  category: Dining
+  corrections:
+  - South_Branch
+SouthLoopMarket:
+  category: Alcohol
+  corrections:
+  - SOUTH_LOOP_MARKET
+Southwest:
+  category: NormalTravel
+  corrections:
+  - Southwes
+  - SOUTHWES
+Sovereign:
+  category: Dining
+  corrections:
+  - Sovereign_Plainfield
+Spartys:
+  category: Dining
+  corrections:
+  - MC-MSU_SPARTYS_DCL_2226
+SpatsBar:
+  category: Dining
+  corrections:
+  - Spats_Bar
+SpecialtysCafe:
+  category: Dining
+  corrections:
+  - SPECIALTYS_CAFE
+  - Specialtys_Cafe
+Speedway:
+  category: Fuel
+  corrections:
+  - Speedway
+  - SPEEDWAY
+Spokes:
+  category: HomeRepairs
+  corrections:
+  - Spokes_LTD
+  - Spokes_Ltd
+Sportograph:
+  category: WorkTravel
+  corrections:
+  - Sportograph
+  - Check_#_1193
+SportsScene:
+  category: WorkTravel
+  corrections:
+  - SPORTS_SCENE_T10196657
+StElmosCoffee:
+  category: Coffee
+  corrections:
+  - ST_ELMOS_COFFEE
+  - ST._ELMOS_COFFEE
+StJudes:
+  category: GiftsGiven
+  corrections:
+  - St_Jude_Research
+  - ST_JUDE_INTERNET_DNTN
+  - ST_JUDE_Internet_DNTN
+  - ST._JUDE_GIFT_CATALOG
+StRegisHotel:
+  category: WorkTravel
+  corrections:
+  - HOTEL_ST_REGIS_DETROIT
+Staples:
+  category: General
+  corrections:
+  - STAPLES
+StarMarket:
+  category: Groceries
+  corrections:
+  - Star_Market
+Starbucks:
+  category: Coffee
+  corrections:
+  - STARUBUCKS
+  - STARBUCKS
+  - Starbucks
+StateFarm:
+  category: CarInsurance
+  corrections:
+  - StateFarm
+SteamGames:
+  category: Entertainment
+  corrections:
+  - STEAMGAMES.COM
+SterlingPear:
+  category: General
+  corrections:
+  - STERLING_PEAR
+SteveMadden:
+  category: Clothing
+  corrections:
+  - STEVE_MADDEN
+StirCrazy:
+  category: Dining
+  corrections:
+  - Stir_Crazy
+  - STIR_CRAZY
+StoneRidgeTavern:
+  category: Vacation
+  corrections:
+  - STONE_RIDGE_TAVERN_ASHEVILLE_NC
+StonyBrookCosmeticDentistry:
+  category: Dental
+  corrections:
+  - STONY_BROOK_COSMETIC_D
+  - SB_GEN_COSMETIC_DENTIS
+StonyBrookFamilyMedice:
+  category: Doctor
+  corrections:
+  - STONYBROOK_FAMILY_MED
+StonyBrookStudentAffairsCenter:
+  category: Dining
+  corrections:
+  - SBU_SAC
+StonyBrookTickets:
+  category: Entertainment
+  corrections:
+  - TICKETS*_SBU
+StonyBrookUniversity:
+  category: Doctor
+  corrections:
+  - StonyBrookUniversity
+  - StonyBrook
+StonyBrookUniversityHospital:
+  category: Doctor
+  corrections:
+  - SBU_UNIVERSITY_HOSPITA
+StonybrookChildrensHospital:
+  category: Doctor
+  corrections:
+  - STONYBROOK_CHILDRENS
+StopAndShop:
+  category: Groceries
+  corrections:
+  - STOP_&_SHOP
+  - Stop_&_Shop
+  - STOP_And_SHOP
+  - _Stop_And_Shop
+StopLiquors:
+  category: Alcohol
+  corrections:
+  - STOP_1_LIQUORS
+StrawberryHillsPharmacy:
+  category: Vacation
+  corrections:
+  - STRAWBERRY_HILLS_PHARMACY
+StrideRite:
+  category: Clothing
+  corrections:
+  - STRIDE_RITE
+  - Stride_Rite
+StrollerDepot:
+  category: Furniture
+  corrections:
+  - STROLLERDEPOT.COM
+StudioMovieGrill:
+  category: Recreation
+  corrections:
+  - 013BOX_STUDIO_MOVIE_GRIL_WHEATON_IL
+SuCasa:
+  category: Clothing
+  corrections:
+  - SU_CASA
+Sublet.com:
+  category: Rent
+  corrections:
+  - SUBLET.COM
+SubsConscious:
+  category: Dining
+  corrections:
+  - Subconscious
+  - SUBSCONSCIOUS
+  - SUBCONSCIOUS
+  - Subsconcious
+SuburbanMaternalFetalMedicine:
+  category: Dining
+  corrections:
+  - SUBURBAN_MATERNAL_FETA
+Subway:
+  category: Dining
+  corrections:
+  - SUBWAY
+  - Subway
+SuffolkOBGYN:
+  category: Doctor
+  corrections:
+  - Suffolk_Obgyn_Llp
+  - SUFFOLK_OBGYN_LLP
+SugarCafe:
+  category: Dining
+  corrections:
+  - Sugar_Cafe
+Sullivans:
+  category: Dining
+  corrections:
+  - SULLIVANS
+SunCorners:
+  category: NormalTravel
+  corrections:
+  - Sun_Corners_Service_Ce
+SunkenMeadowStatePark:
+  category: Entertainment
+  corrections:
+  - SUNKEN_MEADOW_STATE_PA
+Sunoco:
+  category: NormalTravel
+  corrections:
+  - Sunoco_Svc_Station_E_Brunswick_Nj
+SunocoOil:
+  category: Fuel
+  corrections:
+  - SUNOCO
+SunriseQ17Gas:
+  category: Fuel
+  corrections:
+  - Amittyville_Sunriseq17
+SuperLube:
+  category: Service
+  corrections:
+  - SUPERLUBE
+  - SUPER_LUBE_OF_WARRENVI
+SuperSaveMaywood:
+  category: Fuel
+  corrections:
+  - MAYWOOD_SUPER_SAVE
+SuperShuttle:
+  category: WorkTravel
+  corrections:
+  - SUPERSHUTTLE_EXECUCARB
+  - SUPERSHUTTLE_EXECUCARS
+  - SUPERSHUTTLE-EXECUCART
+SuperShuttleMN:
+  category: WorkTravel
+  corrections:
+  - SUPERSHUTTLE_EXECUCARM
+SurLaTable:
+  category: Furniture
+  corrections:
+  - SUR_LA_TABLE_NAPERVILL
+  - 55_S_MAIN_ST_STE_119
+  - SUR_LA_TABLE_DIRECT
+Sura:
+  category: WorkTravel
+  corrections:
+  - SURA
+  - Sura
+SweetMariasCoffee:
+  category: Coffee
+  corrections:
+  - Sweet_Maria's_Coffee_I_8888765917_Ca
+SweetPotatoCafe:
+  category: Dining
+  corrections:
+  - SWEET_POTATO_CAFE_WARRENVILLE_IL
+SymantecSony:
+  category: BankCharge
+  corrections:
+  - DR_*SYMANTEC_SONY
+SyracuseUniversity:
+  category: WorkTravel
+  corrections:
+  - SYR*UNIV-PHYSICSCONF
+SysParkingLemoy:
+  category: Entertainment
+  corrections:
+  - SYSPARKING_LEMOY
+T1MedalistBarJFK:
+  category: Dining
+  corrections:
+  - T1_MEDALIST_BA10430QPS
+TGIFridays:
+  category: WorkTravel
+  corrections:
+  - Tgi_fridays
+  - TGI_FRIDAYS
+TIAACashContribution:
+  category: BankCharge
+  corrections:
+  - TIAACASHContribution
+TIAACashDividends:
+  category: BankCharge
+  corrections:
+  - TIAACASHDividends
+TIAACashLongTermCapitalGains:
+  category: BankCharge
+  corrections:
+  - TIAACASHLong-term_capital_gains
+TIAACashShortTermCapitalGains:
+  category: BankCharge
+  corrections:
+  - TIAACASHShort-term_capital_gains
+TIBMercerSt:
+  category: Dining
+  corrections:
+  - Tib-mercer_St.
+TJMaxx:
+  category: Clothing
+  corrections:
+  - TJMAXX
+TLatte:
+  category: Dining
+  corrections:
+  - TLATTE_Seattle
+TMBasil:
+  category: Dining
+  corrections:
+  - TM_BASIL_OAK_BROOK_IL
+TMobileHotspot:
+  category: WorkTravel
+  corrections:
+  - HOTSPOT_402
+  - MOBILE_HOTSPOT_GMBH_BONN
+TRANSACTION_FEE:
+  category: BankCharge
+  corrections:
+  - TRANSACTION_FEE
+TacoBell:
+  category: Dining
+  corrections:
+  - TACO_BELL
+  - Taco_Bell
+TacoBron:
+  category: Dining
+  corrections:
+  - TACO_BRON
+TailoringByMonika:
+  category: Clothing
+  corrections:
+  - TAILORING_BY_MONIKA_INC_NAPERVILLE_IL
+TaisRestaurant:
+  category: Dining
+  corrections:
+  - TIAS_RESTAURANT_&_BAR
+Talbots:
+  category: Clothing
+  corrections:
+  - TALBOTS
+Tamomaro:
+  category: Clothing
+  corrections:
+  - TAMOMARO
+TampaMindWorks:
+  category: WorkTravel
+  corrections:
+  - 201_TAMPA_MINDWORKS
+TangoAngentinean:
+  category: Dining
+  corrections:
+  - TANGO_ARGENTINEAN
+TapenadaExpress:
+  category: Dining
+  corrections:
+  - TAPENADA_EXPRE20255014
+TaraKacmarcik:
+  category: Doctor
+  corrections:
+  - T_KACMARCIK_LTD
+  - T_Kacmarcik_Ltd
+Target:
+  category: Groceries
+  corrections:
+  - 28201_DIEHL_RD
+  - Target
+  - TARGET
+TastyWok:
+  category: Vacation
+  corrections:
+  - TASTY_WOK
+TaxiCab:
+  category: WorkTravel
+  corrections:
+  - TAXI_CAB
+TaxiMagic:
+  category: WorkTravel
+  corrections:
+  - TAXI_MAGIC
+TeaCollection:
+  category: Vacation
+  corrections:
+  - TEA_COLLECTION
+TeaRoom:
+  category: Dining
+  corrections:
+  - Tea-Room_Martel_Aeropo
+TeachersCreditUnion:
+  category: Cash
+  corrections:
+  - TEACHERS_CU
+TeamFanShop:
+  category: GiftsGiven
+  corrections:
+  - TEAMFANSHOP
+TedsMontanaGrill:
+  category: Dining
+  corrections:
+  - Ted's_Montana_Grill
+  - Tmg
+  - TMG051_CHICAGO
+ThaiVillage:
+  category: Dining
+  corrections:
+  - THAI_VILLAGE
+TheBlackDog:
+  category: Vacation
+  corrections:
+  - THE_BLACK_DOG_CHAT_GS
+TheBreadFactoryCafe:
+  category: Dining
+  corrections:
+  - THE_BREAD_FACTORY_CAFE
+TheCantina:
+  category: WorkTravel
+  corrections:
+  - THE_CANTINA
+TheCasualGourmet:
+  category: Dining
+  corrections:
+  - THE_CASUAL_GOURMET
+TheCellarBistro:
+  category: Dining
+  corrections:
+  - THE_CELLAR_BISTRO
+TheCheeseShop:
+  category: Dining
+  corrections:
+  - The_Cheese_Shop
+TheChristmasTreeStore:
+  category: Vacation
+  corrections:
+  - CHRISTMAS_TREE
+TheCornellStore:
+  category: Vacation
+  corrections:
+  - THE_CORNELL_STORE
+TheDailyGrind:
+  category: Dining
+  corrections:
+  - SQ_*THE_DAILY_GRIND
+TheFamishedFrog:
+  category: Dining
+  corrections:
+  - The_Famished_Frog
+TheGroveChicago:
+  category: Dining
+  corrections:
+  - THE_GROVE-CHICAGO
+TheHalfPint:
+  category: Dining
+  corrections:
+  - The_Half_Pint
+TheHookerTeaCompany:
+  category: Dining
+  corrections:
+  - THE_HOOKER_TEA_COMPANY
+TheJunction:
+  category: Dining
+  corrections:
+  - THE_JUNCTION
+TheLandOfNod:
+  category: Clothing
+  corrections:
+  - THE_LAND_OF_NOD
+  - THELANDOFNOD
+TheMarketGate:
+  category: Vacation
+  corrections:
+  - THE_MARKET_GATE_A14
+TheMarq:
+  category: Dining
+  corrections:
+  - THE_MARQ
+TheMeltingPot:
+  category: Dining
+  corrections:
+  - THE_MELTING_POT
+  - The_Melting_Pot
+  - TheMeltonPot
+TheMilburnHotel:
+  category: WorkTravel
+  corrections:
+  - THE_MILBURN_HOTEL
+TheMitchellGoldCo:
+  category: Furniture
+  corrections:
+  - THE_MITCHELL_GOLD_CO._DBA
+TheNatureConservatory:
+  category: GiftsGiven
+  corrections:
+  - The_Nature_Consvncy_Na_7038418764_Va
+TheOldGrapeCellar:
+  category: Dining
+  corrections:
+  - THE_OLD_GRAPE_CELLAR
+TheOliveGarden:
+  category: Dining
+  corrections:
+  - The_Olive_Gard00015073
+  - The_Olive_Gard00011353
+  - THE_OLIVE_GARD00015073
+  - TheOliveGardon
+ThePattenHouse:
+  category: WorkTravel
+  corrections:
+  - THE_PATTEN_HOUSE
+ThePie:
+  category: Dining
+  corrections:
+  - The_Pie
+  - THE_PIE
+ThePortShop:
+  category: Groceries
+  corrections:
+  - THE_PORT_SHOP
+TheRepublicOfTea:
+  category: Dining
+  corrections:
+  - THE_REPUBLIC_OF_TEA
+TheRunningSpecialty:
+  category: Clothing
+  corrections:
+  - THE_RUNNING_SPECIALTY
+TheSecondLandingCafe:
+  category: Dining
+  corrections:
+  - THE_SECOND_LANDING_CAF
+TheShed:
+  category: Dining
+  corrections:
+  - THE_SHED
+TheSoupKitchen:
+  category: Vacation
+  corrections:
+  - THE_SOUP_KITCHEN
+TheSportsAuthority:
+  category: Recreation
+  corrections:
+  - THE_SPORTS_A/301_SOUTH_R
+TheStandardMarket:
+  category: Groceries
+  corrections:
+  - THE_STANDARD_MARKE
+TheVillageWay:
+  category: Groceries
+  corrections:
+  - THE_VILLAGE_AT_SQUAW_U
+  - The_Village_Way
+TheWiseBoxer:
+  category: Dining
+  corrections:
+  - THE_WISE_BOXER
+TheraProInc:
+  category: Clothing
+  corrections:
+  - THERAPRO_INC
+TicketMaster:
+  category: Entertainment
+  corrections:
+  - TICKETMASTER
+  - Ticketmaster
+  - Tm_*Ticketmaster_Inter_215-336-2000_Ny
+Tiffany&Co:
+  category: GiftsGiven
+  corrections:
+  - TIFFANY_&_CO
+TiffanyAndCo:
+  category: GiftsGiven
+  corrections:
+  - TIFFANY_And_CO
+TimHortons:
+  category: Dining
+  corrections:
+  - TIM_HORTONS
+  - Tim_Hortons
+Timberland:
+  category: Clothing
+  corrections:
+  - Timberland
+  - TIMBERLAND
+TinyLounge:
+  category: Dining
+  corrections:
+  - TINY_LOUNGE
+TitleNine:
+  category: Clothing
+  corrections:
+  - TITLE_NINE
+Toast:
+  category: Dining
+  corrections:
+  - Toast
+  - TOAST
+  - Toast_
+TomPettyConcert:
+  category: Entertainment
+  corrections:
+  - TomPettyConcert
+TomThumbOverseasMarathon:
+  category: Dining
+  corrections:
+  - TOM_THUMB_SU/10694_OVERS
+TomoSushi:
+  category: Dining
+  corrections:
+  - Tomo_Sushi
+  - TOMO_SUSHI
+TonyRomas:
+  category: Dining
+  corrections:
+  - TONY_ROMAS_RESTAURANT
+TopsideWineAndSpirits:
+  category: Alcohol
+  corrections:
+  - TOPSIDE_WINE_And_SPIRITS
+Tortilla:
+  category: Dining
+  corrections:
+  - Tortilla
+TowerHouseCafe:
+  category: Dining
+  corrections:
+  - TOWER_HOUSE_CAFE
+TownOfSchroon:
+  category: Fines
+  corrections:
+  - TOWN_OF_SCHROON_STROTH
+TownhouseRestaurant:
+  category: Dining
+  corrections:
+  - Townhouse_Restaurant
+ToyotaCamryFromSteve:
+  category: CarPayment
+  corrections:
+  - ToyotaCamryFromSteve
+  - Check_#1254*
+ToyotaCarPayment:
+  category: CarPayment
+  corrections:
+  - T.M.C.C
+ToyotaOfNaperville:
+  category: Service
+  corrections:
+  - TOYOTA_OF_NAPERVILLE
+ToysInBabeland:
+  category: Entertainment
+  corrections:
+  - MC-TIB-MERCER_ST.
+ToysRUs:
+  category: General
+  corrections:
+  - TOYS_R_US
+TpumpsInc:
+  category: WorkTravel
+  corrections:
+  - TPUMPS,_INC.
+  - TPUMPS
+TraderJoes:
+  category: Groceries
+  corrections:
+  - TRADER_JOE'S
+  - TRADER_JOES
+  - Trader_Joes
+TravelMart:
+  category: Dining
+  corrections:
+  - Travel_Mart
+  - TRAVEL_MART
+Travelocity:
+  category: NormalTravel
+  corrections:
+  - TRAVELOCITY.COM
+  - Travelocity.com
+  - TRAVELOCITY
+TrendMicro:
+  category: BankCharge
+  corrections:
+  - TREND_MICRO
+TriangleTaxi:
+  category: NormalTravel
+  corrections:
+  - TRIANGLE_TAXI
+TrinityMarketAndDeli:
+  category: WorkTravel
+  corrections:
+  - TRINITY_MARKET_And_DELI
+TufanLtd:
+  category: Clothing
+  corrections:
+  - TUFAN_LTD
+TugboatRestaurant:
+  category: Vacation
+  corrections:
+  - Tugboat_Restaurant_Boothbay_Harb_Me
+TumblebearGynastics:
+  category: Recreation
+  corrections:
+  - TUMBLEBEAR_GYMNASTICS
+  - Tumblebear_Gymnastics
+TupeloHoney:
+  category: Vacation
+  corrections:
+  - TUPELO_HONEY_KNOXV
+TurboTax:
+  category: TaxSoftware
+  corrections:
+  - Intuit_*Turbotax
+  - INTUIT_*TURBOTAX
+TurkeyCreekMedicalCenter:
+  category: Hospital
+  corrections:
+  - TURKEY_CREEK_MEDICAL_CENT
+TuscanyCafe:
+  category: Dining
+  corrections:
+  - TUSCANY_CAFE
+TwiceSoldTales:
+  category: Entertainment
+  corrections:
+  - TWICE_SOLD_TALES
+TwinPeaks:
+  category: Dining
+  corrections:
+  - TWIN_PEAKS_WARRENVILLE
+TwoBrothersRoundhouse:
+  category: Dining
+  corrections:
+  - TWO_BROTHERS_ROUNDHOUS
+  - TWO_BROTHERS_ROUNDHOUS_AURORA_IL
+TwoBrothersTapHouse:
+  category: Dining
+  corrections:
+  - TWO_BROTHERS_TAP_HOUSE
+  - TWO_BROTHERS_RESTAURANT
+TyroneHouse:
+  category: Dining
+  corrections:
+  - TYRONE_HOUSE
+UBCBookstore:
+  category: Vacation
+  corrections:
+  - UBC_BOOKSTORE
+UBS:
+  category: WorkTravel
+  corrections:
+  - UBS_GE-COINTRIN_586
+  - UBS_GE-COINTRIN_585
+UCSantaBarbara:
+  category: Dining
+  corrections:
+  - Ucsb_Crtyd_Cafe_Q01
+UDistrictBookStore:
+  category: Entertainment
+  corrections:
+  - U_BOOK_STORE
+UHaul:
+  category: WorkTravel
+  corrections:
+  - U-HAUL_CTR
+UNICEF:
+  category: GiftsGiven
+  corrections:
+  - US_FUND_FOR_UNICEF
+USAGasStation:
+  category: Fuel
+  corrections:
+  - USA_GAS_STATION_OF_MID
+USAToday:
+  category: Dining
+  corrections:
+  - USA_TODAY
+USAirway:
+  category: Vacation
+  corrections:
+  - USAIRWAY
+USDepartmentOfEducation:
+  category: Tuition
+  corrections:
+  - USDepartmentOfEducation
+USImmigration:
+  category: Immigration
+  corrections:
+  - USCIS_800
+USOpen:
+  category: Entertainment
+  corrections:
+  - US_OPEN
+USPS:
+  category: General
+  corrections:
+  - Usps_Change
+  - USPS
+USPassport:
+  category: NormalTravel
+  corrections:
+  - PASSPORT NATIONL
+  - Check_#_1221_Passport_Nationl_Payment_Arc_ID:_1900000120
+USTA:
+  category: Entertainment
+  corrections:
+  - Usta-conc
+USTreasury:
+  category: FederalTaxes
+  corrections:
+  - US_TREASURY
+  - US_Treasury_
+  - Tax_Products_
+  - Check_#_1195
+  - Irs_Treas
+  - Tax_Products
+  - IRS_USATAXPYMT
+UWFoodServices:
+  category: WorkTravel
+  corrections:
+  - UW_FOOD_SERVICES
+UWInpatientPharmacy:
+  category: Doctor
+  corrections:
+  - UW_INPATIENT_PHARMACY
+UWMCExpresso:
+  category: Dining
+  corrections:
+  - UWMC_LOBBY_EXPRESSO
+UggStore:
+  category: Clothing
+  corrections:
+  - UGG_STORE
+UglyMugCafe:
+  category: Dining
+  corrections:
+  - UGLY_MUG_CAFE
+Uhaul:
+  category: NormalTravel
+  corrections:
+  - U-haulport-jeff-g
+  - U-haul_Huntington
+  - U-haul-kings-brid
+UncleJimsWormFarm:
+  category: Recreation
+  corrections:
+  - UNCLE_JIMS_WORM_FAR
+UnclePetesPizza:
+  category: Dining
+  corrections:
+  - UNCLE_PETES_PIZZA
+  - Uncle_Petes_Pizza
+UnionFoodCourt:
+  category: WorkTravel
+  corrections:
+  - UNION_FOOD
+UnionJacks:
+  category: WorkTravel
+  corrections:
+  - UNION_JACKS_-_RIO_GAITHERSBURG_MD
+UnionOutTakes:
+  category: WorkTravel
+  corrections:
+  - UNION_OUTTAKES
+UnitedAirlines:
+  category: NormalTravel
+  corrections:
+  - UNITED
+  - United
+UniversityFoodGrill:
+  category: Vacation
+  corrections:
+  - UFOOD_GRILL_BOSTON_MA
+  - Ufood_Grill
+UniversityGrill&Pizza:
+  category: WorkTravel
+  corrections:
+  - UNIVERSITY_GRILL_&_PIZ
+UniversityHardware:
+  category: Furniture
+  corrections:
+  - University_Hardware_
+  - University_Hardware
+UniversityHouseware:
+  category: Furniture
+  corrections:
+  - University_Housewares
+UniversityInn:
+  category: WorkTravel
+  corrections:
+  - UNIVERSITY_INN_SEATTLE_WA
+UniversityOfChicagoMedical:
+  category: Doctor
+  corrections:
+  - UNIVERSITY_OF_CHICAGO
+  - UNIV_CHICAGO_MEDICAL_C
+UniversityOfCinncinnati:
+  category: WorkTravel
+  corrections:
+  - UNIV_CINTI_CONF_WWW
+UniversityOfMaryland:
+  category: Dining
+  corrections:
+  - UNIV_OF_MD_DINING
+UniversityOfMichigan:
+  category: WorkTravel
+  corrections:
+  - US_ATLAS_WORKSHOP_UM
+UniversityOfMinnesota:
+  category: WorkTravel
+  corrections:
+  - U_OF_M_CCE_NONCREDIT
+UniversityOfMinnesotaBookstore:
+  category: WorkTravel
+  corrections:
+  - U_OF_M-EBANK_BOOKSTORE
+UniversityOfOxford:
+  category: WorkTravel
+  corrections:
+  - UNIVERSITY_OXFORD
+UniversityOfUtahWebPayment:
+  category: WorkTravel
+  corrections:
+  - UNIVOFUT_WEB_PAYMNT
+UniversityOfWashingtonTuition:
+  category: Tuition
+  corrections:
+  - UW_TUITION
+  - UW_TUITION_______UNIV_OF_WA
+UniversityTeriyaki:
+  category: Dining
+  corrections:
+  - UNIVERSITY_TERIYAKI
+UniversityofPittsburgh:
+  category: WorkTravel
+  corrections:
+  - ACT*University_of_Pitt
+UnknownCheck:
+  category: Todo
+  corrections:
+  - Check_#_1213
+UnknownDoctor:
+  category: Doctor
+  corrections:
+  - Check_#_1203
+  - Check_#_1183
+UnknownMedical:
+  category: Doctor
+  corrections:
+  - Check_#_1267
+UnknownVacationCheck:
+  category: Vacation
+  corrections:
+  - Check_#_1204
+  - Check_#_1209
+  - Check_#_1158
+  - Check_#_1159
+  - Check_#_1262
+UnknownWorkTravel:
+  category: WorkTravel
+  corrections:
+  - Check_#_1260
+Upkeepers:
+  category: Furniture
+  corrections:
+  - Upkeepers
+UpperCrustJFK:
+  category: WorkTravel
+  corrections:
+  - JFK_UPPER_CRUS
+UrbanLegendBrewery:
+  category: Dining
+  corrections:
+  - URBAN_LEGEND_BREWING
+UrbanTaco:
+  category: Dining
+  corrections:
+  - URBAN_TACO
+UsOpen:
+  category: Entertainment
+  corrections:
+  - Fmi-us_Open_2007
+VX510:
+  category: Fuel
+  corrections:
+  - VX510
+VailSports:
+  category: WorkTravel
+  corrections:
+  - SSV_VAIL_SPORTS_
+ValdostanaLaThuille:
+  category: WorkTravel
+  corrections:
+  - BCC_VALDOSTANA
+Valero:
+  category: Fuel
+  corrections:
+  - HOLBROOK_VALERO
+VbrAustropa:
+  category: WorkTravel
+  corrections:
+  - VBR_AUSTROPA_INTERCONVENT
+VendingAtCocaCola:
+  category: Dining
+  corrections:
+  - VEND_AT_COCA_COLA70Q82
+  - VEND_AT_COCA_COLA47Q82
+Ventra:
+  category: WorkTravel
+  corrections:
+  - Ventra_Vending
+  - VENTRA_VENDING
+VeraBradley:
+  category: Clothing
+  corrections:
+  - VERA_BRADLEY_ECOMMERCE
+  - VERA_BRADLEY
+Verizon:
+  category: Phone
+  corrections:
+  - VERIZON_WIRELESS
+  - VERIZON_WRLS
+  - VERIZON_INTERNET
+  - VERIZON_Internet
+  - Verizon_Wireless
+VictoriasSecret:
+  category: Clothing
+  corrections:
+  - Victoria's_Secret_Cata_
+  - VICTORIA_SECRET
+  - VICTORIA'S_SECRET
+  - Victoria_Secret
+  - AndVICTORIAS_SECRET_0120_LAKE_GROVE_NY
+VillaPizza:
+  category: Dining
+  corrections:
+  - VILLA_PIZZA
+VillageOfRosement:
+  category: Entertainment
+  corrections:
+  - VILLAGE_OF_ROSEMONT
+VillagePontiac:
+  category: Service
+  corrections:
+  - VILLAGE_PONTIAC
+  - Village_Pontiac
+WAPBoston:
+  category: Dining
+  corrections:
+  - WAP_-BAZAAR
+  - WAP_-SAMBURU
+WBEZ:
+  category: Charity
+  corrections:
+  - WBEZ_ALLIANCE
+  - WBEZ
+WHSmith:
+  category: Dining
+  corrections:
+  - WH_SMITH
+WIRE_TRANSFER_DEPOSIT:
+  category: GiftsReceived
+  corrections:
+  - WIRE_TRANSFER_DEPOSIT
+WNYC:
+  category: Charity
+  corrections:
+  - WNYC_RADIO
+  - WNYC_/_WQXR
+  - WNYC/WQXR
+WOOTInc:
+  category: Clothing
+  corrections:
+  - WOOT_INC
+WSHU:
+  category: Charity
+  corrections:
+  - WSHU_RADIO
+WSOutlet:
+  category: Entertainment
+  corrections:
+  - WS_OUTLET_0141
+WSTChildrensSurgical:
+  category: Hospital
+  corrections:
+  - WST_CHILDRENS_SURGICAL
+WYGAND8777:
+  category: Clothing
+  corrections:
+  - WYGAND8777
+WalMart:
+  category: General
+  corrections:
+  - WAL-MART
+  - WALMART_COM
+  - WALMART.COM
+Waldbaums:
+  category: Groceries
+  corrections:
+  - WALDBAUM'S
+  - WALDBAUMS
+Walgreens:
+  category: Medicine
+  corrections:
+  - Walgreens
+  - WALGREEN
+Walmart:
+  category: General
+  corrections:
+  - WM_SUPERCENTER
+WarrensAleHouse:
+  category: Dining
+  corrections:
+  - Warrens_Ale_House
+WashingtonMetroRail:
+  category: WorkTravel
+  corrections:
+  - WASH_METRORAIL
+WashingtonMutualCreditCard:
+  category: CreditCardPayment
+  corrections:
+  - WAMU/PVN_PAYMT_CREDITCARD
+  - WashingtonMutual
+WaterWerks:
+  category: Recreation
+  corrections:
+  - WATER_WERKS_II_INC
+WaterwheelLiquors:
+  category: Vacation
+  corrections:
+  - WATERWHEEL_LIQUORS
+WaverlyLiquors:
+  category: Groceries
+  corrections:
+  - WAVERLY_LIQUORS
+WeBringThe:
+  category: Clothing
+  corrections:
+  - WEBRINGTHET
+Weigels:
+  category: Dining
+  corrections:
+  - WEIGELS
+WellFargoLoan:
+  category: Mortgage
+  corrections:
+  - Wf_Home_Mtg___Auto_Pay
+  - Wf_Home_Mtg_Auto_Pay_PPD_ID
+  - Home_Mtg_Auto_Pay_
+  - WF_HOME_MTG
+Wendys:
+  category: Dining
+  corrections:
+  - Wendy's
+  - Wendys_
+  - WENDYS
+  - WENDY'S
+  - Wendys
+  - Wendy's_
+WestElm:
+  category: Furniture
+  corrections:
+  - WEST_ELM
+WestOneLab:
+  category: Clothing
+  corrections:
+  - WESTONELABO
+WestSuburbanLimo:
+  category: WorkTravel
+  corrections:
+  - W_Suburb_Limo_Sevr
+  - W_SUBURB_LIMO
+Westin:
+  category: WorkTravel
+  corrections:
+  - WESTIN
+WestoneLaboraties:
+  category: Doctor
+  corrections:
+  - WESTONE_LABORATORIES_I
+WestsideMarket:
+  category: Groceries
+  corrections:
+  - Westside_
+  - WESTSIDE_SUP
+  - WESTSIDE_SUPERMARKE
+WexnerCafe:
+  category: Dining
+  corrections:
+  - 96_WEXNER_CAFE
+Wheatstack:
+  category: Dining
+  corrections:
+  - WHEATSTACK
+WhichWich:
+  category: Dining
+  corrections:
+  - WHICH_WICH
+WhistleStop:
+  category: WorkTravel
+  corrections:
+  - WHISTLE_STOP_CA_LAKE_RON
+  - Whistle_Stop_
+WhiteHen:
+  category: Groceries
+  corrections:
+  - WHITE_HEN_PANTRY
+WhiteHouseSubs:
+  category: Dining
+  corrections:
+  - WHITE_HOUSE_SUBS
+  - White_House_Subs
+WholeFoods:
+  category: Groceries
+  corrections:
+  - WHOLE_FOODS
+  - WHOLEFOODS.COM
+  - WHOLEFDS
+  - Whole_Foods
+  - Wholefds
+WikiMedia:
+  category: GiftsGiven
+  corrections:
+  - WIKIMEDIA
+WilcoOil:
+  category: Fuel
+  corrections:
+  - WILCO
+  - Wilco
+WildBirdCenter:
+  category: Entertainment
+  corrections:
+  - Wild_Bird_Center_Of_St
+WildBirdsUnlimited:
+  category: WorkTravel
+  corrections:
+  - WILD_BIRDS_UNLIMITED
+WildByNature:
+  category: Groceries
+  corrections:
+  - WILD_BY_NATURE
+  - Wild_By_Nature_201
+WildOutWest:
+  category: TVInternet
+  corrections:
+  - Wow_
+  - WOW
+  - Wow!
+WilliamAndMary:
+  category: WorkTravel
+  corrections:
+  - William_And_Mary_Confe_7572211478_Va
+WilliamsSonoma:
+  category: Furniture
+  corrections:
+  - WILLIAMS-SONOMA
+  - Williams-sonoma_0003
+  - WilliamsSonona
+WilliamsburgHospitalityHouse:
+  category: WorkTravel
+  corrections:
+  - Williamsbrg_Hsp_House
+  - The_Wlmsburg_Hosp_Hous
+Wings:
+  category: Vacation
+  corrections:
+  - Wings
+  - WINGS_BEACHWEAR_STR_4
+WinterthurMuseum:
+  category: Entertainment
+  corrections:
+  - WINTERTHUR_MUSEUM
+WiscassetClipper:
+  category: Vacation
+  corrections:
+  - Wiscasset_Clipper
+WokAndRoll:
+  category: Dining
+  corrections:
+  - Wok_And_Roll_Of_Newark
+  - C.Y_WOK_&_ROLL_INC
+  - C.Y_WOK_And_ROLL_INC_JAMAICA_NY
+WomenAtRisk:
+  category: Clothing
+  corrections:
+  - WOMEN_AT_RISK
+WorldFamousKaysPizza:
+  category: Dining
+  corrections:
+  - World_Famous_Kay's_Piz
+WorldOfBeer:
+  category: Dining
+  corrections:
+  - WORLD_OF_BEER_NAPERVILLE_IL
+WorldPantry.com:
+  category: Dining
+  corrections:
+  - WORLDPANTRY.COM
+WorldWildlifeFund:
+  category: Charity
+  corrections:
+  - WORLD_WILDLIFE_FUND
+  - World_Wildlife_Fund
+WyndhamGarden:
+  category: WorkTravel
+  corrections:
+  - WYNDHAM_GARDEN_COLLEGE_PA_COLLEGE_PARK_GA
+WyndhamPittsburg:
+  category: WorkTravel
+  corrections:
+  - WYNDHAM_PITT_UNVI_CTR
+YMCA:
+  category: Recreation
+  corrections:
+  - YMCA_CHICAGO
+  - KROEHLER_YMCA
+  - YMCA_OF_METRO_CHICAGO
+YankeeStadium:
+  category: Entertainment
+  corrections:
+  - Yankee_Stadium_Concq02
+YearbookForever:
+  category: MiscSchool
+  corrections:
+  - WWW.WALSWORTH_MO
+YellowCab:
+  category: WorkTravel
+  corrections:
+  - YELLOW_CAB
+YellowCheckerCab:
+  category: WorkTravel
+  corrections:
+  - VTS_YELLOW/CHECKER
+YogurtCrazy:
+  category: Dining
+  corrections:
+  - YOGURT_CRAZY
+YouMeAndTea:
+  category: Dining
+  corrections:
+  - You_Me_And_Tea
+Yoyo.com:
+  category: Clothing
+  corrections:
+  - QI_*YOYO.COM
+ZMarketMaryland:
+  category: Dining
+  corrections:
+  - Z_MARKET_MD-TO10786028
+ZPita:
+  category: Dining
+  corrections:
+  - Z_Pita
+ZanesTavern:
+  category: WorkTravel
+  corrections:
+  - ZANES_TAVERN_
+  - ZANE'S_TAVERN_-_ASPEN
+Zapatista:
+  category: Dining
+  corrections:
+  - ZAPATISTA
+ZapposDevelopment.6pm.com:
+  category: Clothing
+  corrections:
+  - ZAP*ZAPPOS.COM
+  - ZAP*DEV_6PM.COM
+Zaxbys:
+  category: Dining
+  corrections:
+  - ZAXBYS
+ZazuSalon:
+  category: Hair
+  corrections:
+  - ZAZU_SALON
+  - ZAZU_SALON_AND_DAY_SPA
+  - Zazu_Salon
+  - ZAZU_SALON_&_DAY_SPA
+Zazzle.com:
+  category: Clothing
+  corrections:
+  - ZAZZLE.COM
+ZeytinRestaurant:
+  category: Dining
+  corrections:
+  - ZEYTIN_RESTAURANT
+ZocaloGrill:
+  category: Dining
+  corrections:
+  - ZOCALO_GRILL
+Zoup:
+  category: Dining
+  corrections:
+  - ZOUP
+Zulily:
+  category: Clothing
+  corrections:
+  - ZULILY
+iTunes:
+  category: Entertainment
+  corrections:
+  - ITUNES.COM
+  - Itunes.Com
+www.alexandalexa.com:
+  category: Clothing
+  corrections:
+  - WWW.ALEXANDALEXA.COM
+www.asos.com:
+  category: Clothing
+  corrections:
+  - WWW.ASOS.COM
+www.bookworm.com:
+  category: Entertainment
+  corrections:
+  - QI_*BOOKWORM.COM
+www.ebags.com:
+  category: Clothing
+  corrections:
+  - EBags.com
+www.myhabit.com:
+  category: Entertainment
+  corrections:
+  - AMZ*MYHABIT.com
+www.store.motorola.com:
+  category: WorkTravel
+  corrections:
+  - ASI*www.store.motorola
+www.teamfanshop.com:
+  category: Clothing
+  corrections:
+  - TEAMFANSHOP.COM
+www.wiworldstore.com:
+  category: GiftsGiven
+  corrections:
+  - Www.wiworldstore.com

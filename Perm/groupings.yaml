@@ -1,0 +1,751 @@
+############################################################################################
+## Charlie 529 IL
+############################################################################################
+- Charlie529ILInput:
+    - Charlie529ILReceipt: In
+    - Charlie529ILGiftReceipt: In
+    
+- Charlie529ILNet:
+    - Charlie529ILCharges: In
+    - Charlie529ILInterest: In
+    - Charlie529ILOpeningBalance: In
+
+- Charlie529ILOutput:
+    - Charlie529ILPayment: Out
+    
+############################################################################################
+## Claire 529 IL
+############################################################################################
+- Claire529ILInput:
+    - Claire529ILReceipt: In
+    - Claire529ILGiftReceipt: In
+    
+- Claire529ILNet:
+    - Claire529ILCharges: In
+    - Claire529ILInterest: In
+    - Claire529ILOpeningBalance: In
+
+- Claire529ILOutput:
+    - Claire529ILPayment: Out
+
+############################################################################################
+## Claire 529 NY
+############################################################################################
+- Claire529NYInput:
+    - Claire529NYReceipt: In
+    - Claire529NYGiftReceipt: In
+    
+- Claire529NYNet:
+    - Claire529NYCharges: In
+    - Claire529NYInterest: In
+    - Claire529NYOpeningBalance: In
+
+- Claire529NYOutput:
+    - Claire529NYPayment: Out
+
+
+############################################################################################
+## Fidelity FNAL
+############################################################################################
+- FidelityFNALInput:
+    - FidelityFNALContributionReceipt: In
+
+- FidelityFNALNet:
+    - FidelityFNALContribution: In
+    - FidelityFNALCharges: In
+    - FidelityFNALInterest: In
+    - FidelityFNALOpeningBalance: In
+    - FidelityFNALTransfer: In
+
+- FidelityFNALOutput:
+    - FidelityFNALContributionPayment: Out
+
+
+############################################################################################
+## Fidelity OpenData
+############################################################################################
+- FidelityOpenDataInput:
+    - FidelityOpenDataContributionReceipt: In
+
+- FidelityOpenDataNet:
+    - FidelityOpenDataContribution: In
+    - FidelityOpenDataCharges: In
+    - FidelityOpenDataInterest: In
+    - FidelityOpenDataOpeningBalance: In
+    - FidelityOpenDataTransfer: In
+
+- FidelityOpenDataOutput:
+    - FidelityOpenDataContributionPayment: Out
+
+
+############################################################################################
+## Fidelity Ruth
+############################################################################################
+- FidelityRuthInput:
+    - FidelityRuthContributionReceipt: In
+
+- FidelityRuthNet:
+    - FidelityRuthContribution: In
+    - FidelityRuthCharges: In
+    - FidelityRuthInterest: In
+    - FidelityRuthOpeningBalance: In
+    - FidelityRuthTransfer: In
+
+- FidelityRuthOutput:
+    - FidelityRuthContributionPayment: Out
+
+
+############################################################################################
+## TIAA Ruth
+############################################################################################
+- TIAARuthInput:
+    - TIAARuthContributionReceipt: In
+
+- TIAARuthNet:
+    - TIAARuthContribution: In
+    - TIAARuthCharges: In
+    - TIAARuthInterest: In
+    - TIAARuthOpeningBalance: In
+    - TIAARuthTransfer: In
+
+- TIAARuthOutput:
+    - TIAARuthContributionPayment: Out
+
+
+############################################################################################
+## TIAA 401kThomas
+############################################################################################
+- TIAA401kThomasInput:
+    - TIAA401kThomasContributionReceipt: In
+
+- TIAA401kThomasNet:
+    - TIAA401kThomasContribution: In
+    - TIAA401kThomasCharges: In
+    - TIAA401kThomasInterest: In
+    - TIAA401kThomasOpeningBalance: In
+    - TIAA401kThomasTransfer: In
+
+- TIAA401kThomasOutput:
+    - TIAA401kThomasContributionPayment: Out
+
+
+############################################################################################
+## TIAA RetirementThomas
+############################################################################################
+- TIAARetirementThomasInput:
+    - TIAARetirementThomasContributionReceipt: In
+
+- TIAARetirementThomasNet:
+    - TIAARetirementThomasContribution: In
+    - TIAARetirementThomasCharges: In
+    - TIAARetirementThomasInterest: In
+    - TIAARetirementThomasOpeningBalance: In
+    - TIAARetirementThomasTransfer: In
+
+- TIAARetirementThomasOutput:
+    - TIAARetirementThomasContributionPayment: Out
+
+
+############################################################################################
+## TIAA FNALThomas
+############################################################################################
+- TIAAFNALThomasInput:
+    - TIAAFNALThomasContributionReceipt: In
+
+- TIAAFNALThomasNet:
+    - TIAAFNALThomasContribution: In
+    - TIAAFNALThomasCharges: In
+    - TIAAFNALThomasInterest: In
+    - TIAAFNALThomasOpeningBalance: In
+    - TIAAFNALThomasTransfer: In
+
+- TIAAFNALThomasOutput:
+    - TIAAFNALThomasContributionPayment: Out
+
+
+############################################################################################
+## Vanguard Columbia
+############################################################################################
+- VanguardColumbiaInput:
+    - VanguardColumbiaContributionReceipt: In
+
+- VanguardColumbiaNet:
+    - VanguardColumbiaContribution: In
+    - VanguardColumbiaCharges: In
+    - VanguardColumbiaInterest: In
+    - VanguardColumbiaOpeningBalance: In
+    - VanguardColumbiaTransfer: In
+
+- VanguardColumbiaOutput:
+    - VanguardColumbiaContributionPayment: Out
+
+
+############################################################################################
+## Vanguard 401kThomas
+############################################################################################
+- Vanguard401kThomasInput:
+    - Vanguard401kThomasContributionReceipt: In
+
+- Vanguard401kThomasNet:
+    - Vanguard401kThomasContribution: In
+    - Vanguard401kThomasCharges: In
+    - Vanguard401kThomasInterest: In
+    - Vanguard401kThomasOpeningBalance: In
+    - Vanguard401kThomasTransfer: In
+
+- Vanguard401kThomasOutput:
+    - Vanguard401kThomasContributionPayment: Out
+
+
+############################################################################################
+## Vanguard RetirementThomas
+############################################################################################
+- VanguardRetirementThomasInput:
+    - VanguardRetirementThomasContributionReceipt: In
+
+- VanguardRetirementThomasNet:
+    - VanguardRetirementThomasContribution: In
+    - VanguardRetirementThomasCharges: In
+    - VanguardRetirementThomasInterest: In
+    - VanguardRetirementThomasOpeningBalance: In
+    - VanguardRetirementThomasTransfer: In
+
+- VanguardRetirementThomasOutput:
+    - VanguardRetirementThomasContributionPayment: Out
+
+
+############################################################################################
+## Vanguard RothIRAThomas
+############################################################################################
+- VanguardRothIRAThomasInput:
+    - VanguardRothIRAThomasContributionReceipt: In
+
+- VanguardRothIRAThomasNet:
+    - VanguardRothIRAThomasContribution: In
+    - VanguardRothIRAThomasCharges: In
+    - VanguardRothIRAThomasInterest: In
+    - VanguardRothIRAThomasOpeningBalance: In
+    - VanguardRothIRAThomasTransfer: In
+
+- VanguardRothIRAThomasOutput:
+    - VanguardRothIRAThomasContributionPayment: Out
+
+
+############################################################################################
+## Vanguard TradIRAThomas
+############################################################################################
+- VanguardTradIRAThomasInput:
+    - VanguardTradIRAThomasContributionReceipt: In
+
+- VanguardTradIRAThomasNet:
+    - VanguardTradIRAThomasContribution: In
+    - VanguardTradIRAThomasCharges: In
+    - VanguardTradIRAThomasInterest: In
+    - VanguardTradIRAThomasOpeningBalance: In
+    - VanguardTradIRAThomasTransfer: In
+
+- VanguardTradIRAThomasOutput:
+    - VanguardTradIRAThomasContributionPayment: Out
+
+
+############################################################################################
+## Vanguard RetirementRuth
+############################################################################################
+- VanguardRetirementRuthInput:
+    - VanguardRetirementRuthContributionReceipt: In
+
+- VanguardRetirementRuthNet:
+    - VanguardRetirementRuthContribution: In
+    - VanguardRetirementRuthCharges: In
+    - VanguardRetirementRuthInterest: In
+    - VanguardRetirementRuthOpeningBalance: In
+    - VanguardRetirementRuthTransfer: In
+
+- VanguardRetirementRuthOutput:
+    - VanguardRetirementRuthContributionPayment: Out
+
+
+############################################################################################
+## Vanguard RothIRARuth
+############################################################################################
+- VanguardRothIRARuthInput:
+    - VanguardRothIRARuthContributionReceipt: In
+
+- VanguardRothIRARuthNet:
+    - VanguardRothIRARuthContribution: In
+    - VanguardRothIRARuthCharges: In
+    - VanguardRothIRARuthInterest: In
+    - VanguardRothIRARuthOpeningBalance: In
+    - VanguardRothIRARuthTransfer: In
+
+- VanguardRothIRARuthOutput:
+    - VanguardRothIRARuthContributionPayment: Out
+
+
+############################################################################################
+## Vanguard TradIRARuth
+############################################################################################
+- VanguardTradIRARuthInput:
+    - VanguardTradIRARuthContributionReceipt: In
+
+- VanguardTradIRARuthNet:
+    - VanguardTradIRARuthContribution: In
+    - VanguardTradIRARuthCharges: In
+    - VanguardTradIRARuthInterest: In
+    - VanguardTradIRARuthOpeningBalance: In
+    - VanguardTradIRARuthTransfer: In
+
+- VanguardTradIRARuthOutput:
+    - VanguardTradIRARuthContributionPayment: Out
+
+
+############################################################################################
+## HSBC
+############################################################################################
+- HSBCInput:
+    - HSBCContributionReceipt: In
+    - HSBCReceipt: In
+
+- HSBCNet:
+    - HSBCContribution: In
+    - HSBCCharges: In
+    - HSBCInterest: In
+    - HSBCOpeningBalance: In
+    - HSBCTransfer: In
+    - HSBCCorrection: Corr
+
+- HSBCOutput:
+    - HSBCContributionPayment: Out
+    - HSBCPayment: Out
+
+
+############################################################################################
+## ChaseFreedomn
+############################################################################################
+- ChaseFreedomInput:
+    - ChaseFreedomReceipt: In
+
+- ChaseFreedomNet:
+    - ChaseFreedomCharges: In
+    - ChaseFreedomInterest: In
+    - ChaseFreedomOpeningBalance: In
+    - ChaseFreedomTransfer: In
+    - ChaseFreedomCorrection: Corr
+
+- ChaseFreedomOutput:
+    - ChaseFreedomPayment: Out
+
+
+############################################################################################
+## RuthBankAccountn
+############################################################################################
+- RuthBankAccountInput:
+    - RuthBankAccountReceipt: In
+
+- RuthBankAccountNet:
+    - RuthBankAccountCharges: In
+    - RuthBankAccountInterest: In
+    - RuthBankAccountOpeningBalance: In
+    - RuthBankAccountTransfer: In
+    - RuthBankAccountCorrection: Corr
+
+- RuthBankAccountOutput:
+    - RuthBankAccountContributionPayment: Out
+    - RuthBankAccountPayment: Out
+
+    
+############################################################################################
+## Credit Card
+############################################################################################
+- CreditCardInput:
+    - CreditCardReceipt: In
+    - CreditCardMissingReceipt: In
+
+- CreditCardNet:
+    - CreditFee: In
+    - CreditBonus: In
+    - MissingCreditCorrection: Corr
+    - CreditOpeningBalance: In
+
+- CreditCardOutput:
+    - CreditCardPayment: Out
+    - CreditCardMissingPayment: Out
+
+    
+############################################################################################
+## Credit Card
+############################################################################################
+- CreditCardFreedomInput:
+    - CreditCardFreedomReceipt: In
+    - CreditCardFreedomMissingReceipt: In
+
+- CreditCardFreedomNet:
+    - CreditFreedomFee: In
+    - CreditFreedomBonus: In
+    - CreditFreedomOpeningBalance: In
+
+- CreditCardFreedomOutput:
+    - CreditCardFreedomPayment: Out
+    - CreditCardFreedomMissingPayment: Out
+
+
+
+############################################################################################
+## Home Equity
+############################################################################################
+- HomeEquity:
+    - Mortgage: Out
+    - HomeDownPayment: Out
+
+
+############################################################################################
+## Incoming Money
+############################################################################################
+- SalaryRuth:
+    - RuthSalaryBNL: In
+    - RuthSalaryFNAL: In
+    - RuthSalaryExtra: In
+      
+- SalaryThomas:
+    - ThomasSalaryBNL: In
+    - ThomasSalaryFNAL: In
+    - ThomasSalaryColumbia: In
+    - ThomasSalaryOpenData: In
+    - ThomasSalaryKarvy: In
+    - ThomasSalaryAnthem: In
+    - ThomasSalaryExtra: In
+
+- ExtraIncome:
+    - GiftsReceived: In
+    - CreditBonus: In
+    - ChaseOpeningBalance: In
+    - UnknownDeposit: In
+
+
+############################################################################################
+## Outgoing Money
+############################################################################################
+- Housing:
+    - Rent: Out
+    - SecurityDeposit: Out
+
+- Auto:
+    - Registration: Out
+    - Service: Out
+    - CarPayment: Out
+    - License: Out
+    - Fines: Out
+    - Tolls: Out
+    - Fuel: Out
+    - CarInsurance: Out
+    - CarInsuranceBonus: Out
+
+- Utilities:
+    - GasElectric: Out
+    - TVInternet: Out
+    - Phone: Out
+    
+- PersonalMaintenance:
+    - Hair: Out
+    - Clothing: Out
+
+- HouseholdMaintenance:
+    - Furniture: Out
+    - Laundry: Out
+    - HomeRepairs: Out
+    - MovingStorage: Out
+    - General: Out
+      
+- Food:
+    - Alcohol: Out
+    - Groceries: Out
+    - Dining: Out
+    - Coffee: Out
+
+- Education:
+    - MiscSchool: Out
+    - ChildCare: Out
+    - Tuition: Out
+
+- Trips:
+    - NormalTravel: Out
+    - ImportantTravel: Out
+
+- Fun:
+    - Vacation: Out
+    - Entertainment: Out
+    - Recreation: Out
+    
+- Medical:
+    - Medicine: Out
+    - Dental: Out
+    - Doctor: Out
+    - Hospital: Out
+
+- Gifts:
+    - Charity: Out
+    - GiftsGiven: Out
+
+- Taxes:
+    - FederalTaxes: Out
+    - StateTaxes: Out
+    - TaxRefund: In
+    - TaxSoftware: Out
+    
+- Civil:
+    - Immigration: Out
+
+- WorkFermilab:
+    - WorkFermilabReimbursement: In
+    - WorkFermilabSpending: Out
+    
+- WorkBNL:
+    - WorkBNLReimbursement: In
+    - WorkBNLSpending: Out
+    
+- WorkColumbia:
+    - WorkColumbiaReimbursement: In
+    - WorkColumbiaSpending: Out
+    
+- WorkKarvy:
+    - WorkKarvyReimbursement: In
+    - WorkKarvySpending: Out
+    
+- WorkOpenData:
+    - WorkOpenDataReimbursement: In
+    - WorkOpenDataSpending: Out
+    
+- WorkAnthem:
+    - WorkAnthemReimbursement: In
+    - WorkAnthemSpending: Out
+    
+- WorkOther:
+    - WorkGeneral: Out
+    - WorkTravel: Out
+    - WorkReimbursement: In
+
+- Career:
+    - CareerGeneral: Out
+      
+- ExtraFees:
+    - BankCharge: Out
+    - ATMFee: Out
+
+- Divorce:
+    - Lawyer: Out
+    - Government: Out
+
+- Cash:
+    - Cash: Out
+
+- Extra:
+    - Todo: Todo
+    - UnknownExpense: Out
+
+
+############################################################################################
+## Mid-Level Groups
+############################################################################################
+- MidGroupings:
+    - CollegeFundInput:
+        - Charlie529ILInput
+        - Claire529ILInput
+        - Claire529NYInput
+    - CollegeFundOutput:
+        - Charlie529ILOutput
+        - Claire529ILOutput
+        - Claire529NYOutput
+    - CollegeFundNet:
+        - Charlie529ILNet
+        - Claire529ILNet
+        - Claire529NYNet
+        
+    - RetirementThomasInput:
+        - TIAA401kThomasInput
+        - TIAARetirementThomasInput
+        - TIAAFNALThomasInput
+        - FidelityFNALInput
+        - FidelityOpenDataInput
+        - VanguardColumbiaInput
+        - Vanguard401kThomasInput
+        - VanguardRetirementThomasInput
+        - VanguardRothIRAThomasInput
+        - VanguardTradIRAThomasInput
+    - RetirementThomasOutput:
+        - TIAA401kThomasOutput
+        - TIAARetirementThomasOutput
+        - TIAAFNALThomasOutput
+        - FidelityFNALOutput
+        - FidelityOpenDataOutput
+        - VanguardColumbiaOutput
+        - Vanguard401kThomasOutput
+        - VanguardRetirementThomasOutput
+        - VanguardRothIRAThomasOutput
+        - VanguardTradIRAThomasOutput
+    - RetirementThomasNet:
+        - TIAA401kThomasNet
+        - TIAARetirementThomasNet
+        - TIAAFNALThomasNet
+        - FidelityFNALNet
+        - FidelityOpenDataNet
+        - VanguardColumbiaNet
+        - Vanguard401kThomasNet
+        - VanguardRetirementThomasNet
+        - VanguardRothIRAThomasNet
+        - VanguardTradIRAThomasNet
+        
+    - RetirementRuthInput:
+        - TIAARuthInput
+        - FidelityRuthInput
+        - VanguardRetirementRuthInput
+        - VanguardRothIRARuthInput
+        - VanguardTradIRARuthInput
+    - RetirementRuthOutput:
+        - TIAARuthOutput
+        - FidelityRuthOutput
+        - VanguardRetirementRuthOutput
+        - VanguardRothIRARuthOutput
+        - VanguardTradIRARuthOutput
+    - RetirementRuthNet:
+        - TIAARuthNet
+        - FidelityRuthNet
+        - VanguardRetirementRuthNet
+        - VanguardRothIRARuthNet
+        - VanguardTradIRARuthNet
+        
+    - SavingsInput:
+        - HSBCInput
+    - SavingsOutput:
+        - HSBCOutput
+    - SavingsNet:
+        - HSBCNet
+        
+    - FreedomInput:
+        - ChaseFreedomInput
+    - FreedomOutput:
+        - ChaseFreedomOutput
+    - FreedomNet:
+        - ChaseFreedomNet
+        
+    - RuthAccountInput:
+        - RuthBankAccountInput
+    - RuthAccountOutput:
+        - RuthBankAccountOutput
+    - RuthAccountNet:
+        - RuthBankAccountNet
+        
+    - CreditInput:
+        - CreditCardInput
+        - CreditCardFreedomInput
+    - CreditOutput:
+        - CreditCardOutput
+        - CreditCardFreedomOutput
+    - CreditNet:
+        - CreditCardNet
+        - CreditCardFreedomNet
+
+    - HomeEquity:
+        - HomeEquity
+        
+    - SalaryRuth:
+        - SalaryRuth
+    - SalaryThomas:
+        - SalaryThomas
+    - ExtraIncome:
+        - ExtraIncome
+
+    - Work:
+        - WorkFermilab
+        - WorkBNL
+        - WorkColumbia
+        - WorkKarvy
+        - WorkOpenData
+        - WorkAnthem
+        - WorkOther
+        
+    - Taxes:
+        - Taxes
+        - Civil
+
+    - RecurringExpenses:
+        - Auto
+        - Food
+        - Utilities
+        - PersonalMaintenance
+        - Housing
+        - Education
+        - Medical
+    
+    - NonRecurringExpenses:
+        - ExtraFees
+        - Cash
+        - HouseholdMaintenance
+        - Divorce
+        - Gifts
+        - Fun
+        - Trips
+        - Extra
+        - Career
+
+
+############################################################################################
+## Super Groups
+############################################################################################
+- SuperGroupings:
+    - CollegeFundTotal:
+        - CollegeFundInput    
+        - CollegeFundNet
+    - CollegeFundTransfer:
+        - CollegeFundOutput
+
+    - RetirementThomasTotal:
+        - RetirementThomasInput    
+        - RetirementThomasNet
+    - RetirementThomasTransfer:
+        - RetirementThomasOutput
+
+    - RetirementRuthTotal:
+        - RetirementRuthInput    
+        - RetirementRuthNet
+    - RetirementRuthTransfer:
+        - RetirementRuthOutput
+
+    - SavingsTotal:
+        - SavingsInput
+        - SavingsNet
+    - SavingsTransfer:
+        - SavingsOutput
+
+    - CreditTotal:
+        - CreditInput
+        - CreditNet
+    - CreditTransfer:
+        - CreditOutput
+
+    - FreedomTotal:
+        - FreedomInput
+        - FreedomNet
+    - FreedomTransfer:
+        - FreedomOutput
+
+    - RuthAccountTotal:
+        - RuthAccountInput
+        - RuthAccountNet
+    - RuthAccountTransfer:
+        - RuthAccountOutput
+
+    - HomeEquity:
+        - HomeEquity
+
+    - SalaryRuth:
+        - SalaryRuth
+    - SalaryThomas:
+        - SalaryThomas
+    - ExtraIncome:
+        - ExtraIncome
+
+    - Expenses:
+        - RecurringExpenses
+        - NonRecurringExpenses
+        - Work
+        - Taxes

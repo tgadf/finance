@@ -1,0 +1,326 @@
+- Claire529IL:
+    - Claire529ILReceipt: In
+    - Claire529ILGiftReceipt: In
+    - Claire529ILCharges: In
+    - Claire529ILInterest: In
+    - Claire529ILOpeningBalance: In
+      
+- Claire529NY:
+    - Claire529NYReceipt: In
+    - Claire529NYGiftReceipt: In
+    - Claire529NYCharges: In
+    - Claire529NYInterest: In
+    - Claire529NYOpeningBalance: In
+      
+
+- Charlie529IL:
+    - Charlie529ILReceipt: In
+    - Charlie529ILGiftReceipt: In
+    - Charlie529ILCharges: In
+    - Charlie529ILInterest: In
+    - Charlie529ILOpeningBalance: In
+      
+
+- Home:
+    - Mortgage: Out
+    - HomeDownPayment: Out
+      
+- Housing:
+    - Rent: Out
+
+- FidelityFNAL:
+    - FidelityFNALOpeningBalance: In
+    - FidelityFNALContribution: In
+    - FidelityFNALInterest: In
+    - FidelityFNALCharges: In
+    - FidelityFNALTransfer: In
+      
+
+- FidelityOpenData:
+    - FidelityOpenDataOpeningBalance: In
+    - FidelityOpenDataContribution: In
+    - FidelityOpenDataInterest: In
+    - FidelityOpenDataCharges: In
+    - FidelityOpenDataTransfer: In
+
+      
+- TIAA401kThomas:
+    - TIAA401kThomasOpeningBalance: In
+    - TIAA401kThomasInterest: In
+
+      
+- TIAARetirementThomas:
+    - TIAARetirementThomasOpeningBalance: In
+    - TIAARetirementThomasInterest: In
+
+- TIAAFNALThomas:
+    - TIAAFNALThomasOpeningBalance: In
+    - TIAAFNALThomasContribution: In
+    - TIAAFNALThomasInterest: In
+    - TIAAFNALThomasCharges: In
+    - TIAAFNALThomasTransfer: In
+    - TIAAFNALThomasConversion: In
+
+            
+- VanguardColumbia:
+    - VanguardColumbiaOpeningBalance: In
+    - VanguardColumbiaInterest: In
+    - VanguardColumbiaCharges: In
+    - VanguardColumbiaContribution: In
+
+            
+- Vanguard401kThomas:
+    - Vanguard401kThomasOpeningBalance: In
+    - Vanguard401kThomasInterest: In
+    - Vanguard401kThomasCharges: In
+    - Vanguard401kThomasContribution: In
+
+            
+- VanguardRothIRAThomas:
+    - VanguardRothIRAThomasOpeningBalance: In
+    - VanguardRothIRAThomasInterest: In
+    - VanguardRothIRAThomasCharges: In
+    - VanguardRothIRAThomasContributionReceipt: In
+
+
+- VanguardRetirementThomas:
+    - VanguardRetirementThomasOpeningBalance: In
+    - VanguardRetirementThomasInterest: In
+    - VanguardRetirementThomasCharges: In
+    - VanguardRetirementThomasContributionReceipt: In
+
+            
+- VanguardTradIRAThomas:
+    - VanguardTradIRAThomasOpeningBalance: In
+    - VanguardTradIRAThomasInterest: In
+    - VanguardTradIRAThomasCharges: In
+    - VanguardTradIRAThomasContributionReceipt: In
+
+            
+- VanguardRothIRARuth:
+    - VanguardRothIRARuthOpeningBalance: In
+    - VanguardRothIRARuthInterest: In
+    - VanguardRothIRARuthCharges: In
+    - VanguardRothIRARuthContributionReceipt: In
+
+
+- VanguardRetirementRuth:
+    - VanguardRetirementRuthOpeningBalance: In
+    - VanguardRetirementRuthInterest: In
+    - VanguardRetirementRuthCharges: In
+    - VanguardRetirementRuthContributionReceipt: In
+
+            
+- VanguardTradIRARuth:
+    - VanguardTradIRARuthOpeningBalance: In
+    - VanguardTradIRARuthInterest: In
+    - VanguardTradIRARuthCharges: In
+    - VanguardTradIRARuthContributionReceipt: In
+
+
+- CollegeFundTransfer:
+    - Charlie529ILPayment: Out
+    - Claire529ILPayment: Out
+    - Claire529NYPayment: Out
+      
+- SavingsTransfer:
+    - VanguardRetirementRuthContributionPayment: In
+    - VanguardRothIRARuthContributionPayment: In
+    - VanguardTradIRARuthContributionPayment: In
+    - VanguardRetirementThomasContributionPayment: In
+    - VanguardRothIRAThomasContributionPayment: In
+    - VanguardTradIRAThomasContributionPayment: In
+    - Vanguard401kThomasContributionPayment: In
+    - HSBCSavingsPayment: Out
+      
+- HSBCSavings:
+    - HSBCSavingsReceipt: In
+    - HSBCSavingsInterest: In
+    - HSBCOpeningBalance: In
+    - MissingHSBCCorrection: Corr
+    
+
+- SalaryRuth:
+    - RuthSalaryBNL: In
+    - RuthSalaryFNAL: In
+      
+
+- SalaryThomas:
+    - ThomasSalaryBNL: In
+    - ThomasSalaryFNAL: In
+    - ThomasSalaryColumbia: In
+    - ThomasSalaryOpenData: In
+    - ThomasSalaryKarvy: In
+    - ThomasSalaryAnthem: In
+
+- Auto:
+    - Registration: Out
+    - Service: Out
+    - CarPayment: Out
+    - License: Out
+    - Fines: Out
+    - Tolls: Out
+    - Fuel: Out
+    - CarInsurance: Out
+    - CarInsuranceBonus: Out
+
+
+- Household:
+    - SecurityDeposit: Out
+    - GasElectric: Out
+    - MovingStorage: Out
+    - HomeRepairs: Out
+    - General: Out
+    - Hair: Out
+    - Clothing: Out
+    - Phone: Out
+    - TVInternet: Out
+    - Furniture: Out
+    - Laundry: Out
+      
+
+- Food:
+    - Alcohol: Out
+    - Groceries: Out
+    - Dining: Out
+    - Coffee: Out
+
+
+- Education:
+    - MiscSchool: Out
+    - ChildCare: Out
+    - Tuition: Out
+
+- Trips:
+    - NormalTravel: Out
+    - ImportantTravel: Out
+
+- Fun:
+    - Vacation: Out
+    - Entertainment: Out
+    - Recreation: Out
+    
+
+- WorkFermilab:
+    - WorkFermilabReimbursement: In
+    - WorkFermilabSpending: Out
+    
+- WorkBNL:
+    - WorkBNLReimbursement: In
+    - WorkBNLSpending: Out
+    
+- WorkColumbia:
+    - WorkColumbiaReimbursement: In
+    - WorkColumbiaSpending: Out
+    
+- WorkKarvy:
+    - WorkKarvyReimbursement: In
+    - WorkKarvySpending: Out
+    
+- WorkOpenData:
+    - WorkOpenDataReimbursement: In
+    - WorkOpenDataSpending: Out
+    
+- WorkOther:
+    - WorkAnthem: Out
+    - WorkGeneral: Out
+    - WorkTravel: Out
+    - WorkReimbursement: In
+      
+- Medical:
+    - Medicine: Out
+    - Dental: Out
+    - Doctor: Out
+    - Hospital: Out
+
+
+- Gifts:
+    - Charity: Out
+    - GiftsGiven: Out
+
+
+- ExtraIncome:
+    - GiftsReceived: In
+    - CreditBonus: In
+    - ChaseOpeningBalance: In
+    - UnknownDeposit: In
+
+      
+- Taxes:
+    - Taxes: In
+    - TaxRefund: In
+
+      
+- CreditCard:
+    - CreditCardPayment: Out
+    - CreditFee: In
+    - CreditBonus: In
+    - CreditCardReceipt: In
+    - MissingCreditCorrection: Corr
+    - CreditOpeningBalance: In
+      
+
+- ExtraFees:
+    - BankCharge: Out
+    - ATMFee: Out
+
+- Cash:
+    - Cash: Out
+
+- Extra:
+    - Todo: Todo
+    - UnknownExpense: Out
+
+
+- SuperGroupings:
+    - Expenses:
+        - Housing
+        - ExtraFees
+        - Education
+        - Cash
+        - Auto
+        - Taxes
+        - Medical
+        - Gifts
+        - Fun
+        - Trips
+        - Food
+        - Extra
+        - CreditCard
+        - Household
+    - Transfers:
+        - CollegeFundTransfer
+        - SavingsTransfer
+    - Work:
+        - WorkOther
+        - WorkKarvy
+        - WorkOpenData
+        - WorkColumbia
+        - WorkBNL
+        - WorkFermilab
+    - ExtraIncome:
+        - ExtraIncome        
+    - Income:
+        - SalaryRuth
+        - SalaryThomas
+    - HomeEquity:
+        - Home
+    - CollegeFund:
+        - Charlie529IL
+        - Claire529IL
+        - Claire529NY
+    - Savings:
+        - TIAA401kThomas
+        - TIAARetirementThomas
+        - TIAAFNALThomas
+        - FidelityFNAL
+        - FidelityOpenData
+        - Vanguard401kThomas
+        - VanguardColumbia
+        - VanguardTradIRAThomas
+        - VanguardRothIRAThomas
+        - VanguardRetirementThomas
+        - VanguardTradIRARuth
+        - VanguardRothIRARuth
+        - VanguardRetirementRuth
+        - HSBCSavings

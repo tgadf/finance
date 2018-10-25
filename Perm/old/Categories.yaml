@@ -1,0 +1,200 @@
+- Auto:
+    - Registration: Exp
+    - Service: Exp
+    - CarPayment: Exp
+    - License: Exp
+    - Fines: Exp
+    - Tolls: Exp
+    - Fuel: Exp
+    - CarInsurance: Exp
+    - CarInsuranceBonus: Exp
+
+
+- Education:
+    - Claire529ILOpeningBalance: Sav
+    - Claire529NYOpeningBalance: Sav
+    - Charlie529ILOpeningBalance: Sav
+    - Claire529NYInterest: Sav
+    - Claire529ILInterest: Sav
+    - Charlie529ILInterest: Sav
+    - Claire529NYPayment: Sav
+    - Claire529ILPayment: Sav
+    - Charlie529ILPayment: Sav
+    - Claire529NYReceipt: Sav
+    - Claire529ILReceipt: Sav
+    - Charlie529ILReceipt: Sav
+    - Claire529NYGiftReceipt: Sav
+    - Claire529ILGiftReceipt: Sav
+    - Charlie529ILGiftReceipt: Sav
+    - Claire529ILCharges: Sav
+    - Claire529NYCharges: Sav
+    - Charlie529ILCharges: Sav
+    - MiscSchool: Exp
+    - Tuition: Exp
+    - ChildCare: Exp
+    
+- Home:
+    - SecurityDeposit: Exp
+    - GasElectric: Exp
+    - MovingStorage: Exp
+    - Rent: Exp
+    - Mortgage: Home
+    - HomeRepairs: Home
+    - HomeDownPayment: Home
+
+- HSBC:
+    - HSBCOpeningBalance: Sav
+    - HSBCSavingsPayment: Sav
+    - HSBCSavingsReceipt: Sav
+    - HSBCSavingsInterest: Sav
+    - MissingHSBCCorrection: Corr
+      
+- Salary:
+    - RuthSalaryBNL: Inc
+    - ThomasSalaryBNL: Inc
+    - RuthSalaryFNAL: Inc
+    - ThomasSalaryFNAL: Inc
+    - ThomasSalaryColumbia: Inc
+    - ThomasSalaryOpenData: Inc
+    - ThomasSalaryKarvy: Inc
+    - ThomasSalaryAnthem: Inc
+
+- RetirementSavings:
+    - VanguardColumbiaContribution: Sav
+    - VanguardColumbiaContributionPayment: Sav
+    - Vanguard401kThomasContribution: Sav
+    - Vanguard401kThomasContributionPayment: Sav
+    - VanguardRuthContributionPayment: Sav
+    - VanguardRuthContributionReceipt: Sav
+    - VanguardTraditionalRuthContributionPayment: Sav
+    - VanguardTraditionalRuthContributionReceipt: Sav
+    - VanguardTraditionalThomasContributionReceipt: Sav
+    - VanguardTraditionalThomasContributionPayment: Sav
+    - VanguardRetirementThomasContributionPayment: Sav
+    - VanguardRetirementThomasContributionReceipt: Sav
+    - VanguardRothIRAThomasContributionPayment: Sav
+    - VanguardRothIRAThomasContributionReceipt: Sav
+      
+- RetirementBonus:
+    - VanguardColumbiaOpeningBalance: Sav
+    - VanguardColumbiaInterest: Sav
+    - VanguardColumbiaCharges: Sav
+    - Vanguard401kThomasOpeningBalance: Sav
+    - Vanguard401kThomasInterest: Sav
+    - Vanguard401kThomasCharges: Sav
+    - VanguardRothIRAThomasOpeningBalance: Sav
+    - VanguardRothIRAThomasInterest: Sav
+    - VanguardRothIRAThomasCharges: Sav
+    - VanguardRetirementThomasOpeningBalance: Sav
+    - VanguardRetirementThomasInterest: Sav
+    - VanguardRetirementThomasCharges: Sav
+    - VanguardRothIRARuthOpeningBalance: Sav
+    - VanguardRothIRARuthInterest: Sav
+    - VanguardRothIRARuthCharges: Sav
+    - VanguardRetirementRuthOpeningBalance: Sav
+    - VanguardRetirementRuthInterest: Sav
+    - VanguardRetirementRuthCharges: Sav
+    - VanguardTradIRAThomasOpeningBalance: Sav
+    - VanguardTradIRAThomasInterest: Sav
+    - VanguardTradIRAThomasCharges: Sav
+    - VanguardTradIRARuthOpeningBalance: Sav
+    - VanguardTradIRARuthInterest: Sav
+    - VanguardTradIRARuthCharges: Sav
+    - FidelityOpenDataOpeningBalance: Sav
+    - FidelityOpenDataInterest: Sav
+    - FidelityOpenDataCharges: Sav
+    - FidelityOpenDataTransfer: Sav
+    - FidelityFNALOpeningBalance: Sav
+    - FidelityFNALInterest: Sav
+    - FidelityFNALCharges: Sav
+    - FidelityFNALTransfer: Sav
+    - TIAARuthOpeningBalance: Sav
+    - TIAARuthInterest: Sav
+    - TIAARuthContribution: Sav
+    - FidelityRuthOpeningBalance: Sav
+    - FidelityRuthInterest: Sav
+    - FidelityRuthContribution: Sav
+    - TIAAFNALThomasOpeningBalance: Sav
+    - TIAAFNALThomasContribution: Sav
+    - TIAAFNALThomasTransfer: Sav
+    - TIAAFNALThomasInterest: Sav
+    - TIAAFNALThomasCharges: Sav
+    - TIAAFNALThomasConversion: Sav
+    - TIAA401kThomasOpeningBalance: Sav
+    - TIAA401kThomasInterest: Sav
+    - TIAARetirementThomasOpeningBalance: Sav
+    - TIAARetirementThomasInterest: Sav
+    
+- Taxes:
+    - Taxes: Exp
+    - TaxRefund: Inc
+    
+- Household:
+    - General: Exp
+    - Hair: Exp
+    - Clothing: Exp
+    - Phone: Exp
+    - TVInternet: Exp
+    - Furniture: Exp
+    - Laundry: Exp
+    
+- Food:
+    - Alcohol: Exp
+    - Groceries: Exp
+    - Dining: Exp
+    - Coffee: Exp
+
+- Trips:
+    - NormalTravel: Exp
+    - ImportantTravel: Exp
+    
+- Fun:
+    - Vacation: Exp
+    - Entertainment: Exp
+    - Recreation: Exp
+    
+- Work:
+    - WorkFermilabReimbursement: Inc
+    - WorkFermilabSpending: Exp
+    - WorkBNLReimbursement: Inc
+    - WorkBNLSpending: Exp
+    - WorkColumbiaReimbursement: Inc
+    - WorkColumbiaSpending: Exp
+    - WorkKarvyReimbursement: Inc
+    - WorkKarvySpending: Exp
+    - WorkOpenDataReimbursement: Inc
+    - WorkOpenDataSpending: Exp
+    - WorkAnthem: Exp
+    - WorkGeneral: Exp
+    - WorkTravel: Exp
+    - WorkReimbursement: Inc
+
+- Medical:
+    - Medicine: Exp
+    - Dental: Exp
+    - Doctor: Exp
+    - Hospital: Exp
+    
+- Gifts:
+    - Charity: Exp
+    - GiftsGiven: Exp
+    - GiftsReceived: Inc
+    
+- Credit:
+    - CreditOpeningBalance: Exp
+    - CreditCardReceipt: Exp
+    - CreditCardPayment: Exp
+    - CreditFee: Exp
+    - CreditBonus: Exp
+    - MissingCreditCorrection: Corr
+    
+- Bank:
+    - ChaseOpeningBalance: Inc
+    - BankCharge: Exp
+    - ATMFee: Exp
+    
+- Random:
+    - Cash: Exp
+    - UnknownDeposit: Inc
+    - UnknownExpense: Exp
+    - Todo: Exp
